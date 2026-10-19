@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14171c" media="(prefers-color-scheme: dark)">
+<meta name="description" content="Strategy consulting and corporate strategy offers for Tino, refreshed every day and every week.">
+<title>Recherche Tino</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Recherche Tino">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  --bg:#f4f1ea; --surface:#fffefb; --sunk:#ebe6dc; --fg:#1b1e24; --muted:#6a675f; --line:#e0dacd;
+  --ink:#1f3a5f; --ink-soft:#e2e8f0; --copper:#a4532a; --copper-soft:#f4e2d7; --green:#3e6b4a; --green-soft:#e1ecdf; --amber:#8a6514; --amber-soft:#f3e8cc;
+  --font-display:"Instrument Serif", Georgia, serif;
+  --font-body:"Inter Tight", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --r:16px; --pill:999px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#14171c; --surface:#1c2027; --sunk:#232831; --fg:#ece8df; --muted:#9d988d; --line:#2e343e;
+    --ink:#9cb8de; --ink-soft:#24324a; --copper:#e39469; --copper-soft:#3a2a22; --green:#8fc29d; --green-soft:#1f3326; --amber:#e0bf6a; --amber-soft:#3a3220;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#14171c; --surface:#1c2027; --sunk:#232831; --fg:#ece8df; --muted:#9d988d; --line:#2e343e;
+  --ink:#9cb8de; --ink-soft:#24324a; --copper:#e39469; --copper-soft:#3a2a22; --green:#8fc29d; --green-soft:#1f3326; --amber:#e0bf6a; --amber-soft:#3a3220;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--font-body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+[hidden]{display:none!important}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--ink);outline-offset:2px;border-radius:6px}
+.wrap{max-width:1100px;margin:0 auto;padding:env(safe-area-inset-top,0) 16px calc(80px + env(safe-area-inset-bottom,0))}
+@media (min-width:700px){.wrap{padding-inline:28px}}
+
+.bar{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-block:20px;border-bottom:1px solid var(--line)}
+.brand{font-family:var(--font-display);font-size:24px;letter-spacing:-.01em}
+.brand i{color:var(--copper)}
+.upd{font-size:12.5px;color:var(--muted);text-align:right;line-height:1.4}
+
+.hero{padding-block:40px 28px;display:grid;gap:14px;max-width:780px}
+.kicker{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--copper)}
+h1{font-family:var(--font-display);font-weight:400;font-size:clamp(38px,6vw,64px);line-height:1.02;letter-spacing:-.015em;margin:0;text-wrap:balance}
+h1 em{color:var(--ink)}
+.lead{font-size:16.5px;color:var(--muted);margin:0;max-width:62ch}
+.prefs{display:flex;flex-wrap:wrap;gap:8px;margin-top:4px}
+.pref{font-size:12.5px;padding:5px 11px;border-radius:var(--pill);background:var(--surface);border:1px solid var(--line)}
+.pref b{font-weight:600;color:var(--ink)}
+
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin-bottom:22px}
+.stat{background:var(--surface);padding:14px 16px;min-width:0}
+.stat .n{font-family:var(--font-display);font-size:34px;line-height:1}
+.stat .l{font-size:12.5px;color:var(--muted);margin-top:4px}
+@media (max-width:600px){.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+.panel{border-radius:var(--r);background:var(--sunk);padding:20px;margin-bottom:18px}
+.panel h2{font-family:var(--font-display);font-weight:400;font-size:24px;margin:0 0 12px;line-height:1.15}
+.soon-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px}
+.soon-item{display:grid;gap:3px;padding:12px 14px;border-radius:12px;background:var(--surface);text-decoration:none;min-width:0;border:1px solid transparent}
+.soon-item:hover{border-color:var(--line)}
+.when{font-size:12px;font-weight:700;color:var(--copper)}
+.when.later{color:var(--amber)}
+.soon-item .t{font-weight:600;font-size:14px;line-height:1.35;overflow-wrap:anywhere}
+.soon-item .o{font-size:12.5px;color:var(--muted)}
+.digest ul{margin:0;padding-left:18px;display:grid;gap:6px}
+.digest .meta{font-size:12.5px;color:var(--muted);margin:-6px 0 10px}
+.digest details{margin-top:10px;font-size:14px}
+.digest summary{cursor:pointer;color:var(--ink);font-weight:600}
+
+.tabs{display:flex;gap:4px;overflow-x:auto;padding-block:8px 14px;position:sticky;top:0;background:var(--bg);z-index:5;scrollbar-width:none}
+.tab{border:1px solid var(--line);background:var(--surface);padding:8px 14px;border-radius:var(--pill);font-weight:600;font-size:14px;cursor:pointer;white-space:nowrap}
+.tab[aria-selected="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.tab .c{opacity:.65;font-weight:500;margin-left:4px}
+
+.tools{display:grid;gap:10px;margin-bottom:16px}
+.search{width:100%;padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--surface);font:inherit;color:var(--fg)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chips .lab{font-size:12px;color:var(--muted);font-weight:600;text-transform:uppercase;letter-spacing:.08em;margin-right:4px;min-width:64px}
+.chip{border:1px solid var(--line);background:var(--surface);padding:5px 11px;border-radius:var(--pill);font-size:13px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink-soft);border-color:var(--ink);color:var(--ink);font-weight:600}
+.row{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;align-items:center}
+select{font:inherit;font-size:13px;padding:6px 10px;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+.count{font-size:13px;color:var(--muted)}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px}
+@media (max-width:400px){.grid{grid-template-columns:1fr}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;display:grid;gap:8px;align-content:start;min-width:0}
+.card.applied{border-color:var(--green)}
+.card .top{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.org{font-size:12.5px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.card h3{margin:0;font-size:16.5px;line-height:1.3;font-weight:600;overflow-wrap:anywhere}
+.badges{display:flex;flex-wrap:wrap;gap:5px}
+.b{font-size:12px;padding:2px 9px;border-radius:var(--pill);background:var(--sunk);white-space:nowrap}
+.b.ct{background:var(--ink-soft);color:var(--ink);font-weight:600}
+.b.new{background:var(--copper-soft);color:var(--copper);font-weight:700}
+.b.dl{background:var(--amber-soft);color:var(--amber);font-weight:600}
+.b.urgent{background:var(--copper);color:var(--surface)}
+.sum{margin:0;font-size:14px}
+.fit{margin:0;font-size:13.5px;background:var(--green-soft);color:var(--fg);padding:8px 10px;border-radius:10px}
+.fit b{color:var(--green)}
+.note{margin:0;font-size:13px;color:var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px;align-items:center}
+.btn{border:1px solid var(--line);background:var(--surface);padding:6px 12px;border-radius:var(--pill);font-size:13px;font-weight:600;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:5px}
+.btn.primary{background:var(--ink);border-color:var(--ink);color:var(--bg)}
+.btn[aria-pressed="true"]{background:var(--green-soft);border-color:var(--green);color:var(--green)}
+.btn.star[aria-pressed="true"]{background:var(--amber-soft);border-color:var(--amber);color:var(--amber)}
+.src{font-size:12px;color:var(--muted);margin-left:auto}
+
+table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;font-size:14px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);background:var(--sunk)}
+tr:last-child td{border-bottom:0}
+.st{font-size:12px;font-weight:700;padding:2px 9px;border-radius:var(--pill);white-space:nowrap}
+.st.Open{background:var(--green-soft);color:var(--green)}
+.st.Rolling{background:var(--ink-soft);color:var(--ink)}
+.st.Closed{background:var(--sunk);color:var(--muted)}
+.st.Not{background:var(--amber-soft);color:var(--amber)}
+.tablewrap{overflow-x:auto}
+@media (max-width:640px){
+  table,thead,tbody,tr,td{display:block}
+  thead{display:none}
+  tr{border-bottom:1px solid var(--line);padding:10px 12px}
+  td{border:0;padding:2px 0}
+}
+.cat{font-size:12px;font-weight:700;color:var(--copper);text-transform:uppercase;letter-spacing:.08em}
+.empty{padding:30px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:var(--r)}
+footer{margin-top:40px;font-size:12.5px;color:var(--muted);border-top:1px solid var(--line);padding-top:16px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.theme{border:1px solid var(--line);background:var(--surface);border-radius:var(--pill);padding:4px 10px;font-size:12.5px;cursor:pointer}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="bar">
+    <div class="brand">Recherche <i>Tino</i></div>
+    <div class="upd" id="upd">Loading…</div>
+  </header>
+
+  <section class="hero">
+    <div class="kicker">Strategy job watch · refreshed every morning</div>
+    <h1>Every strategy role worth your <em>next move</em>.</h1>
+    <p class="lead">Consulting and corporate strategy offers matched to your SKEMA Master, your Singapore internship and your sectors. New offers land every day; deadlines, a weekly digest and new ideas every Monday.</p>
+    <div class="prefs">
+      <span class="pref"><b>Where</b> Paris → Europe → world</span>
+      <span class="pref"><b>Contracts</b> Internship · Graduate · CDI/CDD · VIE</span>
+      <span class="pref"><b>Employers</b> MBB · Tier 2 · Big4 strategy · Corporate strategy</span>
+      <span class="pref"><b>Sectors</b> Energy · Automotive · Luxury</span>
+    </div>
+  </section>
+
+  <div class="stats" id="stats"></div>
+  <section class="panel" id="soonPanel" hidden><h2>Closing soon</h2><div class="soon-list" id="soon"></div></section>
+  <section class="panel digest" id="digest" hidden></section>
+
+  <nav class="tabs" role="tablist" id="tabs">
+    <button class="tab" role="tab" data-tab="offers" aria-selected="true">Offers<span class="c" id="c-offers"></span></button>
+    <button class="tab" role="tab" data-tab="calendar" aria-selected="false">Deadlines<span class="c" id="c-calendar"></span></button>
+    <button class="tab" role="tab" data-tab="discover" aria-selected="false">Discover<span class="c" id="c-discover"></span></button>
+    <button class="tab" role="tab" data-tab="mine" aria-selected="false">My list<span class="c" id="c-mine"></span></button>
+  </nav>
+
+  <section id="p-offers">
+    <div class="tools">
+      <input class="search" id="q" type="search" placeholder="Search a firm, a sector, a city…" aria-label="Search offers">
+      <div class="chips" id="f-contract"><span class="lab">Contract</span></div>
+      <div class="chips" id="f-zone"><span class="lab">Where</span></div>
+      <div class="chips" id="f-type"><span class="lab">Employer</span></div>
+      <div class="row">
+        <label class="chips" style="gap:8px"><input type="checkbox" id="onlyNew"> <span style="font-size:13px">Only new in the last 48h</span></label>
+        <div style="display:flex;gap:8px;align-items:center"><span class="count" id="count"></span>
+          <select id="sort" aria-label="Sort"><option value="fit">Paris first</option><option value="new">Newest</option><option value="deadline">Deadline</option></select></div>
+      </div>
+    </div>
+    <div class="grid" id="offers"></div>
+  </section>
+
+  <section id="p-calendar" hidden>
+    <p class="note" style="margin-bottom:12px">Recruitment campaigns firm by firm, so you know what is open, what has closed and what to prepare for. Updated every Monday.</p>
+    <div class="tablewrap"><table><thead><tr><th>Firm</th><th>Programme</th><th>Where</th><th>Status</th><th>Deadline</th></tr></thead><tbody id="cal"></tbody></table></div>
+  </section>
+
+  <section id="p-discover" hidden>
+    <p class="note" style="margin-bottom:12px">Roles, employer types and programmes you might not search for yourself, picked for your profile. New ideas every Monday.</p>
+    <div class="grid" id="disc"></div>
+  </section>
+
+  <section id="p-mine" hidden>
+    <p class="note" style="margin-bottom:12px">Offers you saved or marked as applied. Stored in this browser only.</p>
+    <div class="grid" id="mine"></div>
+  </section>
+
+  <footer>
+    <span>Offers are found and checked by a scheduled Claude task. Always confirm details on the employer's page.</span>
+    <button class="theme" id="theme">Theme: auto</button>
+  </footer>
+</div>
+<script>
+(function(){
+  "use strict";
+  var ZONES=["Paris / Île-de-France","France (other)","UK / London","Europe","Asia","Rest of world","Remote"];
+  var CONTRACTS=["Internship","Graduate programme","CDI","CDD","VIE"];
+  var TYPES=["Strategy consulting – MBB","Strategy consulting – Tier 2","Big4 strategy arm","Corporate strategy","Internal consulting"];
+  var state={jobs:[],calendar:[],discover:[],digest:[],meta:{},f:{contract:new Set(),zone:new Set(),type:new Set()},q:"",onlyNew:false,sort:"fit",tab:"offers"};
+  var store={};
+  function load(){try{store=JSON.parse(localStorage.getItem("rt-status")||"{}")||{}}catch(e){store={}}}
+  function save(){try{localStorage.setItem("rt-status",JSON.stringify(store))}catch(e){}}
+  function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+  function today(){var d=new Date();d.setHours(0,0,0,0);return d}
+  function daysTo(iso){if(!iso)return null;var d=new Date(iso+"T23:59:59");return Math.ceil((d-today())/86400000)-1}
+  function fmtDate(iso){if(!iso)return"";var d=new Date(iso+"T12:00:00");return d.toLocaleDateString("en-GB",{day:"numeric",month:"short",year:d.getFullYear()!==new Date().getFullYear()?"numeric":undefined})}
+  function fmtStamp(iso){if(!iso)return"—";var d=new Date(iso);return d.toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short"})+" "+d.toLocaleTimeString("en-GB",{hour:"2-digit",minute:"2-digit"})}
+  function isNew(j){return j.addedAt&&(Date.now()-new Date(j.addedAt))<48*3600000}
+  function open(j){var d=daysTo(j.deadline);return d===null||d>=0}
+
+  function get(name){return fetch("data/"+name+".json?v="+Date.now()).then(function(r){return r.ok?r.json():(name==="meta"?{}:[])}).catch(function(){return name==="meta"?{}:[]})}
+
+  function chips(id,list,key){
+    var el=document.getElementById(id);
+    list.forEach(function(v){var b=document.createElement("button");b.className="chip";b.textContent=v;b.setAttribute("aria-pressed","false");
+      b.onclick=function(){var s=state.f[key];if(s.has(v))s.delete(v);else s.add(v);b.setAttribute("aria-pressed",s.has(v));render()};el.appendChild(b)});
+  }
+
+  function card(j){
+    var st=store[j.id]||{};var d=daysTo(j.deadline);
+    var dl=j.deadline?'<span class="b dl'+(d!==null&&d<=7?" urgent":"")+'">'+(d===0?"Closes today":d===1?"Closes tomorrow":"Closes "+fmtDate(j.deadline))+'</span>':(j.deadlineNote?'<span class="b">'+esc(j.deadlineNote)+'</span>':"");
+    return '<article class="card'+(st.applied?" applied":"")+'" data-id="'+esc(j.id)+'">'+
+      '<div class="top"><div class="org">'+esc(j.org)+'</div>'+(isNew(j)?'<span class="b new">New</span>':"")+'</div>'+
+      '<h3>'+esc(j.title)+'</h3>'+
+      '<div class="badges"><span class="b ct">'+esc(j.contract)+'</span><span class="b">'+esc(j.location)+'</span>'+(j.sector?'<span class="b">'+esc(j.sector)+'</span>':"")+(j.start?'<span class="b">Start: '+esc(j.start)+'</span>':"")+dl+'</div>'+
+      (j.summary?'<p class="sum">'+esc(j.summary)+'</p>':"")+
+      (j.fit?'<p class="fit"><b>Why you:</b> '+esc(j.fit)+'</p>':"")+
+      (j.note?'<p class="note">⚠︎ '+esc(j.note)+'</p>':"")+
+      '<div class="actions"><a class="btn primary" href="'+esc(j.url)+'" target="_blank" rel="noopener">Open offer ↗</a>'+
+      '<button class="btn star" data-act="saved" aria-pressed="'+!!st.saved+'">'+(st.saved?"★ Saved":"☆ Save")+'</button>'+
+      '<button class="btn" data-act="applied" aria-pressed="'+!!st.applied+'">'+(st.applied?"✓ Applied":"Mark applied")+'</button>'+
+      '<span class="src">'+esc(j.orgType||"")+(j.source?" · via "+esc(j.source):"")+'</span></div></article>';
+  }
+
+  function filtered(){
+    var q=state.q.toLowerCase().trim();
+    var list=state.jobs.filter(function(j){
+      if(!open(j))return false;
+      if((store[j.id]||{}).hidden)return false;
+      if(state.f.contract.size&&!state.f.contract.has(j.contract))return false;
+      if(state.f.zone.size&&!state.f.zone.has(j.zone))return false;
+      if(state.f.type.size&&!state.f.type.has(j.orgType))return false;
+      if(state.onlyNew&&!isNew(j))return false;
+      if(q){var hay=[j.title,j.org,j.location,j.summary,j.sector,j.orgType,j.contract].join(" ").toLowerCase();if(hay.indexOf(q)<0)return false}
+      return true});
+    var zi=function(z){var i=ZONES.indexOf(z);return i<0?99:i};
+    list.sort(function(a,b){
+      if(state.sort==="new")return (b.addedAt||"").localeCompare(a.addedAt||"");
+      if(state.sort==="deadline"){var da=a.deadline||"9999",db=b.deadline||"9999";return da.localeCompare(db)}
+      return zi(a.zone)-zi(b.zone)||(b.addedAt||"").localeCompare(a.addedAt||"")});
+    return list;
+  }
+
+  function render(){
+    var list=filtered();
+    document.getElementById("offers").innerHTML=list.length?list.map(card).join(""):'<div class="empty">No offer matches these filters.</div>';
+    document.getElementById("count").textContent=list.length+" offer"+(list.length===1?"":"s");
+    var openJobs=state.jobs.filter(open);
+    document.getElementById("c-offers").textContent=openJobs.length;
+    var mine=state.jobs.filter(function(j){var s=store[j.id]||{};return s.saved||s.applied});
+    document.getElementById("c-mine").textContent=mine.length||"";
+    document.getElementById("mine").innerHTML=mine.length?mine.map(card).join(""):'<div class="empty">Save an offer with ☆ and it will show up here.</div>';
+    stats(openJobs);
+  }
+
+  function stats(openJobs){
+    var newN=openJobs.filter(isNew).length;
+    var soonN=openJobs.filter(function(j){var d=daysTo(j.deadline);return d!==null&&d<=14}).length;
+    var applied=Object.keys(store).filter(function(k){return store[k].applied}).length;
+    document.getElementById("stats").innerHTML=[[openJobs.length,"open offers"],[newN,"new in 48h"],[soonN,"closing in 14 days"],[applied,"marked applied"]]
+      .map(function(s){return '<div class="stat"><div class="n">'+s[0]+'</div><div class="l">'+s[1]+'</div></div>'}).join("");
+  }
+
+  function renderSoon(){
+    var items=state.jobs.filter(function(j){var d=daysTo(j.deadline);return d!==null&&d>=0&&d<=21}).map(function(j){return {t:j.title,o:j.org,d:j.deadline,u:j.url}});
+    state.calendar.forEach(function(c){var d=daysTo(c.deadline);if(d!==null&&d>=0&&d<=21&&!items.some(function(i){return i.d===c.deadline&&(i.o.split(/[\s(]/)[0].toLowerCase()===c.org.split(/[\s(]/)[0].toLowerCase())}))items.push({t:c.programme,o:c.org,d:c.deadline,u:c.url})});
+    items.sort(function(a,b){return a.d.localeCompare(b.d)});
+    if(!items.length)return;
+    document.getElementById("soonPanel").hidden=false;
+    document.getElementById("soon").innerHTML=items.slice(0,8).map(function(i){var d=daysTo(i.d);
+      return '<a class="soon-item" href="'+esc(i.u)+'" target="_blank" rel="noopener"><span class="when'+(d>7?" later":"")+'">'+(d===0?"Today":d===1?"Tomorrow":"In "+d+" days · "+fmtDate(i.d))+'</span><span class="t">'+esc(i.t)+'</span><span class="o">'+esc(i.o)+'</span></a>'}).join("");
+  }
+
+  function renderDigest(){
+    if(!state.digest.length)return;
+    var list=state.digest.slice().sort(function(a,b){return b.week.localeCompare(a.week)});
+    var w=list[0];var el=document.getElementById("digest");el.hidden=false;
+    el.innerHTML='<h2>This week · '+esc(w.headline)+'</h2><p class="meta">Week of '+fmtDate(w.week)+'</p><ul>'+(w.highlights||[]).map(function(h){return"<li>"+esc(h)+"</li>"}).join("")+'</ul>'+
+      (list.length>1?'<details><summary>Previous weeks</summary>'+list.slice(1,9).map(function(p){return '<p><b>'+fmtDate(p.week)+'</b> · '+esc(p.headline)+'</p>'}).join("")+'</details>':"");
+  }
+
+  function renderCal(){
+    var order={"Open":0,"Rolling":1,"Not open yet":2,"Closed":3};
+    var rows=state.calendar.slice().sort(function(a,b){return (order[a.status]??9)-(order[b.status]??9)||(a.deadline||"9999").localeCompare(b.deadline||"9999")});
+    document.getElementById("c-calendar").textContent=rows.filter(function(r){return r.status==="Open"||r.status==="Rolling"}).length;
+    document.getElementById("cal").innerHTML=rows.map(function(r){return '<tr><td><b>'+esc(r.org)+'</b></td><td>'+(r.url?'<a href="'+esc(r.url)+'" target="_blank" rel="noopener">'+esc(r.programme)+'</a>':esc(r.programme))+(r.note?'<div class="note">'+esc(r.note)+'</div>':"")+'</td><td>'+esc(r.zone)+'</td><td><span class="st '+esc((r.status||"").split(" ")[0])+'">'+esc(r.status)+'</span></td><td>'+(r.deadline?fmtDate(r.deadline):esc(r.deadlineNote||"—"))+'</td></tr>'}).join("");
+  }
+
+  function renderDisc(){
+    var list=state.discover.slice().sort(function(a,b){return (b.addedAt||"").localeCompare(a.addedAt||"")});
+    document.getElementById("c-discover").textContent=list.length;
+    document.getElementById("disc").innerHTML=list.map(function(d){return '<article class="card"><div class="top"><span class="cat">'+esc(d.category)+'</span>'+(isNew(d)?'<span class="b new">New</span>':"")+'</div><h3>'+esc(d.title)+'</h3><p class="sum">'+esc(d.why)+'</p>'+(d.examples?'<p class="note"><b>Examples:</b> '+esc(d.examples)+'</p>':"")+(d.url?'<div class="actions"><a class="btn" href="'+esc(d.url)+'" target="_blank" rel="noopener">Explore ↗</a></div>':"")+'</article>'}).join("")||'<div class="empty">Ideas arrive every Monday.</div>';
+  }
+
+  document.addEventListener("click",function(e){
+    var b=e.target.closest("[data-act]");if(!b)return;
+    var id=b.closest(".card").getAttribute("data-id");var act=b.getAttribute("data-act");
+    store[id]=store[id]||{};store[id][act]=!store[id][act];save();render();
+  });
+  document.getElementById("tabs").addEventListener("click",function(e){
+    var t=e.target.closest(".tab");if(!t)return;state.tab=t.dataset.tab;
+    document.querySelectorAll(".tab").forEach(function(x){x.setAttribute("aria-selected",x===t)});
+    ["offers","calendar","discover","mine"].forEach(function(n){document.getElementById("p-"+n).hidden=n!==state.tab});
+  });
+  document.getElementById("q").addEventListener("input",function(e){state.q=e.target.value;render()});
+  document.getElementById("onlyNew").addEventListener("change",function(e){state.onlyNew=e.target.checked;render()});
+  document.getElementById("sort").addEventListener("change",function(e){state.sort=e.target.value;render()});
+  var themes=["auto","light","dark"],ti=0;
+  try{var saved=localStorage.getItem("rt-theme");if(saved)ti=Math.max(0,themes.indexOf(saved))}catch(e){}
+  function applyTheme(){var t=themes[ti];if(t==="auto")document.documentElement.removeAttribute("data-theme");else document.documentElement.setAttribute("data-theme",t);document.getElementById("theme").textContent="Theme: "+t}
+  document.getElementById("theme").onclick=function(){ti=(ti+1)%3;try{localStorage.setItem("rt-theme",themes[ti])}catch(e){}applyTheme()};
+  applyTheme();
+
+  chips("f-contract",CONTRACTS,"contract");chips("f-zone",ZONES,"zone");chips("f-type",TYPES,"type");
+  load();
+  Promise.all(["jobs","calendar","discover","digest","meta"].map(get)).then(function(r){
+    state.jobs=Array.isArray(r[0])?r[0]:[];state.calendar=Array.isArray(r[1])?r[1]:[];state.discover=Array.isArray(r[2])?r[2]:[];state.digest=Array.isArray(r[3])?r[3]:[];state.meta=r[4]||{};
+    var m=state.meta;document.getElementById("upd").innerHTML="Daily: "+fmtStamp(m.daily&&m.daily.at)+(m.daily?" · +"+m.daily.added:"")+"<br>Weekly: "+fmtStamp(m.weekly&&m.weekly.at);
+    renderSoon();renderDigest();renderCal();renderDisc();render();
+  });
+})();
+</script>
+</body>
+</html>
