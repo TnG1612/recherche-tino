@@ -486,16 +486,16 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   function renderTargets(){
     var all=state.targets.slice().sort(function(a,b){return (a.rank||999)-(b.rank||999)}).concat(tlocal.map(function(x){return Object.assign({local:true,group:"Added on this device"},x)}));
     var groups=[];all.forEach(function(t){if(groups.indexOf(t.group)<0)groups.push(t.group)});
-    document.getElementById("tgroups").innerHTML=['<button class="chip" data-tg="" aria-pressed="'+(tgroup==="")+'">All</button>'].concat(groups.map(function(g){return '<button class="chip" data-tg="'+esc(g)+'" aria-pressed="'+(tgroup===g)+'">'+esc(g)+'</button>'})).join("");
+    document.getElementById("tgroups").innerHTML=['<button class="chip" data-tg="" aria-pressed="'+(tgroup==="")+'">All</button>','<button class="chip" data-tg="__start" aria-pressed="'+(tgroup==="__start")+'">▶ Where to start</button>'].concat(groups.map(function(g){return '<button class="chip" data-tg="'+esc(g)+'" aria-pressed="'+(tgroup===g)+'">'+esc(g)+'</button>'})).join("");
     var sf=document.getElementById("tstatus").value;
-    var list=all.filter(function(t){return (!tgroup||t.group===tgroup)&&(!sf||((tstore[t.id]||{}).s||"Not applied yet")===sf)});
+    var list=all.filter(function(t){return (!tgroup||t.group===tgroup||(tgroup==="__start"&&t.startHere))&&(!sf||((tstore[t.id]||{}).s||"Not applied yet")===sf)});
     document.getElementById("c-targets").textContent=all.length||"";
     var html="",cur=null;
     list.forEach(function(t){
       if(t.group!==cur){if(cur!==null)html+='</div>';cur=t.group;html+='<h3 style="font-family:var(--font-display);font-weight:500;font-size:21px;margin:18px 0 10px">'+esc(cur)+'</h3><div class="grid">'}
       var f=tFirm(t),jobs=tJobs(t),st=(tstore[t.id]||{}).s||"Not applied yet";
-      html+='<article class="card'+(t.top?" mine":"")+'"><div class="top"><span class="org">'+(t.rank?'#'+t.rank+' · ':'')+esc(f?f.type:t.group)+'</span><div class="badges">'+(t.top?'<span class="b star">★ Top match</span>':'')+(jobs.length?'<span class="b ct">'+jobs.length+' open on site</span>':'')+'</div></div>'+
-        '<h3>'+esc(t.name)+'</h3>'+(t.note?'<p class="sum">'+esc(t.note)+'</p>':'')+
+      html+='<article class="card'+(t.top?" mine":"")+'"><div class="top"><span class="org">'+(t.rank?'#'+t.rank+' · ':'')+esc(f?f.type:t.group)+'</span><div class="badges">'+(t.startHere?'<span class="b new">▶ Start here</span>':'')+(t.top?'<span class="b star">★ Top match</span>':'')+(jobs.length?'<span class="b ct">'+jobs.length+' open on site</span>':'')+'</div></div>'+
+        '<h3>'+esc(t.name)+'</h3>'+(t.note?'<p class="sum">'+esc(t.note)+'</p>':'')+(t.warning?'<p class="note" style="color:var(--copper)">⚠︎ '+esc(t.warning)+'</p>':'')+
         (f?'<div class="kv"><div><span>Employees</span>'+esc(f.employees||"—")+'</div><div><span>Revenue</span>'+esc(f.revenue||"—")+'</div></div>':'')+
         (jobs.length?'<ul style="margin:0;padding-left:18px;font-size:14px;display:grid;gap:4px">'+jobs.slice(0,4).map(function(j){return '<li><a href="'+esc(j.url)+'" target="_blank" rel="noopener">'+esc(j.title)+'</a> <span class="note">· '+esc(j.location)+'</span></li>'}).join("")+'</ul>':'<p class="note">No open offer on your site yet: check their offers page.</p>')+
         '<div class="actions">'+(t.offersUrl?'<a class="btn primary" href="'+esc(t.offersUrl)+'" target="_blank" rel="noopener">Their offers ↗</a>':'')+

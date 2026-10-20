@@ -1235,7 +1235,8 @@
    "Renault SA",
    "Dacia",
    "Alpine",
-   "Ampere"
+   "Ampere",
+   "Renault Group (incl. Alpine)"
   ],
   "type": "Corporate strategy",
   "hq": "Boulogne-Billancourt, France",
@@ -1602,5 +1603,1621 @@
    "https://en.wikipedia.org/wiki/Eurazeo"
   ],
   "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "monitor-deloitte",
+  "name": "Monitor Deloitte",
+  "aliases": [
+   "Deloitte Strategy",
+   "Deloitte Stratégie et croissance",
+   "Monitor Group"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "Deloitte France: Paris La Défense (Deloitte global: London)",
+  "paris": "Monitor Deloitte's Paris team sits inside Deloitte France's consulting arm at La Défense. Its strategy offer is now branded 'Stratégie et croissance' (corporate strategy, new businesses, pricing, business-model transformation).",
+  "founded": "1983 (Monitor Group, Cambridge MA); acquired by Deloitte in 2013",
+  "employees": "Paris: about 80 consultants (2019, Consultor); Deloitte worldwide: 500,000+ (FY2026)",
+  "revenue": "Monitor not disclosed separately; Deloitte France about EUR 1.27bn (CFNEWS, 2026); Deloitte global USD 74.5bn (FY2026)",
+  "ownership": "Partnership; part of Deloitte France (member firm of Deloitte Touche Tohmatsu Limited)",
+  "description": "Monitor Deloitte is the strategy consulting brand of Deloitte, born from the 2013 acquisition of Michael Porter's Monitor Group. In France it covers corporate and business-unit strategy, growth, pricing and business-model work, with historic strength in pharma and growing work in consumer, financial services, TMT and private equity. The French strategy lead also oversees sustainability.",
+  "sectors": "Pharma & life sciences, consumer & retail, financial services, TMT, private equity, industry",
+  "health": "Deloitte global revenue grew 5.7% to USD 74.5bn in FY2026 (to May 2026). Deloitte France announced a plan to accelerate consulting in late 2025 (about EUR 100M over five years) and bought industrial strategy boutique Kxiop in 2026 to strengthen its strategy unit.",
+  "news": [
+   {
+    "date": "2026-09",
+    "title": "Deloitte reports 5.7% global revenue growth to USD 74.5bn for FY2026",
+    "url": "https://www.cpapracticeadvisor.com/?p=190714"
+   },
+   {
+    "date": "2026-06",
+    "title": "Strategy boutique Kxiop joins Deloitte France (Monitor Deloitte contact)",
+    "url": "https://www.deloitte.com/fr/fr/kxiop.html"
+   },
+   {
+    "date": "2026-05",
+    "title": "Deloitte France secures its strategy unit with the Kxiop acquisition, first move of its consulting plan",
+    "url": "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Deloitte-France-securise-son-pole-Strategie-683615"
+   }
+  ],
+  "recruiting": "Hires 'Stage de fin d'études – Strategy' / Strategy & Business Design interns and junior consultants, with a recruitment track separate from the rest of Deloitte consulting. Expect case and fit interviews; Monitor also runs a student strategy challenge. French and English are both used.",
+  "tinoAngle": "Monitor Deloitte combines corporate strategy with sustainability under the same French lead, so your AFOCO decarbonisation and ash-recovery project is a concrete story for a Strategy & Business Design internship.",
+  "careersUrl": "https://www.deloitte.com/fr/fr/careers/deloitte-life/development/etudiants-et-jeunes-diplomes.html",
+  "website": "https://www.deloitte.com/fr/fr/services/consulting/services/strategy-business-design.html",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-monitor-deloitte-presentation",
+   "https://www.consultor.fr/articles/interview-du-president-de-deloitte-a-consultor-30-de-femmes-partners-en-2027",
+   "https://www.deloitte.com/fr/fr/kxiop.html",
+   "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/100/Deloitte-France-securise-son-pole-Strategie-683615",
+   "https://www.cpapracticeadvisor.com/?p=190714",
+   "https://www.deloitte.com/fr/fr/services/consulting/services/strategy-business-design.html"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "eleven-strategy",
+  "name": "Eleven Strategy",
+  "aliases": [
+   "eleven",
+   "eleven strategy",
+   "Eleven"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Single office at 5 avenue Pierre 1er de Serbie (Paris 16e), a 1,000 m² space sized for about 180 people.",
+  "founded": "2008",
+  "employees": "About 75 including partners (April 2025), targeting about 100 consultants by end-2025 (Consultor)",
+  "revenue": "Not disclosed",
+  "ownership": "Partner- and employee-owned (sponsorless buyout of Isai's stake in 2022); Andera Acto (Andera Partners) holds a minority stake since 2022",
+  "description": "Eleven is an independent Paris strategy firm specialised in technology, data and AI-driven strategy. About 70% of its work is for large corporates (CAC 40 groups such as LVMH, Vinci, Accor, Axa) and 30% for investment funds. Besides its 'eleven strategy' team, it has an 'eleven factory' team that helps clients scale projects and builds tailored genAI tools.",
+  "sectors": "Luxury, financial services, energy, industry, e-commerce, software & martech, cybersecurity, mobility, healthtech, private equity",
+  "health": "Growing fast: headcount and partnership expanded through 2024-2025, reaching ten partners in November 2025. The firm is heavily oriented towards genAI and agentic AI work, and in 2025 it was hiring across strategy, data science and AI engineering.",
+  "news": [
+   {
+    "date": "2025-11",
+    "title": "eleven reaches ten partners with a new senior hire",
+    "url": "https://www.consultor.fr/articles/eleven-atteint-la-barre-des-dix-associes-avec-un-nouveau-recrutement"
+   },
+   {
+    "date": "2025-04",
+    "title": "'Renew the offer every quarter': Ambroise Huret on eleven's AI-driven growth",
+    "url": "https://www.consultor.fr/articles/renouveler-loffre-chaque-trimestre-le-defi-deleven-selon-ambroise-huret"
+   },
+   {
+    "date": "2025-02",
+    "title": "eleven promotes its data & AI expert to partner",
+    "url": "https://www.consultor.fr/articles/eleven-lexpert-data-ia-est-promu-partner"
+   }
+  ],
+  "recruiting": "Posts a 'Strategy Intern – gap year or final-year internship' role plus 'Consultant en Stratégie Junior à Manager' and AI/data consultant roles, all in Paris. Process: CV screening, 2-3 case-plus-fit rounds (often digital, innovation or data cases) and a final Partner interview. French and English.",
+  "tinoAngle": "Eleven suits you if you want tech and innovation strategy in Paris; pair your international experience (Singapore, Madrid) with a clear interest in AI and data use cases to stand out for its strategy intern role.",
+  "careersUrl": "https://www.eleven.fr/careers",
+  "website": "https://www.eleven.fr/",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-en-strategie-eleven",
+   "https://www.consultor.fr/articles/renouveler-loffre-chaque-trimestre-le-defi-deleven-selon-ambroise-huret",
+   "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Eleven-Strategy-opte-pour-un-sponsorless-396501",
+   "https://www.eleven.fr/careers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "estin-co",
+  "name": "Estin & Co",
+  "aliases": [
+   "Estin",
+   "Estin&Co",
+   "SCEC SAS"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris is the head office (8th arrondissement since a 2022 move), led by Philippe Estin; LinkedIn shows about 15 consultants there (2026).",
+  "founded": "1997",
+  "employees": "About 20 consultants on LinkedIn, of which about half inactive; legal registers show 6-9 employees (Consultor, July 2026)",
+  "revenue": "Not disclosed",
+  "ownership": "Private, founder-family controlled (Jean Estin, son Philippe Estin); main entity SCEC SAS in receivership since July 2026",
+  "description": "Estin & Co is a small strategy-only firm founded in 1997 by Jean Estin, co-founder of BCG Paris. It advises CEOs of European, North American and Asian companies on growth strategy and supports private equity funds with investment analysis. Its website lists Paris, London, Zurich, New York, Shanghai and Singapore.",
+  "sectors": "Growth strategy for industrial and consumer corporates, private equity due diligence",
+  "health": "Weak: in July 2026 a court opened receivership (redressement judiciaire) for SCEC SAS, the former Estin & Co entity, after years of a drawn-out succession and partner departures (Strategia Partners spin-off in 2021). Treat as high-risk for a 2027 internship.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Estin&Co placed in receivership: a 100% strategy boutique in turmoil",
+    "url": "https://www.consultor.fr/articles/estin-co-en-redressement-la-fin-dune-boutique-100-conseil-en-strategie"
+   },
+   {
+    "date": "2021-09",
+    "title": "Jean Berg launches Strategia Partners, taking part of Estin's team (older context)",
+    "url": "https://www.consultor.fr/articles/estin-co-jean-berg-officialise-la-creation-de-sa-boutique-et-emmene-une-partie-des-equipes"
+   }
+  ],
+  "recruiting": "Historically recruited consultants (and interns) from top business and engineering schools via case interviews; the careers page lists no open offers in 2026. Work is in French and English. Hiring is uncertain given the receivership.",
+  "tinoAngle": "Estin's growth strategy work and Shanghai and Singapore offices fit your six months in Singapore, but its July 2026 receivership makes it a risky bet, so check its status before applying.",
+  "careersUrl": "https://estin.com/careers/",
+  "website": "https://estin.com/",
+  "sources": [
+   "https://www.consultor.fr/articles/estin-co-en-redressement-la-fin-dune-boutique-100-conseil-en-strategie",
+   "https://www.consultor.fr/articles/estin-transition-a-la-pyrrhus",
+   "https://estin.com/",
+   "https://village.ai/company/estin"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "k-a",
+  "name": "Kéa",
+  "aliases": [
+   "Kea & Partners",
+   "Kéa & Partners",
+   "Kea"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Malakoff (Greater Paris), France",
+  "paris": "Head office at 3 rue Danton, Malakoff, just south of Paris, which hosts nearly all consultants; affiliates in Casablanca and São Paulo.",
+  "founded": "2001",
+  "employees": "191 staff at end-2025 (Consultor, 2026); about 300 consultants including group subsidiaries such as Veltys",
+  "revenue": "EUR 47.4M in 2025, down 11% from EUR 53.3M in 2024 (Consultor, Sept 2026)",
+  "ownership": "Independent partnership with about 120 partner-shareholders; Crédit Mutuel Equity minority stake since 2021; 'entreprise à mission' since 2020",
+  "description": "Kéa is an independent French strategy and transformation firm. Since 2020 it has been an 'entreprise à mission' with a strong responsible-business (CSR) identity. Since 2021 it has made about ten acquisitions or investments, including Veltys (data and AI) and Souffl, and it co-founded The Transformation Alliance network (about 900 consultants).",
+  "sectors": "Retail, luxury, consumer goods, agrifood, industry, construction & real estate, financial services, private equity, energy & utilities, mobility & logistics, public sector",
+  "health": "After record revenue in 2024 (+12.8%), revenue fell 11% in 2025 in a weak French market. Sales recovered from late 2025, several large missions were won in H1 2026, and hiring continues toward an ambition of EUR 120-130M by 2032.",
+  "news": [
+   {
+    "date": "2026-09",
+    "title": "Kéa slows in 2025 after record revenue the previous year",
+    "url": "https://www.consultor.fr/articles/coup-de-frein-pour-kea-en-2025-apres-un-chiffre-daffaires-record-lannee-precedente"
+   },
+   {
+    "date": "2025-08",
+    "title": "Arnaud Gangloff's plan to accelerate Kéa's growth to 2032",
+    "url": "https://www.consultor.fr/articles/le-plan-darnaud-gangloff-pour-accelerer-la-croissance-de-kea"
+   }
+  ],
+  "recruiting": "Recruits interns and junior consultants (consultant stagiaire / consultant). Interns go through 3 rounds: a case interview, 2-3 client-situation cases, then a Partner interview. Work is mainly in French, with English needed.",
+  "tinoAngle": "Kéa's mission-driven, CSR-focused strategy work is a natural home for your AFOCO project on industrial waste valorisation, and its energy and industry clients connect to your logistics background.",
+  "careersUrl": "https://www.kea-partners.com/carrieres/",
+  "website": "https://www.kea-partners.com/",
+  "sources": [
+   "https://www.consultor.fr/cabinets/kea-and-partners-cabinet-conseil-strategie",
+   "https://www.consultor.fr/articles/coup-de-frein-pour-kea-en-2025-apres-un-chiffre-daffaires-record-lannee-precedente",
+   "https://www.consultor.fr/articles/le-plan-darnaud-gangloff-pour-accelerer-la-croissance-de-kea",
+   "https://www.consultor.fr/articles/kea-mise-sur-l-ia-et-la-data-avec-sa-10e-operation-de-croissance-en-3-ans-2"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "sia-partners",
+  "name": "Sia Partners",
+  "aliases": [
+   "Sia",
+   "Sia Partners SAS"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris is the founding and largest office; France generates about 40% of revenue, and two new Paris partners were named in July 2026.",
+  "founded": "1999",
+  "employees": "3,000+ (December 2024)",
+  "revenue": "About EUR 500M (2024, company release, Dec 2024)",
+  "ownership": "Founder-CEO Matthieu Courtecuisse holds a large majority, with about 150 executive shareholders; Blackstone made a EUR 250M minority investment in December 2024",
+  "description": "Sia (rebranded from Sia Partners in January 2025) is a Paris-founded management and strategy consultancy in about 20 countries, mixing consulting with AI and data products. It has well-known energy, financial services and public sector practices. It is acquisitive: Kaiser Associates (US strategy, 2026), Seven Consulting (Australia, 2026), Precedence and The Upside (2025).",
+  "sectors": "Energy & utilities, financial services, insurance & actuarial, public sector, telecoms, industry, cybersecurity, AI & data",
+  "health": "Expanding with Blackstone's backing: several acquisitions in 2025-2026, a new strategy, PE and M&A practice via Kaiser Associates (Jan 2026), and OpenAI Advanced Partner status (July 2026). Partner hires continued across Paris, the US and the Middle East in 2026.",
+  "news": [
+   {
+    "date": "2026-08",
+    "title": "Sia expands its Australian footprint with the Seven Consulting deal",
+    "url": "https://www.consultancy.com.au/news/12445/sia-significantly-expands-australian-footprint-with-seven-consulting-deal"
+   },
+   {
+    "date": "2026-07",
+    "title": "OpenAI promotes Sia to Advanced Partner in its partner network",
+    "url": "https://www.consultancy.org/news/237/openai-promotes-sia-to-advanced-partner-in-its-openai-partner-network"
+   },
+   {
+    "date": "2026-07",
+    "title": "Sia appoints two new partners in Paris",
+    "url": "https://www.consultancy.eu/news/13977/sia-appoints-niccolo-giardini-and-pierre-antoine-merle-as-partners-in-paris"
+   },
+   {
+    "date": "2026-01",
+    "title": "Sia buys strategy consultancy Kaiser Associates and launches a strategy, PE and M&A practice",
+    "url": "https://www.consulting.us/news/12897/sia-buys-strategy-consultancy-kaiser-associates-launches-strategy-pe-and-ma-practice"
+   }
+  ],
+  "recruiting": "Many 'Stage de fin d'études – Consultant(e)' offers by practice (public sector, financial services, actuarial, marketing), often leading to a CDI. Interns get 3 interviews (HR, business case, Director); graduates get 4. The process takes about 4 weeks. Fluent French and English are required.",
+  "tinoAngle": "Sia's strong energy practice matches your decarbonisation project at AFOCO, and its Singapore office gives you a credible way to use your Singapore internship and keep an APAC path open.",
+  "careersUrl": "https://www.sia-partners.com/en/join-us/careers",
+  "website": "https://www.sia-partners.com/",
+  "sources": [
+   "https://www.sia-partners.com/fr/a-propos/actualites/sia-partners-annonce-un-investissement-minoritaire-strategique-de-250-meu",
+   "https://www.consultancy.org/firms/sia/news",
+   "https://www.sia-partners.com/en/join-us/recruitment",
+   "https://www.consultancy.eu/news/14052/15-years-at-sia-jeroen-de-laat-on-building-a-leading-energy-practice-and-driving-impact",
+   "https://www.sia-partners.com/en/opportunities"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "capgemini-invent",
+  "name": "Capgemini Invent",
+  "aliases": [
+   "Capgemini Consulting",
+   "Invent",
+   "frog (Capgemini Invent)"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "Paris, France (Capgemini group); French base in Issy-les-Moulineaux",
+  "paris": "The French teams are based at 145-151 quai du Président Roosevelt, Issy-les-Moulineaux, on the edge of Paris, where most strategy and transformation offers are posted.",
+  "founded": "2018 (successor to Capgemini Consulting)",
+  "employees": "12,500+ worldwide (January 2026)",
+  "revenue": "More than EUR 1.2bn including subsidiaries (January 2026); Capgemini group H1 2026 revenue EUR 12.08bn",
+  "ownership": "Wholly owned by Capgemini SE (listed on Euronext Paris)",
+  "description": "Capgemini Invent is the strategy, innovation and transformation consulting brand of Capgemini. It includes the design agency frog and Cambridge Consultants. It works from strategy through to implementation, with strong practices in automotive, intelligent industry, energy transition and the public sector.",
+  "sectors": "Automotive & manufacturing, intelligent industry, energy transition & utilities, life sciences, financial services, consumer & retail, public sector",
+  "health": "Capgemini group revenue rose 8.8% in H1 2026 (EUR 12.08bn), and 2026 guidance was raised, mainly thanks to acquisitions (WNS, Cloud4C). Invent appointed a new CEO, Volker Darius, in January 2026.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Capgemini lifts 2026 revenue growth view after acquisition-led H1 beat",
+    "url": "https://www.investing.com/news/earnings/capgemini-lifts-2026-revenue-growth-view-after-acquisitionled-h1-beat-4822370"
+   },
+   {
+    "date": "2026-01",
+    "title": "Capgemini Invent appoints Volker Darius as new CEO",
+    "url": "https://www.consultancy.eu/news/13036/capgemini-invent-appoints-volker-darius-as-new-chief-executive-officer"
+   }
+  ],
+  "recruiting": "Posts 6-month internships such as 'Strategy & Transformation Consultant (stage)', 'Consultant(e) Stratégie Marketing Expérience client', 'Intelligent Industry' and 'Energy Transition & Utility' roles, plus junior CDIs. Process: application, several interviews (possibly a case study or role play), then a decision. French and English.",
+  "tinoAngle": "Capgemini Invent's automotive and intelligent-industry strategy work lines up with your import/export logistics and industrial decarbonisation experience, so aim for its Strategy & Transformation internship in Issy.",
+  "careersUrl": "https://www.capgemini.com/fr-fr/carrieres/parcours-professionnels/carrieres-chez-capgemini-invent/",
+  "website": "https://www.capgemini.com/fr-fr/",
+  "sources": [
+   "https://www.consultancy.eu/news/13036/capgemini-invent-appoints-volker-darius-as-new-chief-executive-officer",
+   "https://www.capgemini.com/fr-fr/carrieres/parcours-professionnels/carrieres-chez-capgemini-invent/",
+   "https://www.investing.com/news/earnings/capgemini-lifts-2026-revenue-growth-view-after-acquisitionled-h1-beat-4822370",
+   "https://www.jobteaser.com/fr/companies/capgemini-invent/job-offers",
+   "https://www.consulting.us/news/938/capgemini-invent-launches-consumes-capgemini-consulting-brand"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "wavestone",
+  "name": "Wavestone",
+  "aliases": [
+   "Solucom",
+   "Wavestone SA"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "Paris La Défense, France",
+  "paris": "The Paris region is Wavestone's main hub. Most of its French consultants work on transformation projects for CAC 40 and SBF 120 companies; there are also French offices in Nantes, Lyon and Marseille.",
+  "founded": "1990 (as Solucom; renamed Wavestone in 2016)",
+  "employees": "6,111 (31 March 2026)",
+  "revenue": "EUR 954.3M (FY2025/26, year to March 2026)",
+  "ownership": "Listed on Euronext Paris; founders remain reference shareholders",
+  "description": "Wavestone is a French consulting firm focused on business and technology transformation for large corporates and public bodies. It is known for cybersecurity, IT and AI transformation, and sector strategy work, and operates in 17 countries including Singapore and Hong Kong. Its 'Lead the shift' plan targets EUR 1.4bn revenue by 2030 and leadership in AI transformation.",
+  "sectors": "Banking & insurance, luxury & retail, energy & utilities, transport & manufacturing, public sector, telecoms; cyber, data & AI, CTO advisory",
+  "health": "Flat growth: FY2025/26 revenue rose 1% to EUR 954.3M while net income rose 8% to EUR 82.1M. For 2026/27 the firm expects low single-digit organic growth, and its new plan to 2030 relies on AI and up to EUR 800M of acquisitions.",
+  "news": [
+   {
+    "date": "2026-06",
+    "title": "FY2025/26 results: net income +8%, 'Lead the shift' plan to 2030 unveiled",
+    "url": "https://www.abcbourse.com/marches/resultats-202526-resultat-net-en-progression-de-8--lead-the-shift-le-pla_697787"
+   },
+   {
+    "date": "2026-04",
+    "title": "Wavestone: +2% organic revenue growth in Q4 2025/26",
+    "url": "https://bourse.fortuneo.fr/actualites/wavestone-chiffre-d-affaires-en-croissance-organique-de-2-au-4eme-trimestre-2025-26-6047968"
+   }
+  ],
+  "recruiting": "Hires large intakes (about 900 gross hires in FY2025/26) through 'Stage de fin d'études – Consultant(e)' internships (strategy & AI transformation, CTO advisory, data/AI, cyber) that often convert to CDI. Expect HR, case and manager interviews. French is essential and English is expected.",
+  "tinoAngle": "Wavestone runs transformation projects for large French corporates; its sourcing-strategy and AI-strategy internships, plus offices in Singapore and Hong Kong, are a practical entry point if you want operational strategy with an international route.",
+  "careersUrl": "https://www.wavestone.com/fr/carrieres/",
+  "website": "https://www.wavestone.com/fr/",
+  "sources": [
+   "https://www.abcbourse.com/marches/resultats-202526-resultat-net-en-progression-de-8--lead-the-shift-le-pla_697787",
+   "https://www.wavestone.com/fr/",
+   "https://www.wavestone.com/fr/carrieres/nos-offres/?city=paris-fr%2Cnantes-fr%2Clyon-fr%2Cmarseille-fr&sort=desc",
+   "https://www.jobteaser.com/fr/companies/wavestone/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "carbone-4",
+  "name": "Carbone 4",
+  "aliases": [
+   "Carbone4",
+   "Carbon 4",
+   "Carbone 4 Advisory",
+   "Carbon4 Finance"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris is the head office of Carbone 4 Advisory and its sister units (Finance, Academy); all current internships are based in Paris. Other offices: Lyon, Toulouse, Rennes and Luxembourg/Benelux.",
+  "founded": "2007 (by Jean-Marc Jancovici and Alain Grandjean)",
+  "employees": "About 200 consultants (company press release, c. 2025)",
+  "revenue": "Not disclosed",
+  "ownership": "Independent, founder-led (Jean-Marc Jancovici, Alain Grandjean, Laurent Morel)",
+  "description": "Carbone 4 is an independent French consultancy specialised in climate strategy: decarbonisation, adaptation to physical climate risk and biodiversity. It has five activities (Consulting, Carbon4 Finance, Academy, MyCO2, IF Initiative), more than 800 client references and 3,000+ projects. Recent clients include L'Oréal, Renault Trucks, ArianeGroup and Lactalis.",
+  "sectors": "Industry & manufacturing, agrifood, energy, transport & logistics, finance (climate data), real estate, public sector",
+  "health": "Stable to growing: it opened its first office outside France in Luxembourg and is still posting case studies and publications through 2026 (Sept 2026 study on AI and planetary limits). It is recruiting interns for September 2026 and January 2027.",
+  "news": [
+   {
+    "date": "2026-09",
+    "title": "Carbone 4 publication: the explosion of AI and the environmental crisis",
+    "url": "https://carbone4.com/en/publications/the-explosion-of-artificial-intelligence-and-the-environmental-crisis-is-it-going-too-far"
+   },
+   {
+    "date": "2026-06",
+    "title": "Case study: Renault Trucks integrates physical climate risks into industrial site management",
+    "url": "https://carbone4.com/en/case-studies/renault-trucks-integrates-physical-climate-risks-into-industrial-site-management-using-the-ocara-methodology"
+   },
+   {
+    "date": "2026-06",
+    "title": "Case study: L'Oréal decarbonisation through green electricity purchasing",
+    "url": "https://carbone4.com/en/case-studies/loreal-decarbonization-purchasing-green-electricity"
+   }
+  ],
+  "recruiting": "Posts 'Internship Consultant (M/F)' at Carbone 4 Advisory (intakes in September 2026 and January 2027), with a possible job offer at the end. The profile is analytical (Excel, PowerPoint), often with a scientific background and a strong climate and energy interest. French is required; some roles also need native English, Spanish or Dutch.",
+  "tinoAngle": "Carbone 4 is the purest climate-strategy option on your list: your AFOCO ash-recovery and decarbonisation project is directly relevant to its January 2027 consultant internship.",
+  "careersUrl": "https://www.carbone4.com/en/jobs",
+  "website": "https://www.carbone4.com/",
+  "sources": [
+   "https://www.carbone4.com/en/jobs",
+   "https://www.carbone4.com/en/cp-expands-presence-into-luxembourg-to-strengthen-its-support-for-economic-players-in-the-decarbonization-and-transformation-of-activities",
+   "https://carbone4.com/en/internship-consultant",
+   "https://paperjam.lu/article/carbone-4-s-implante-au-luxemb",
+   "https://carbone4.com/en/about/press"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "eurogroup-consulting",
+  "name": "Eurogroup Consulting",
+  "aliases": [
+   "Eurogroup",
+   "Eurogroup Consulting France",
+   "EGC"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Courbevoie (Paris La Défense), France",
+  "paris": "Head office at 25 quai du Président Paul Doumer, Courbevoie (Workstation – La Défense), home to about 400 staff who handle 700+ missions a year.",
+  "founded": "1982",
+  "employees": "About 400 in France (2026); 3,000+ consultants in 30 countries including its network",
+  "revenue": "Not disclosed",
+  "ownership": "Independent, partner-owned French firm; member of the Nextcontinent alliance of independent consultancies",
+  "description": "Eurogroup Consulting is an independent French strategy, organisation and management consulting firm. It is especially strong with the public sector, energy & utilities, defence & aerospace, and banking & insurance clients. Its service lines are strategy, organisational and HR transformation, technology transformation and performance.",
+  "sectors": "Public sector, energy & utilities, defence & aerospace, insurance & social protection, banking, health, transport & mobility, industry",
+  "health": "Steady public-sector pipeline: in February 2026 it led the consortium that won the three-year UGAP framework contract for organisational and HR transformation consulting. It published French industrial competitiveness studies in 2026.",
+  "news": [
+   {
+    "date": "2026-05",
+    "title": "Study: transforming France's industrial competitiveness is a EUR 150bn opportunity",
+    "url": "https://www.consultancy.eu/news/13634/study-transforming-frances-industrial-competitiveness-is-a-150-billion-opportunity"
+   },
+   {
+    "date": "2026-02",
+    "title": "Eurogroup Consulting, BearingPoint and Seban Avocats win the UGAP organisational and HR transformation contract",
+    "url": "https://www.seban-associes.avocat.fr/wp-content/uploads/2026/02/CP-Eurogroup-BearingPoint-SebanAvocats-UGAP2026-VF.pdf"
+   },
+   {
+    "date": "2025-12",
+    "title": "Nextcontinent president François Pouzeratte (Eurogroup senior partner) sets course for global growth in second term",
+    "url": "https://www.consultancy.eu/news/12832/nextcontinent-president-francois-pouzeratte-sets-course-for-global-growth-in-second-term"
+   }
+  ],
+  "recruiting": "Recruits 'Consultant stagiaire' (6-month end-of-studies internships), apprentices and 'Consultant débutant'. Peaks are in September and January, and interns are often hired afterwards. Process: a 45-min interview with a partner, then a 1h30 interview with a director or manager that includes a written exercise. Mainly in French.",
+  "tinoAngle": "Eurogroup's public sector and energy practices fit your AFOCO industrial-decarbonisation work, and as a French firm with French-led interviews it suits your native French for a Jan-Jul 2027 'consultant stagiaire' internship.",
+  "careersUrl": "https://www.eurogroupconsulting.com/nous-rejoindre",
+  "website": "https://www.eurogroupconsulting.com/",
+  "sources": [
+   "https://www.eurogroupconsulting.com/fr/rejoignez-nous/nos-metiers/",
+   "https://www.eurogroupconsulting.com/nous-rejoindre",
+   "https://www.seban-associes.avocat.fr/wp-content/uploads/2026/02/CP-Eurogroup-BearingPoint-SebanAvocats-UGAP2026-VF.pdf",
+   "https://www.jobteaser.com/es/companies/eurogroup-consulting-france",
+   "https://www.consultancy.eu/news/12832/nextcontinent-president-francois-pouzeratte-sets-course-for-global-growth-in-second-term"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "veolia",
+  "name": "Veolia",
+  "aliases": [
+   "Veolia Environnement"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Aubervilliers (Paris area), France",
+  "paris": "Group headquarters and corporate functions (strategy, finance, business development) sit in Aubervilliers, just north of Paris, alongside large Île-de-France operating businesses.",
+  "founded": "1853 (as Compagnie Générale des Eaux)",
+  "employees": "About 215,000 (2025)",
+  "revenue": "€44.4bn (2025)",
+  "ownership": "Listed on Euronext Paris (CAC 40), widely held",
+  "description": "World leader in environmental services across water, waste and energy management. Its 'ecological transformation' positioning spans water treatment technologies, hazardous waste, recycling and local energy loops for cities and industry.",
+  "sectors": "Water, waste and hazardous waste, energy services, environmental technologies",
+  "health": "Record 2025 results above guidance: EBITDA €7.05bn (+6.3% organic, margin 15.9%) and net income €1.2bn (+10.9%), with the GreenUp 2024-2027 plan's ROCE target reached two years early. Guidance for 2026 targets 5-6% organic EBITDA growth; the group is reshaping its portfolio with ~€3bn of planned disposals.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Veolia posts very solid H1 2026 results, confirming the strength of its model",
+    "url": "https://www.veolia.com/en/our-media/press-releases/2026-first-half-results.md"
+   },
+   {
+    "date": "2026-06",
+    "title": "Veolia completes $3bn Clean Earth acquisition, doubling its US hazardous waste business",
+    "url": "https://pulse2.com/veolia-completes-3-billion-clean-earth-acquisition-doubling-u-s-hazardous-waste-business/"
+   },
+   {
+    "date": "2026-02",
+    "title": "2025 a pivotal year: record results above guidance, GreenUp plan ahead of schedule",
+    "url": "https://businesswire.com/news/home/20260225241172/en/Veolia-Environnement-2025-a-Pivotal-Year-Record-Results-Above-Guidance"
+   }
+  ],
+  "recruiting": "Veolia posts hundreds of internships and alternance roles in France on its own portal (1,000+ open roles in France), including head-office business internships in Aubervilliers such as a decarbonisation-offers intern. End-of-studies internships typically run 6 months; VIE positions are also offered abroad. Apply online via jobs.veolia.com.",
+  "tinoAngle": "Your AFOCO project on industrial waste valorisation and ash recovery maps directly onto Veolia's hazardous-waste and circular-economy push (Clean Earth, GreenUp), so pitch yourself as someone who has already built a waste-to-resource business case.",
+  "careersUrl": "https://jobs.veolia.com/",
+  "website": "https://www.veolia.com",
+  "sources": [
+   "https://businesswire.com/news/home/20260225241172/en/Veolia-Environnement-2025-a-Pivotal-Year-Record-Results-Above-Guidance",
+   "https://pulse2.com/veolia-completes-3-billion-clean-earth-acquisition-doubling-u-s-hazardous-waste-business/",
+   "https://veolia.com/en/newsroom/press-releases",
+   "https://jobs.veolia.com/en/location/france-jobs/2702/3017382/2"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "engie",
+  "name": "Engie",
+  "aliases": [
+   "ENGIE",
+   "GDF Suez"
+  ],
+  "type": "Corporate strategy",
+  "hq": "La Garenne-Colombes (Paris area), France",
+  "paris": "Group headquarters and corporate teams (strategy, M&A, finance) are on the Engie campus in La Garenne-Colombes, west of Paris near La Défense.",
+  "founded": "2008 (GDF Suez merger; renamed Engie in 2015)",
+  "employees": "More than 90,000 in 30 countries (2025)",
+  "revenue": "€71.9bn (2025)",
+  "ownership": "Listed on Euronext Paris (CAC 40); the French State is the largest shareholder (about a quarter of the capital)",
+  "description": "Global energy utility focused on the energy transition: renewables and storage, flexible generation, gas and electricity networks, and energy solutions for businesses and cities. It had 57.2 GW of renewable capacity installed at end-2025 and targets 95 GW by 2030.",
+  "sectors": "Renewables, power generation, energy networks and infrastructure, energy services",
+  "health": "2025 revenue €71.9bn (-0.7% organic) and net recurring income €4.9bn, down from €5.5bn as Belgian nuclear exits; non-nuclear EBIT grew 2.2% organically. In 2026 it closed the £10.5bn UK Power Networks acquisition and raised its 2026 net recurring income guidance to €4.9-5.5bn after H1.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Engie raises its 2026 net income guidance after a very solid first half",
+    "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-31-engie-releve-sa-prevision-de-resultat-net-pour-2026.html"
+   },
+   {
+    "date": "2026-05",
+    "title": "Engie completes the acquisition of UK Power Networks",
+    "url": "https://www.marketscreener.com/news/engie-sa-completed-the-acquisition-of-uk-power-networks-holdings-limited-from-devin-international-li-ce7f58d3df8ff023"
+   },
+   {
+    "date": "2026-02",
+    "title": "FY 2025 results: record 6.2 GW of renewables added, UK Power Networks deal signed",
+    "url": "https://www.engie.com/app/uploads/2026/03/PR-ENGIE-FY-2025-VDEF.pdf"
+   }
+  ],
+  "recruiting": "Engie offers internships and traineeships in France and abroad, plus VIE assignments; junior tracks have included a Finance Young Graduate Program and a Nuclear Trainees Program. Offers are posted on jobs.engie.com, filterable by contract type, entity and country, with email alerts. Head-office internships (e.g. international affairs analyst) are based at La Garenne-Colombes.",
+  "tinoAngle": "Engie's strategy and M&A teams are busy integrating UK Power Networks and scaling renewables, so your interest in renewables M&A plus your decarbonisation work at AFOCO gives you a credible story for a corporate strategy or M&A internship.",
+  "careersUrl": "https://jobs.engie.com/",
+  "website": "https://www.engie.com",
+  "sources": [
+   "https://www.engie.com/app/uploads/2026/03/PR-ENGIE-FY-2025-VDEF.pdf",
+   "https://www.marketscreener.com/news/engie-sa-completed-the-acquisition-of-uk-power-networks-holdings-limited-from-devin-international-li-ce7f58d3df8ff023",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-31-engie-releve-sa-prevision-de-resultat-net-pour-2026.html",
+   "https://www.engie.com/en/candidates/work-for-engie/join-engie/search-for-a-vacancy"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "edf",
+  "name": "EDF",
+  "aliases": [
+   "Électricité de France",
+   "EDF Group"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Group headquarters and corporate directorates (strategy, international, finance) are in central Paris (8th arrondissement), with many subsidiaries and engineering centres across Île-de-France.",
+  "founded": "1946",
+  "employees": "197,363 (2025)",
+  "revenue": "€113.3bn sales (2025)",
+  "ownership": "100% owned by the French State (delisted in 2023)",
+  "description": "France's integrated electricity company and the world's largest nuclear operator, active in generation, transmission/distribution (via Enedis/RTE stakes), supply and energy services. Subsidiaries include EDF power solutions (renewables), Dalkia and Framatome, with major operations in the UK and Italy.",
+  "sectors": "Nuclear and hydro power, renewables, networks, energy supply and services",
+  "health": "2025 sales €113.3bn and net income €8.4bn (down from €11.4bn on lower power prices), while French nuclear output rose to 373 TWh and net debt fell €2.9bn. EDF expects 2026 EBITDA about 10% lower; its EPR2 programme (six reactors, estimated at €72.8bn) targets a final investment decision in late 2026 under CEO Bernard Fontana.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "H1 2026 results: higher nuclear output, lower EBITDA on falling prices and heatwaves",
+    "url": "https://www.taiwannews.com.tw/en/news/6412274"
+   },
+   {
+    "date": "2026-02",
+    "title": "EDF welcomes the new multi-year energy programme (PPE3), including six EPR2 reactors",
+    "url": "https://www.edf.fr/sites/groupe/files/epresspack/12620/CP-EDF-salue-la-publication-de-la-nouvelle-programmation-pluriannuelle-de-lenergie-1.pdf"
+   },
+   {
+    "date": "2026-02",
+    "title": "2025 annual results: strong operational performance, reduced net financial debt",
+    "url": "https://www.edf.fr/en/2025-annual-results"
+   },
+   {
+    "date": "2025-12",
+    "title": "EDF puts the cost of its EPR2 programme at €72.8bn, FID targeted late 2026",
+    "url": "https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/edf-shares-its-forecasted-cost-estimate-of-the-epr2-programme-for-eu728bn"
+   }
+  ],
+  "recruiting": "EDF hosts several hundred interns every year across all profiles, posted on its EDF Recrute portal with dedicated filters for internships, theses and VIE. VIE assignments last 6 to 24 months abroad and are open to candidates under 29. Subsidiaries (EDF power solutions, Dalkia, Framatome) also recruit interns.",
+  "tinoAngle": "With your Singapore and Madrid experience and trilingual profile, target EDF's international development and corporate strategy teams, or a VIE at EDF power solutions abroad, framing your AFOCO decarbonisation work as relevant to its low-carbon growth agenda.",
+  "careersUrl": "https://www.edf.fr/edf-recrute",
+  "website": "https://www.edf.fr",
+  "sources": [
+   "https://www.edf.fr/en/2025-annual-results",
+   "https://www.edf.fr/backend/entreprises/en/the-edf-group/edf-at-a-glance",
+   "https://www.taiwannews.com.tw/en/news/6412274",
+   "https://www.edf.fr/en/the-edf-group/dedicated-sections/journalists/all-press-releases/edf-shares-its-forecasted-cost-estimate-of-the-epr2-programme-for-eu728bn",
+   "https://www.edf.fr/entreprises/faq-entreprises/contact/nous-rejoindre/comment-acceder-aux-offres-de-stage"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "schneider-electric",
+  "name": "Schneider Electric",
+  "aliases": [
+   "Schneider",
+   "SE"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Rueil-Malmaison (Paris area), France",
+  "paris": "Global headquarters and corporate strategy teams are in Rueil-Malmaison, west of Paris, where many head-office internships (e.g. strategic and competitive intelligence) are based.",
+  "founded": "1836",
+  "employees": "About 160,000 (2025)",
+  "revenue": "€40.2bn (2025)",
+  "ownership": "Listed on Euronext Paris (CAC 40), widely held",
+  "description": "Global specialist in energy management and industrial automation, selling electrical distribution, data-centre infrastructure, building and grid software. Asia is a major region, with Singapore serving as a key regional hub.",
+  "sectors": "Energy management, electrical equipment, data centres, industrial automation, software",
+  "health": "Record 2025 revenue of €40.2bn (+8.9% organic) with an 18.7% adjusted EBITA margin; net income €4.2bn. Growth accelerated in 2026 (Q3 revenue +16.9% organic, guidance raised), and in October 2026 CEO Olivier Blum signed a ~$22.6bn deal to buy US software firm PTC, under the 'Advancing Energy Tech' 2026-2030 plan.",
+  "news": [
+   {
+    "date": "2026-10",
+    "title": "Record Q3 2026: revenue up 16.9% organically, full-year targets raised again",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/schneider-electric-revenue-up-16-9-organically-in-third-quarter-adjusted-ebita-target-raised/27273.html"
+   },
+   {
+    "date": "2026-10",
+    "title": "Schneider Electric agrees to acquire PTC for about $22.6bn",
+    "url": "https://latele.ch/articles/schneider-electric-acquiert-ptc-pour-22-6-milliards-de-dollars"
+   },
+   {
+    "date": "2026-02",
+    "title": "Schneider Electric posts record 2025 revenue of €40.2bn",
+    "url": "https://www.aa.com.tr/en/energy/finance/schneider-electric-posts-record-2025-revenue-of-402b/54970"
+   }
+  ],
+  "recruiting": "Schneider is one of the most active campus recruiters in France, with many 4-6 month internships (strategy, supply chain, finance, data) posted on its careers site and on JobTeaser. It runs a large VIE programme worldwide and graduate/early-career programmes. Head-office roles sit in Rueil-Malmaison and Grenoble.",
+  "tinoAngle": "Your 6 months in Singapore are a real asset for Schneider's Asia-Pacific hub, and a strategy intern role around the PTC integration or energy-management growth would let you combine that international exposure with your decarbonisation background.",
+  "careersUrl": "https://www.se.com/ww/en/about-us/careers/",
+  "website": "https://www.se.com",
+  "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/ECO/2026/02/FCECO081066_20260226.pdf",
+   "https://www.aa.com.tr/en/energy/finance/schneider-electric-posts-record-2025-revenue-of-402b/54970",
+   "https://latele.ch/articles/schneider-electric-acquiert-ptc-pour-22-6-milliards-de-dollars",
+   "https://www.ideal-investisseur.fr/en/stock-news/schneider-electric-revenue-up-16-9-organically-in-third-quarter-adjusted-ebita-target-raised/27273.html",
+   "https://www.jobteaser.com/en/companies/schneider-electric/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "air-liquide",
+  "name": "Air Liquide",
+  "aliases": [
+   "L'Air Liquide"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Group head office (siège social) and corporate functions, including strategy and group operations control, are in central Paris (7th arrondissement), with R&D at Paris-Saclay.",
+  "founded": "1902",
+  "employees": "About 65,000 (2025)",
+  "revenue": "€26.9bn (2025)",
+  "ownership": "Listed on Euronext Paris (CAC 40), widely held with a large base of individual shareholders",
+  "description": "World leader in industrial and medical gases, technologies and services for industry and healthcare. It is a key player in low-carbon hydrogen, carbon capture and electronics gases.",
+  "sectors": "Industrial gases, healthcare, electronics, hydrogen and energy transition",
+  "health": "Record 2025 with revenue of €26.9bn (+2% comparable), operating margin above 20% and recurring net profit above €3.5bn, completing the ADVANCE 2022-2025 plan. Targets +100bp margin in both 2026 and 2027; the ~€3bn DIG Airgas acquisition (South Korea) closed in January 2026, and H1 2026 recurring net profit rose 9.9% excluding currency.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "H1 2026 results: second-quarter acceleration and continued margin improvement",
+    "url": "https://www.airliquide.com/investors/first-half-2026-results"
+   },
+   {
+    "date": "2026-02",
+    "title": "2025 record performance; Air Liquide confirms growth outlook and new 2027 margin target",
+    "url": "https://www.airliquide.com/group/press-releases-news/2026-02-20/2025-record-performance-and-confident-its-transformation-dynamic-air-liquide-confirms-its-growth"
+   },
+   {
+    "date": "2026-01",
+    "title": "Air Liquide closes ~€3bn DIG Airgas acquisition, becoming leader in South Korea",
+    "url": "https://chemxplore.com/news/air-liquide-h1-results-growth-performance"
+   }
+  ],
+  "recruiting": "Air Liquide posts head-office internships in Paris (e.g. group operations control) and many apprenticeships, plus VIE assignments abroad; it also runs a fresh-graduate programme coordinated from head office. Offers appear on its careers site and on JobTeaser.",
+  "tinoAngle": "Your AFOCO decarbonisation project gives you a concrete angle on Air Liquide's hydrogen and low-carbon strategy, and its Asian growth (DIG Airgas in Korea) is a natural fit for your Singapore experience.",
+  "careersUrl": "https://www.airliquide.com/careers",
+  "website": "https://www.airliquide.com",
+  "sources": [
+   "https://www.airliquide.com/group/press-releases-news/2026-02-20/2025-record-performance-and-confident-its-transformation-dynamic-air-liquide-confirms-its-growth",
+   "https://chemxplore.com/news/air-liquide-h1-results-growth-performance",
+   "https://www.airliquide.com/investors/first-half-2026-results",
+   "https://www.jobteaser.com/en/companies/air-liquide/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "saint-gobain",
+  "name": "Saint-Gobain",
+  "aliases": [
+   "Compagnie de Saint-Gobain"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Courbevoie (La Défense, Paris area), France",
+  "paris": "Group headquarters and corporate strategy teams are in the Saint-Gobain tower at La Défense (Courbevoie), with France being the group's largest country of operations.",
+  "founded": "1665",
+  "employees": "More than 162,000 (2025)",
+  "revenue": "€46.5bn (2025)",
+  "ownership": "Listed on Euronext Paris (CAC 40), widely held",
+  "description": "Worldwide leader in light and sustainable construction, designing and distributing materials and solutions for buildings, infrastructure and industry (glass, insulation, plaster, construction chemicals). It has a manufacturing presence in 81 countries.",
+  "sectors": "Building materials, construction chemicals, glass and insulation, high-performance materials",
+  "health": "2025 sales were flat at €46.5bn (+2.1% local currencies) with an 11.4% operating margin and net income €2.9bn, closing the Grow & Impact plan. The new 'Lead & Grow' 2026-2030 plan drives bolt-on acquisitions (FOSROC, Cemix, Asia, D.S. Brown); H1 2026 net income fell 13% amid a mixed market.",
+  "news": [
+   {
+    "date": "2026-10",
+    "title": "Saint-Gobain agrees to acquire D.S. Brown, a US infrastructure solutions company",
+    "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-15-saint-gobain-met-la-main-sur-ds-brown-company-aux-etats-unis.html"
+   },
+   {
+    "date": "2026-07",
+    "title": "H1 2026: earnings down, 2026 outlook confirmed with second-half sales growth expected",
+    "url": "https://www.rttnews.com/3673663/saint-gobain-h1-results-down-sees-sales-growth-in-h2-backs-fy26-outlook-stock-up.aspx"
+   },
+   {
+    "date": "2026-07",
+    "title": "Saint-Gobain expands in Asia with acquisitions in Vietnam and Japan",
+    "url": "https://www.finanzwire.com/article/saint-gobain-expands-in-asia-through-strategic-acquisitions-MZ7GkJR23H1"
+   },
+   {
+    "date": "2026-02",
+    "title": "Full-year 2025 results: sales up 2.1% and operating income up 3.8% in local currencies",
+    "url": "https://webdisclosure.com/press-release/saint-gobain-epa-sgo-full-year-2025-results-QArWvqvwUKW"
+   }
+  ],
+  "recruiting": "Saint-Gobain recruits interns, apprentices and VIEs through its JoinUs portal; no prior sector experience is needed and each student gets a mentor. The process is four steps: online application, phone call, one or two interviews, then onboarding. Internships can lead to fixed-term or permanent contracts.",
+  "tinoAngle": "You already surveyed Saint-Gobain during your AFOCO project, so you can speak concretely about circular construction materials and use that contact history to approach its strategy and M&A teams driving the 'Lead & Grow' acquisitions.",
+  "careersUrl": "https://joinus.saint-gobain.com/",
+  "website": "https://www.saint-gobain.com",
+  "sources": [
+   "https://webdisclosure.com/press-release/saint-gobain-epa-sgo-full-year-2025-results-QArWvqvwUKW",
+   "https://saint-gobain.com/en/finance/saint-gobain-figures",
+   "https://www.saint-gobain-northamerica.com/pressrelease/new-strategic-plan-lead-grow-saint-gobain-leverages-its-leadership-accelerate-its-profitable-growth",
+   "https://www.rttnews.com/3673663/saint-gobain-h1-results-down-sees-sales-growth-in-h2-backs-fy26-outlook-stock-up.aspx",
+   "https://saint-gobain.com/en/students-trainees-work-experience-vie"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "siemens",
+  "name": "Siemens",
+  "aliases": [
+   "Siemens AG",
+   "Siemens France"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Munich, Germany",
+  "paris": "Siemens France is headquartered in the La Défense business district (Paris area), with just over 6,000 employees and about €2.4bn revenue in France (FY2024); many Paris-region roles are also posted in Saint-Denis.",
+  "founded": "1847",
+  "employees": "About 318,000 (FY2025, continuing operations)",
+  "revenue": "€78.9bn (FY2025, year to Sept.)",
+  "ownership": "Listed on the Frankfurt Stock Exchange (DAX), widely held",
+  "description": "German technology group combining industrial automation and software (Digital Industries), smart infrastructure, and rail (Mobility), and majority owner of Siemens Healthineers. It positions itself as a 'ONE Tech Company' focused on digital and AI-driven industrial technology.",
+  "sectors": "Industrial automation and software, smart infrastructure, mobility, healthcare",
+  "health": "FY2025 revenue €78.9bn (+5% comparable) and record net income of €10.4bn; the 'ONE Tech Company' programme (Nov 2025) raised the mid-term growth ambition to 6-9%. Record Q3 FY2026 orders led to a raised EPS outlook, and the spin-off of Siemens Healthineers is planned for a shareholder vote in February 2027.",
+  "news": [
+   {
+    "date": "2026-08",
+    "title": "Siemens reports record third quarter of fiscal 2026 and raises outlook",
+    "url": "https://tedmag.com/siemens-ag-reports-record-third-quarter-raises-outlook/"
+   },
+   {
+    "date": "2026-04",
+    "title": "Siemens clarifies timeline for the spin-off of Siemens Healthineers shares",
+    "url": "https://press.siemens.com/global/en/pressrelease/siemens-clarifies-timeline-spin-siemens-healthineers-shares"
+   },
+   {
+    "date": "2025-11",
+    "title": "Record FY2025 results; Siemens launches its ONE Tech Company programme",
+    "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:4f2a7444-211a-4f8c-b01c-16f4e4cbe3b9/251113-press-release-en.pdf"
+   }
+  ],
+  "recruiting": "Siemens France offers internships, alternance and early-career roles across its Paris-region and industrial sites, and runs the Siemens Graduate Program (including a France production track at Haguenau). Internal consulting arm Advanta also hires interns. Offers are on jobs.siemens.com, filterable by country and experience level.",
+  "tinoAngle": "Because you already know Siemens well from your case study, you can go straight to its strategic questions (Healthineers spin-off, ONE Tech Company, AI and digital growth) in interviews and aim for a strategy or Advanta consulting internship at Siemens France.",
+  "careersUrl": "https://www.siemens.com/fr-fr/company/jobs/early-careers/",
+  "website": "https://www.siemens.com",
+  "sources": [
+   "https://assets.new.siemens.com/siemens/assets/api/uuid:4f2a7444-211a-4f8c-b01c-16f4e4cbe3b9/251113-press-release-en.pdf",
+   "https://tedmag.com/siemens-ag-reports-record-third-quarter-raises-outlook/",
+   "https://press.siemens.com/global/en/pressrelease/siemens-clarifies-timeline-spin-siemens-healthineers-shares",
+   "https://assets.new.siemens.com/siemens/assets/api/uuid:0acf997f-a9bb-492d-9d78-19d3ed580ffe/siemens-en-France-PPT-web.pdf",
+   "https://www.siemens.com/fr-fr/company/jobs/early-careers/"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "holcim",
+  "name": "Holcim",
+  "aliases": [
+   "Holcim AG",
+   "LafargeHolcim",
+   "Lafarge"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Zug, Switzerland",
+  "paris": "In France the group operates as Holcim France (formerly Lafarge France) with Paris-region offices (current postings include Nanterre) and many plants nationwide; group strategy sits in Switzerland.",
+  "founded": "1912",
+  "employees": "More than 45,000 (2025)",
+  "revenue": "CHF 15.7bn net sales (2025)",
+  "ownership": "Listed on the SIX Swiss Exchange, widely held",
+  "description": "Global leader in innovative and sustainable building materials (cement, aggregates, ready-mix and building solutions), refocused on Europe, Latin America and Asia-Middle-East-Africa after spinning off its North American business in 2025. Its low-carbon ECOPact and ECOPlanet ranges and recycled construction materials are central to its strategy.",
+  "sectors": "Cement, aggregates, ready-mix concrete, building solutions, recycled materials",
+  "health": "2025 net sales CHF 15.7bn (+3% LC) and recurring EBIT CHF 2.9bn (+10.3%, margin 18.3%), though reported net income fell to CHF 387m due to a Nigeria divestment effect. Under the 'NextGen Growth 2030' strategy it completed the Xella and Cementos Pacasmayo deals in 2026 and upgraded 2026 guidance after H1.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Strong H1 2026 with 11.5% organic growth in recurring EBIT; guidance upgraded",
+    "url": "https://www.holcim.com/media/media-releases/h1-2026-results"
+   },
+   {
+    "date": "2026-04",
+    "title": "French court finds Lafarge guilty of financing terrorism in Syria",
+    "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism"
+   },
+   {
+    "date": "2026-02",
+    "title": "Holcim FY 2025 results: all targets achieved, NextGen Growth 2030 in full execution",
+    "url": "https://www.holcim.com/sites/holcim/files/docs/27022026-press-finance-holcim-fy-2025-results-en.pdf"
+   }
+  ],
+  "recruiting": "Holcim France advertises CDI, apprenticeship (alternance) and some internship roles across its French sites and Paris-region offices, mainly via its careers site and job boards such as Indeed. Group-level internships and graduate opportunities are listed on holcim.com/careers.",
+  "tinoAngle": "You studied Holcim's sustainability strategy in class, so use it to discuss its circular-construction and recycled-materials targets in depth, linking them to your hands-on ash-recovery work at AFOCO.",
+  "careersUrl": "https://www.holcim.com/careers",
+  "website": "https://www.holcim.com",
+  "sources": [
+   "https://www.holcim.com/sites/holcim/files/docs/27022026-press-finance-holcim-fy-2025-results-en.pdf",
+   "https://www.holcim.com/media/media-releases/h1-2026-results",
+   "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism",
+   "https://fr.indeed.com/cmp/Holcim/jobs"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "ferrari",
+  "name": "Ferrari",
+  "aliases": [
+   "Ferrari N.V.",
+   "Ferrari S.p.A."
+  ],
+  "type": "Corporate strategy",
+  "hq": "Maranello (Modena), Italy",
+  "paris": "No corporate or strategy team in Paris: strategy, finance and brand functions sit at the Maranello headquarters, and France is covered through the dealer network.",
+  "founded": "1939 (Auto Avio Costruzioni); first Ferrari road car 1947",
+  "employees": "5,718 (end of 2025)",
+  "revenue": "€7.15bn net revenues (FY2025, +7%); 2026 guidance raised to about €7.6bn",
+  "ownership": "Listed on NYSE and Euronext Milan (Ferrari N.V.); Exor (Agnelli family) is the reference shareholder and Piero Ferrari holds a significant stake",
+  "description": "Italian luxury sports-car maker and Formula 1 team (Scuderia Ferrari) that deliberately caps volumes (about 13,600 cars shipped in 2025) to protect exclusivity. Revenue also comes from personalisation, sponsorship, lifestyle and brand activities. In 2026 it launched its first fully electric model, the Luce.",
+  "sectors": [
+   "Automotive",
+   "Luxury",
+   "Motorsport"
+  ],
+  "health": "Very strong: in 2025 net revenues rose 7% to €7.15bn, EBITDA margin was 38.8% and net profit about €1.6bn, with the order book running to the end of 2027. Guidance was raised again with Q2 2026 results, though the polarising Luce launch (May 2026) knocked the shares.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Ferrari raises 2026 guidance after Q2 revenue up 8%, driven by personalisation",
+    "url": "https://www.cbtnews.com/ferrari-raises-2026-guidance/"
+   },
+   {
+    "date": "2026-07",
+    "title": "Electric Ferrari Luce reportedly sells out 2026 allocation despite design criticism",
+    "url": "https://businesschief.com/news/ferrari-ceo-luce-sells-out-2026-allocation"
+   },
+   {
+    "date": "2026-02",
+    "title": "Ferrari posts record 2025: revenues €7.15bn, €3.5bn buyback announced",
+    "url": "https://www.dukascopy.com/swiss/french/marketwatch/market-news/Stock-Analysis/154287/"
+   }
+  ],
+  "recruiting": "Internships and graduate tracks (e.g. 6-month programmes for recent Master's graduates in business, luxury, strategy and engineering) are based in Maranello and listed on jobs.ferrari.com. Postings require excellent English; Italian is not always listed as mandatory but is a strong plus for daily life and corporate roles in Maranello. Competition is extreme, so apply early and target specific postings.",
+  "tinoAngle": "Your F4 racing and Ferrari driving experience is a genuine conversation-starter here, and combined with your luxury/automotive interest it gives you a credible story for a strategy or business-development internship in Maranello, especially if you start learning Italian now.",
+  "careersUrl": "https://ferrari.com/en-EN/corporate/career",
+  "website": "https://www.ferrari.com",
+  "sources": [
+   "https://www.dukascopy.com/swiss/french/marketwatch/market-news/Stock-Analysis/154287/",
+   "https://www.cbtnews.com/ferrari-raises-2026-guidance/",
+   "https://businesschief.com/news/ferrari-ceo-luce-sells-out-2026-allocation",
+   "https://tickerleague.com/companies/RACE/employee-count",
+   "https://quifinanza.it/lavoro/trova-lavoro/ferrari-stage-comunicazione/963396/"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "stellantis",
+  "name": "Stellantis",
+  "aliases": [
+   "Stellantis N.V.",
+   "Groupe PSA",
+   "PSA",
+   "FCA",
+   "Fiat Chrysler Automobiles"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Amsterdam (Hoofddorp), Netherlands; main operational hubs in Poissy (France), Turin and Auburn Hills (US)",
+  "paris": "Large Île-de-France footprint, with the Poissy headquarters campus and Vélizy/Carrières-sous-Poissy sites, where many global corporate functions, including strategy and transformation teams, are based.",
+  "founded": "2021 (merger of PSA and FCA)",
+  "employees": "258,668 (end of 2025)",
+  "revenue": "€153.5bn net revenues (FY2025, -2%); net loss of €22.3bn after €25.4bn of unusual charges",
+  "ownership": "Listed on Euronext Paris, Euronext Milan and NYSE; key shareholders include Exor, Peugeot family entities and Bpifrance",
+  "description": "Fourth-largest global carmaker by volume, with 14 brands including Peugeot, Citroën, Opel, Fiat, Jeep, Alfa Romeo, Maserati and Ram. It ships about 5.5m vehicles a year across Europe, North America, South America and the Middle East/Africa.",
+  "sectors": [
+   "Automotive",
+   "Mobility",
+   "Financial services"
+  ],
+  "health": "2025 was a reset year: AOI was slightly negative and the net loss was €22.3bn after write-downs tied to over-estimating the EV transition, and the 2026 dividend was suspended. In May 2026 CEO Antonio Filosa launched the FaSTLAne 2030 plan (€60bn of investment over five years, about 800,000 units of European capacity cut, €6bn of annual savings by 2028), and the group returned to a €670m net profit in H1 2026.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Stellantis returns to profit in H1 2026 with €670m net income, revenues +10%",
+    "url": "https://www.motor16.com/las-ultimas-noticias/resultados-stellantis-2026/"
+   },
+   {
+    "date": "2026-05",
+    "title": "Stellantis unveils FaSTLAne 2030: €60bn investment, European capacity cut",
+    "url": "https://www.ansa.it/english/news/2026/05/21/stellantis-to-invest-60-bn-in-next-five-years-scale-back-capacity-in-europe_1aa9374e-98e3-4bb6-b337-c75a67d0718a.html"
+   },
+   {
+    "date": "2026-03",
+    "title": "Stellantis adds more than 10,000 jobs in 2025, led by North America",
+    "url": "https://www.clubalfa.it/en/stellantis-adds-more-than-10000-jobs-in-2025-as-north-america-drives-the-rebound-35232"
+   },
+   {
+    "date": "2026-02",
+    "title": "Stellantis reports full-year 2025 results: €22.3bn net loss after strategic reset",
+    "url": "https://www.stellantis.com/en/news/press-releases/2026/february/full-year-2025-results"
+   }
+  ],
+  "recruiting": "Runs the 2-year rotational GPS Graduate Program, whose rotations include a Corporate (global functions) cluster and international mobility, plus internships searchable by country (search 'INTERNSHIP' with France selected) on the early-careers portal. Working languages are English and French in France. Corporate roles may be scarcer while European restructuring under FaSTLAne 2030 continues.",
+  "tinoAngle": "Stellantis is in the middle of a huge strategic turnaround, so your consulting training and international track record (Singapore, Madrid, Australia) fit well with strategy or transformation-office internships at Poissy, and your Spanish is an asset for its Iberian and Latin American operations.",
+  "careersUrl": "https://careers.stellantis.com/global-students/",
+  "website": "https://www.stellantis.com",
+  "sources": [
+   "https://www.stellantis.com/en/news/press-releases/2026/february/full-year-2025-results",
+   "https://www.ansa.it/english/news/2026/05/21/stellantis-to-invest-60-bn-in-next-five-years-scale-back-capacity-in-europe_1aa9374e-98e3-4bb6-b337-c75a67d0718a.html",
+   "https://www.motor16.com/las-ultimas-noticias/resultados-stellantis-2026/",
+   "https://careers.stellantis.com/early-careers/graduate-program/",
+   "https://www.clubalfa.it/en/stellantis-adds-more-than-10000-jobs-in-2025-as-north-america-drives-the-rebound-35232"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "michelin",
+  "name": "Michelin",
+  "aliases": [
+   "Compagnie Générale des Établissements Michelin",
+   "Groupe Michelin",
+   "Michelin Group"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Clermont-Ferrand, France",
+  "paris": "Most corporate functions, including strategy, are at the Clermont-Ferrand headquarters and global R&D centre; the Paris region has a smaller presence, so expect strategy roles to be in Auvergne.",
+  "founded": "1889",
+  "employees": "About 122,600 (2025)",
+  "revenue": "€26.0bn sales (FY2025, -1.4% at constant FX); segment operating income about €2.9bn",
+  "ownership": "Listed on Euronext Paris (CAC 40); partnership limited by shares (SCA), widely held",
+  "description": "World-leading tyre maker for cars, trucks, aircraft, mining and two-wheelers. Under its 'Michelin in Motion' strategy it is diversifying into polymer composites (conveyor belts, seals, high-tech materials), services and experiences such as the Michelin Guide.",
+  "sectors": [
+   "Automotive",
+   "Tyres",
+   "Materials",
+   "Mobility services"
+  ],
+  "health": "Sales slipped in 2025 because of weak original-equipment and truck demand and low plant utilisation. H1 2026 was steadier (sales €12.7bn, margin 11.4%, guidance confirmed), but restructuring continues: a US BFGoodrich plant wind-down and a voluntary plan of up to 1,500 positions in France over three years, announced in May 2026. A Capital Markets Day is set for May 2027.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Michelin H1 2026: margin up to 11.4%, guidance confirmed, three composite acquisitions completed",
+    "url": "https://www.taiwannews.com.tw/news/6409165"
+   },
+   {
+    "date": "2026-05",
+    "title": "Michelin plans voluntary workforce adaptation of up to 1,500 positions in France",
+    "url": "https://www.michelin.com/publications/produits-et-services/michelin-envisage-un-projet-d-adaptation-de-ses-effectifs-basé-sur-le-volontariat"
+   },
+   {
+    "date": "2026-02",
+    "title": "Michelin reports €26.0bn 2025 sales amid OE and utilisation headwinds",
+    "url": "https://www.tyrepress.com/2026/02/full-year-2025-results-michelin-reports-e26-0-billion-sales-amidst-oe-utilisation-headwinds/"
+   }
+  ],
+  "recruiting": "Offers internships and work-study placements, plus international graduate programmes: Marketing & Sales (3 positions over 5 years) and Manufacturing (2 positions over 3 years). Offers are posted on recrutement.michelin.fr, and French plus fluent English is expected for roles in Clermont-Ferrand.",
+  "tinoAngle": "Your AFOCO project on valorising industrial ash fits neatly with Michelin's push into sustainable materials and circularity, which makes a strong hook for a strategy, innovation or sustainable-mobility internship, if you are open to working in Clermont-Ferrand.",
+  "careersUrl": "https://recrutement.michelin.fr/en/",
+  "website": "https://www.michelin.com",
+  "sources": [
+   "https://www.tyrepress.com/2026/02/full-year-2025-results-michelin-reports-e26-0-billion-sales-amidst-oe-utilisation-headwinds/",
+   "https://www.taiwannews.com.tw/news/6409165",
+   "https://www.michelin.com/publications/produits-et-services/michelin-envisage-un-projet-d-adaptation-de-ses-effectifs-basé-sur-le-volontariat",
+   "https://www.sustainabilityreports.com/compagnie-generale-des-etablissements-michelin-societe-en-commandite-par-actions/2025/universal-registration-document",
+   "https://recrutement.michelin.fr/en/students/our-graduates-programs"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "valeo",
+  "name": "Valeo",
+  "aliases": [
+   "Valeo SE"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Group headquarters, including corporate strategy, are in Paris, and the group has major R&D and business-group sites across Île-de-France.",
+  "founded": "1923 (as Société Anonyme Française du Ferodo)",
+  "employees": "100,200 (2025)",
+  "revenue": "€20.9bn sales (FY2025, +0.5% like-for-like); net income €200m",
+  "ownership": "Listed on Euronext Paris; widely held",
+  "description": "Global automotive supplier focused on electrification (high-voltage powertrain systems, thermal management), driver assistance and software-defined vehicles (sensors, cameras, lidar), lighting and the aftermarket. It operates 149 plants and 59 R&D centres in 29 countries.",
+  "sectors": [
+   "Automotive",
+   "Electrification",
+   "ADAS",
+   "Software-defined vehicles"
+  ],
+  "health": "Steady recovery: in 2025 the operating margin reached 4.7%, free cash flow before restructuring hit a record €756m and order intake jumped 38% to €24.6bn. H1 2026 margin rose to 5.0% with guidance reaffirmed, as the Elevate 2028 plan and a €400m European restructuring programme progress.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Valeo H1 2026: operating margin 5.0%, free cash flow up, 2026 targets reaffirmed",
+    "url": "https://www.globenewswire.com/news-release/2026/07/22/3331600/0/en/Valeo-H1-2026-Results.html"
+   },
+   {
+    "date": "2026-02",
+    "title": "Valeo FY2025: net profit +23%, record order intake up 38%",
+    "url": "https://www.globenewswire.com/news-release/2026/02/26/3245916/0/en/Valeo-FY-2025-Results.html"
+   },
+   {
+    "date": "2026-02",
+    "title": "Net profit up 23%, orders up 38%: Valeo's 2025 shows resilience",
+    "url": "https://autonews.gasgoo.com/articles/news/net-profit-up-23-orders-up-38-valeos-2025-performance-shows-strong-resilience-2027978225332785153"
+   }
+  ],
+  "recruiting": "Recruits interns, apprentices and VIEs (it runs an international VIE programme) through its job-offer portal on valeo.com and through JobTeaser. Corporate strategy and business-group strategy roles sit in Paris. English is the working language, with French useful at headquarters.",
+  "tinoAngle": "Valeo's strategy agenda (electrification, ADAS, software-defined vehicles, new markets like drones and energy storage) suits your strategy-consulting profile, and its Paris headquarters plus VIE programme give you both a Paris-first option and an international one.",
+  "careersUrl": "https://www.valeo.com/en/offers/",
+  "website": "https://www.valeo.com",
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/02/26/3245916/0/en/Valeo-FY-2025-Results.html",
+   "https://www.globenewswire.com/news-release/2026/07/22/3331600/0/en/Valeo-H1-2026-Results.html",
+   "https://www.valeo.com/publications/en/at-a-glance-2025/publication/contents/text_epub.xml",
+   "https://en.wikipedia.org/wiki/Valeo",
+   "https://valeo.com/en/investors-shareholders-at-a-glance"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "forvia",
+  "name": "Forvia",
+  "aliases": [
+   "Forvia SE",
+   "Faurecia",
+   "Forvia Faurecia",
+   "Forvia Hella",
+   "Hella"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Nanterre (Hauts-de-Seine), France",
+  "paris": "Group headquarters, including corporate strategy, M&A and the IGNITE transformation teams, are in Nanterre, just west of Paris.",
+  "founded": "1997 as Faurecia; became Forvia in 2022 after acquiring Hella",
+  "employees": "Over 150,000 (2025, before the Interiors sale, which covers about 31,000 people)",
+  "revenue": "€26.2bn sales (FY2025, flat at constant currency); net loss of €2.1bn after one-off charges",
+  "ownership": "Listed on Euronext Paris; widely held",
+  "description": "One of the world's largest automotive suppliers, covering seating, electronics, lighting (via Hella), clean mobility and lifecycle solutions. It is reshaping its portfolio around a 'Growth' cluster (Seating, Electronics) and a 'Value' cluster.",
+  "sectors": [
+   "Automotive",
+   "Electronics",
+   "Seating",
+   "Lighting"
+  ],
+  "health": "Deleveraging is the priority: in 2025 the operating margin rose to 5.6% and net debt fell to €6.0bn (1.7x EBITDA), but the net loss was €2.1bn after impairments and no dividend was paid. In April 2026 it agreed to sell Interiors to Apollo funds (€1.82bn enterprise value, closing expected end-2026). The EU-FORWARD plan had announced 6,400 job cuts by end-2025, and H1 2026 confirmed guidance of a 6.0–6.5% margin.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Forvia H1 2026: margin up to 6.0%, net cash flow +19%, guidance confirmed under IGNITE roadmap",
+    "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69179585-forvia-h1-2026-results-margin-expansion-and-strong-net-cash-flow-delivering-on-the-ignite-strategic-roadmap-full-year-guidance-confirmed-399.htm"
+   },
+   {
+    "date": "2026-04",
+    "title": "Forvia agrees €1.82bn sale of Interiors business to Apollo funds",
+    "url": "https://www.just-auto.com/news/forvia-sale-interiors-unit-apollo/"
+   },
+   {
+    "date": "2026-02",
+    "title": "Forvia 2025 annual results: higher margin, lower debt, €2.1bn net loss",
+    "url": "https://www.forvia.com/en/press/2025-annual-results"
+   }
+  ],
+  "recruiting": "Posts internships (typically 4–6 months), apprenticeships and VIE assignments on its careers site and on JobTeaser, with HQ roles in Nanterre. English is the group language, and French is needed for most French sites.",
+  "tinoAngle": "Forvia is in the middle of a portfolio transformation (disposals, IGNITE roadmap, cost restructuring), which is exactly the work a strategy-consulting graduate supports, so look for strategy, M&A or transformation internships at the Nanterre HQ, which is easy to reach from Paris.",
+  "careersUrl": "https://careers.faurecia.com/",
+  "website": "https://www.forvia.com",
+  "sources": [
+   "https://www.forvia.com/en/press/2025-annual-results",
+   "https://www.forvia.com/sites/default/files/2026-02/2026%2002%2024%20FY2025%20RESULTS%20ENG%20DEF.pdf",
+   "https://www.just-auto.com/news/forvia-sale-interiors-unit-apollo/",
+   "https://www.finanznachrichten.de/nachrichten-2026-07/69179585-forvia-h1-2026-results-margin-expansion-and-strong-net-cash-flow-delivering-on-the-ignite-strategic-roadmap-full-year-guidance-confirmed-399.htm",
+   "https://www.jobteaser.com/en/companies/faurecia/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "airbus",
+  "name": "Airbus",
+  "aliases": [
+   "Airbus SAS",
+   "Airbus SE",
+   "Airbus Group",
+   "Airbus Helicopters",
+   "Airbus Defence and Space"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Leiden, Netherlands (registered); operational headquarters in Blagnac/Toulouse, France",
+  "paris": "Corporate Strategy sits in Blagnac (Toulouse); the Paris region hosts Airbus offices and the Élancourt (Defence and Space) and Paris Le Bourget sites.",
+  "founded": "1970 (Airbus Industrie)",
+  "employees": "Around 160,000 (Airbus website, late 2025)",
+  "revenue": "€73.4bn revenues (FY2025, +6%); net income €5.2bn",
+  "ownership": "Listed on Euronext Paris, Frankfurt and Madrid; France and Germany each hold about 11% and Spain about 4%",
+  "description": "World's largest commercial aircraft maker (A220, A320neo family, A330neo, A350), with helicopter and defence and space divisions. It delivered 793 commercial aircraft in 2025 and has a backlog of over 9,000.",
+  "sectors": [
+   "Aerospace",
+   "Defence",
+   "Space"
+  ],
+  "health": "Healthy growth: 2025 revenues rose 6% to €73.4bn and adjusted EBIT reached €7.1bn. H1 2026 revenues were up 12% with unchanged guidance (about 870 deliveries, €7.5bn adjusted EBIT), and the group aims for over 1,100 deliveries a year by 2029. Supply-chain strain and the integration of Spirit AeroSystems work packages remain the key risks.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Airbus H1 2026: revenues +12%, 351 deliveries, 2026 guidance maintained",
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-reports-half-year-h1-2026-results"
+   },
+   {
+    "date": "2026-07",
+    "title": "Airbus targets more than 1,100 annual deliveries by 2029",
+    "url": "https://afm.aero/airbus-targets-more-than-1100-deliveries-by-2029"
+   },
+   {
+    "date": "2026-02",
+    "title": "Airbus reports FY2025: revenues €73.4bn, 793 deliveries",
+    "url": "https://www.afraa.org/7972-2/"
+   }
+  ],
+  "recruiting": "Internships in France last 4–6 months; applications open September to December, with summer internships opening in January. The process is an online application, then a video interview, then an interview with the manager. Corporate Strategy posts dedicated end-of-studies internships, such as the 6-month 'Stage 2027 – Stratégie d'Entreprise' in Blagnac starting around March–April 2027, which requires security clearance. EU nationality or French work authorisation is required, and both French and English are used.",
+  "tinoAngle": "Your international profile (Singapore, Madrid, Australia, three languages) matches Airbus's very multinational culture, and its Corporate Strategy team in Blagnac recruits end-of-studies interns for 2027, so watch for those postings from September through December.",
+  "careersUrl": "https://www.airbus.com/en/careers/students-and-graduates/interns/internships-in-france",
+  "website": "https://www.airbus.com",
+  "sources": [
+   "https://www.afraa.org/7972-2/",
+   "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-reports-half-year-h1-2026-results",
+   "https://www.airbus.com/en/careers/students-and-graduates/interns/internships-in-france",
+   "https://flexa.careers/jobs/airbus-stage-2027-strat-gie-d-entreprise-f-h-6aade9e583696f8d819cb440",
+   "https://www.airbus.com/en/our-worldwide-presence"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "safran",
+  "name": "Safran",
+  "aliases": [
+   "Safran SA",
+   "Groupe Safran"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Group headquarters functions, including Strategy and M&A (for example a 'Manager M&A / analyse stratégique' role in Malakoff), are in Paris and the inner suburbs, and many subsidiaries have sites across Île-de-France.",
+  "founded": "2005 (merger of Snecma and Sagem)",
+  "employees": "More than 100,000 in 27 countries (2025–2026)",
+  "revenue": "€31.3bn adjusted revenue (FY2025, +14.7%); recurring operating income €5.2bn (16.6% margin)",
+  "ownership": "Listed on Euronext Paris (CAC 40); the French State is the largest shareholder",
+  "description": "Leading aerospace and defence group: through CFM International (with GE) it co-produces the LEAP engine for the A320neo and 737 MAX, and it also makes landing gear, nacelles, aircraft equipment, defence electronics and aircraft interiors.",
+  "sectors": [
+   "Aerospace",
+   "Defence",
+   "Propulsion",
+   "Aircraft equipment"
+  ],
+  "health": "Excellent momentum: in 2025 revenue rose about 15% and margin improved by 150bp, with 2028 ambitions raised (about €21bn cumulative FCF over 2024–28). H1 2026 delivered a record 18.4% margin and full-year guidance was raised again. Portfolio moves continue, including the sale of Safran Passenger Innovations and the joint Aubert & Duval stake purchase with Airbus.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "Safran H1 2026: record 18.4% margin, full-year guidance raised",
+    "url": "https://www.safran-group.com/pressroom/safran-reports-its-first-half-2026-results-2026-07-28"
+   },
+   {
+    "date": "2026-04",
+    "title": "Safran reports strong Q1 2026 with 'little to no impact' from war",
+    "url": "https://leehamnews.com/2026/04/23/safran-reports-strong-q1-2026-with-little-to-no-impact-from-war/"
+   },
+   {
+    "date": "2026-02",
+    "title": "Safran reports excellent 2025 and raises its 2028 ambitions",
+    "url": "https://www.safran-group.com/pressroom/safran-reports-excellent-financial-performance-2025-and-raises-its-2028-ambitions-2026-02-13"
+   }
+  ],
+  "recruiting": "Safran plans more than 18,000 hires worldwide in 2026 and lists 4,000+ openings, including internships (stage), apprenticeships and VIE, filterable by contract and country on safran-group.com. Strategy/M&A openings appear at the Paris-area headquarters. French is generally required for French-based roles, alongside English.",
+  "tinoAngle": "Safran's active M&A and portfolio management (disposals, joint acquisitions with Airbus) is a direct fit for your strategy-consulting Master, so target 2027 end-of-studies internships in the group Strategy/M&A team in the Paris area.",
+  "careersUrl": "https://www.safran-group.com/careers/you-are-student",
+  "website": "https://www.safran-group.com",
+  "sources": [
+   "https://www.safran-group.com/pressroom/safran-reports-excellent-financial-performance-2025-and-raises-its-2028-ambitions-2026-02-13",
+   "https://www.safran-group.com/pressroom/safran-reports-its-first-half-2026-results-2026-07-28",
+   "https://www.safran-group.com/careers/glance",
+   "https://www.safran-group.com/jobs/france/malakoff/manager-ma-analyse-strategique-fh-181792",
+   "https://leehamnews.com/2026/04/23/safran-reports-strong-q1-2026-with-little-to-no-impact-from-war/"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "bpifrance",
+  "name": "Bpifrance",
+  "aliases": [
+   "Bpi France",
+   "BPI",
+   "Banque publique d'investissement",
+   "Bpifrance Le Hub"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Maisons-Alfort (Val-de-Marne), France",
+  "paris": "Headquarters and national teams (investment, innovation, strategy) are in Maisons-Alfort and Paris, where Le Hub (the start-up / large-corporate open-innovation unit) is also based; there are 50 regional offices in total.",
+  "founded": "2012–2013 (merger of OSEO, CDC Entreprises and FSI)",
+  "employees": "More than 4,000 (2026)",
+  "revenue": "€72bn mobilised for companies in 2025 (record), including about €21bn of loans, €2.5bn invested in equity and €30bn+ of export guarantees; net banking income €1.8bn, net income €501m, equity about €30bn (2025)",
+  "ownership": "Public: owned by the French State (via EPIC Bpifrance) and Caisse des Dépôts",
+  "description": "France's public investment bank, which finances and invests in companies from start-ups to large caps through loans, guarantees, innovation aid, equity, export insurance and advisory services. Le Hub, launched in 2015, connects start-ups with large corporates for commercial partnerships and open innovation.",
+  "sectors": [
+   "Public finance",
+   "Venture capital and private equity",
+   "Innovation",
+   "Banking"
+  ],
+  "health": "Activity hit a record in 2025 (€72bn mobilised), but net income fell about 44% to €501m because of lower dividends and weaker contributions from listed holdings (Stellantis, STMicroelectronics, Soitec). Its 2026–2030 strategy (October 2025) targets €35bn for reindustrialisation, €35bn for climate and €10bn for AI.",
+  "news": [
+   {
+    "date": "2026-09",
+    "title": "Bpifrance opens H1 2027 internship campaign with nearly 280 offers across France",
+    "url": "https://www.jobteaser.com/fr/companies/bpifrance/newsfeed"
+   },
+   {
+    "date": "2026-02",
+    "title": "Bpifrance: record activity in 2025 but net profit down 44%",
+    "url": "https://www.abcbourse.com/marches/bpifrance-activite-record-en-2025-mais-benefice-en-chute-de-44-a-cause-de-st_689232"
+   },
+   {
+    "date": "2025-10",
+    "title": "Bpifrance unveils its 2030 strategy: reindustrialisation, climate, deeptech and AI",
+    "url": "https://www.bpifrance.com/?p=5432"
+   }
+  ],
+  "recruiting": "Runs a 'Jeunes Talents' programme: the campaign for H1 2027 internships (typically 5–6 months) opened on 14 September 2026 with about 280 offers in finance, investment, innovation, digital, data and risk. The process is a CV screen, then an HR phone interview, then an operational interview that may include a case study. Roles are French-speaking.",
+  "tinoAngle": "An innovation-strategy or Le Hub internship would let you use your consulting skills on start-up/corporate partnerships and industrial or climate projects like your AFOCO ash-valorisation work, and since the H1 2027 campaign opened in September 2026 you should apply now.",
+  "careersUrl": "https://talents.bpifrance.fr/",
+  "website": "https://www.bpifrance.fr",
+  "sources": [
+   "https://www.abcbourse.com/marches/bpifrance-activite-record-en-2025-mais-benefice-en-chute-de-44-a-cause-de-st_689232",
+   "https://www.bpifrance.com/?p=5432",
+   "https://www.jobteaser.com/fr/companies/bpifrance/newsfeed",
+   "https://www.frenchweb.fr/comment-le-hub-bpifrance-accelere-le-rapprochement-entre-grands-groupes-et-start-up/294128",
+   "https://dogfinance.com/entreprises/rnd/bpifrance-plus-de-500-stages-et-alternances-a-pourvoir-partout-en-france"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "lvmh",
+  "name": "LVMH",
+  "aliases": [
+   "Sephora",
+   "LVMH Moët Hennessy Louis Vuitton",
+   "Louis Vuitton",
+   "Christian Dior"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (avenue Montaigne, 8th arr.)",
+  "paris": "Group holding, including corporate strategy, finance and M&A teams, sits in Paris 8th, with many Maisons (Louis Vuitton, Dior, Sephora) also headquartered in Paris.",
+  "founded": "1987",
+  "employees": "More than 211,000 (end 2025)",
+  "revenue": "€80.8bn (2025); €57.1bn for 9M 2026",
+  "ownership": "Listed on Euronext Paris (CAC 40); controlled by the Arnault family",
+  "description": "World leader in luxury goods with 75+ Maisons across fashion and leather goods, wines and spirits, perfumes and cosmetics, watches and jewellery, and selective retailing (Sephora, DFS). The holding steers portfolio strategy, capital allocation and talent across the Maisons.",
+  "sectors": "Luxury goods, fashion & leather goods, wines & spirits, beauty, watches & jewellery, selective retail",
+  "health": "2025 revenue fell 1% organically to €80.8bn with recurring operating profit down 9% to €17.8bn; growth resumed modestly in 2026 (+2% organic over 9M, Q3 +1%), led by jewellery and Sephora while fashion slowed in China. Portfolio pruning continued in 2026 with the sale of Marc Jacobs and most DFS businesses.",
+  "news": [
+   {
+    "date": "2026-10",
+    "title": "LVMH posts +1% organic growth in Q3 2026, 9M revenue €57.1bn",
+    "url": "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026"
+   },
+   {
+    "date": "2026-10",
+    "title": "Q3 organic growth slows amid China downturn (FashionUnited)",
+    "url": "https://fashionunited.com/news/business/lvmh-q3-organic-revenue-growth-slows-amid-china-downturn/2026101375147"
+   },
+   {
+    "date": "2026-07",
+    "title": "H1 2026: €38.6bn revenue, growth accelerates in Q2; Marc Jacobs sale agreed",
+    "url": "https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results"
+   },
+   {
+    "date": "2026-01",
+    "title": "FY2025 results: €80.8bn revenue, 22% operating margin",
+    "url": "https://www.globenewswire.com/news-release/2026/01/27/3226833/0/en/LVMH-Solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment.html"
+   }
+  ],
+  "recruiting": "LVMH holding posts 6-month internships in Paris with January/March 2027 starts (e.g. strategic projects, e-commerce, legal) on its job board, and Maisons recruit separately. Graduate track: LVMH SPRING Future Leaders (3 x 10-month rotations in 3 Maisons), plus SPRING Product Leaders and HR; VIE roles are posted by Maisons abroad.",
+  "tinoAngle": "Sephora already presented at your Strategy Club, so use that contact to target Sephora's strategy/transformation team or holding-level strategy internships for January 2027, and pitch your Singapore and Madrid experience for an international Maison.",
+  "careersUrl": "https://www.lvmh.com/en/join-us",
+  "website": "https://www.lvmh.com",
+  "sources": [
+   "https://www.lvmh.com/en/publications/continued-growth-in-the-third-quarter-of-2026",
+   "https://www.lvmh.com/en/publications/accelerating-growth-in-the-second-quarter---solid-first-half-results",
+   "https://www.globenewswire.com/news-release/2026/01/27/3226833/0/en/LVMH-Solid-performance-in-a-disrupted-global-economic-and-geopolitical-environment.html",
+   "https://www.lvmh.com/en/join-us/lvmh-graduate-programs"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "kering",
+  "name": "Kering",
+  "aliases": [
+   "Gucci",
+   "Saint Laurent",
+   "Bottega Veneta",
+   "Balenciaga",
+   "Kering Eyewear"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (rue de Sèvres, 7th arr.)",
+  "paris": "Corporate headquarters, including group strategy, finance and sustainability teams, is in Paris 7th; Saint Laurent and Balenciaga are also Paris-based.",
+  "founded": "1963",
+  "employees": "About 44,000 (2025)",
+  "revenue": "€14.7bn (2025); €7.2bn H1 2026",
+  "ownership": "Listed on Euronext Paris (CAC 40); controlled by the Pinault family via Artémis",
+  "description": "Global luxury group owning Gucci, Saint Laurent, Bottega Veneta, Balenciaga, Alexander McQueen, Boucheron and Kering Eyewear. Since 2025 CEO Luca de Meo has run a turnaround focused on brand desirability, cost discipline and debt reduction.",
+  "sectors": "Luxury fashion & leather goods, jewellery, eyewear",
+  "health": "2025 revenue fell 10% comparable to €14.7bn with recurring operating income down 33%; H1 2026 returned to slight growth (+1% comparable) and net debt fell from €8.0bn to €3.3bn. Key moves: Kering Beauté sold to L'Oréal (closed March 2026), ReconKering plan unveiled at the April 2026 Capital Markets Day, and a 50-year Gucci beauty licence with L'Oréal.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "H1 2026: back to growth, net debt cut to €3.3bn",
+    "url": "https://mfn.se/all/a/kering/kering-2026-first-half-results-back-to-growth-performance-improvement-and-strategy-execution-on-track-be4c7c4c"
+   },
+   {
+    "date": "2026-07",
+    "title": "How Luca de Meo's financial overhaul gives Kering breathing room (FashionUnited)",
+    "url": "https://fashionunited.com/news/business/kering-how-luca-de-meos-financial-overhaul-is-giving-the-luxury-group-breathing-room-and-time/2026072973769"
+   },
+   {
+    "date": "2026-07",
+    "title": "Kering grants L'Oréal a 50-year exclusive Gucci beauty licence",
+    "url": "https://www.loreal.com/fr/press-release/group/l-oreal-conclut-avec-kering-un-accord-de-licence-exclusive-mondiale--de-50-ans-pour-la-beaute-gucci/"
+   },
+   {
+    "date": "2026-02",
+    "title": "FY2025 results: revenue down 10% comparable, CMD announced",
+    "url": "https://mfn.se/all/a/kering/kering-2025-results-sequential-improvement-unlocking-the-next-phase-of-sustainable-and-profitable-growth-df4cbf96"
+   }
+  ],
+  "recruiting": "Kering corporate posts internships (stage) and apprenticeships in Paris across finance, real estate, sustainability and HR, typically 6 months with September or January starts; brands recruit separately. Openings are listed on Kering's talent site and relayed on job boards.",
+  "tinoAngle": "Kering's turnaround (ReconKering, divestments, store closures) is a live strategy case, and your AFOCO ash-valorisation project gives you a concrete CSR story for its corporate strategy and sustainability teams in Paris.",
+  "careersUrl": "https://www.kering.com/en/talent/",
+  "website": "https://www.kering.com",
+  "sources": [
+   "https://mfn.se/all/a/kering/kering-2026-first-half-results-back-to-growth-performance-improvement-and-strategy-execution-on-track-be4c7c4c",
+   "https://mfn.se/all/a/kering/kering-2025-results-sequential-improvement-unlocking-the-next-phase-of-sustainable-and-profitable-growth-df4cbf96",
+   "https://fashionunited.com/news/business/kering-how-luca-de-meos-financial-overhaul-is-giving-the-luxury-group-breathing-room-and-time/2026072973769",
+   "https://fr.indeed.com/cmp/Kering/jobs"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "herm-s",
+  "name": "Hermès",
+  "aliases": [
+   "Hermès International",
+   "Hermes"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (rue du Faubourg Saint-Honoré, 8th arr.)",
+  "paris": "Head office is on rue du Faubourg Saint-Honoré, with large corporate and métier teams in Pantin (Greater Paris), where many internships are based.",
+  "founded": "1837",
+  "employees": "27,107 (June 2026), of which 16,656 in France",
+  "revenue": "€16.0bn (2025); €8.16bn H1 2026",
+  "ownership": "Listed on Euronext Paris (CAC 40); majority-controlled by the Hermès founding family",
+  "description": "Family-controlled French luxury house known for leather goods and saddlery, silk, ready-to-wear, perfume and watches, made largely in its own French workshops. It favours scarcity, craftsmanship and vertical integration over volume.",
+  "sectors": "Luxury leather goods, fashion, silk & textiles, perfume & beauty, watches",
+  "health": "2025 revenue rose 8.9% at constant rates to €16.0bn with a 41% recurring operating margin; H1 2026 grew 6.1% at constant rates to €8.16bn, margin still 41%. It keeps adding leather workshops in France (25th opened 2026) and raised prices about 5-6% in 2026.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "H1 2026 revenue €8.2bn, operating margin holds at 41%",
+    "url": "https://pulse2.com/hermes-h1-2026-revenue-reaches-e8-2-billion-as-operating-margin-holds-at-41/"
+   },
+   {
+    "date": "2026-02",
+    "title": "Hermès raises prices about 6% in 2026 (Merca2)",
+    "url": "https://www.merca2.es/2026/02/22/hermes-ajusta-precios-2353499/"
+   },
+   {
+    "date": "2026-02",
+    "title": "FY2025 results: €16.0bn revenue, +8.9% at constant rates",
+    "url": "https://mfn.se/all/a/hermes/hermes-international-2025-full-year-results-a01f2a5e"
+   }
+  ],
+  "recruiting": "Hermès posts many 4-6 month internships (\"STAGE\") in Paris and Pantin across marketing, merchandising, finance, ERP and project roles, plus apprenticeships; corporate strategy openings are rare. Selection is highly competitive.",
+  "tinoAngle": "Hermès is very selective, so lead with your Singapore internship and Asia exposure (Asia ex-Japan is its largest region) and target a business-analysis or project internship in Paris/Pantin as an entry point rather than waiting for a pure strategy title.",
+  "careersUrl": "https://www.welcometothejungle.com/fr/companies/hermes",
+  "website": "https://www.hermes.com",
+  "sources": [
+   "https://mfn.se/all/a/hermes/hermes-international-2025-full-year-results-a01f2a5e",
+   "https://pulse2.com/hermes-h1-2026-revenue-reaches-e8-2-billion-as-operating-margin-holds-at-41/",
+   "https://www.merca2.es/2026/02/22/hermes-ajusta-precios-2353499/",
+   "https://www.jobteaser.com/en/companies/hermes/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "chanel",
+  "name": "Chanel",
+  "aliases": [
+   "Chanel Limited",
+   "Chanel SAS"
+  ],
+  "type": "Corporate strategy",
+  "hq": "London, UK (global HQ); main French operations in Neuilly-sur-Seine and Paris",
+  "paris": "Fashion, Watches & Fine Jewellery and Fragrance & Beauty teams sit in Paris and Neuilly-sur-Seine, where Chanel Europe corporate internships (finance, legal, strategy-adjacent) are based.",
+  "founded": "1910",
+  "employees": "Not disclosed in sources checked",
+  "revenue": "$19.3bn (2025), +2% at comparable rates",
+  "ownership": "Private; controlled by the Wertheimer family",
+  "description": "Privately held French luxury house active in haute couture, ready-to-wear, leather goods, fragrance and beauty, watches and fine jewellery. CEO Leena Nair leads a strategy centred on creativity (artistic director Matthieu Blazy), manufacturing control and boutiques.",
+  "sectors": "Luxury fashion, fragrance & beauty, watches & fine jewellery",
+  "health": "After a 2024 decline, 2025 revenue returned to growth (+2% comparable to $19.3bn) with operating profit around $4.7bn, driven by the Americas while Asia-Pacific dipped slightly. Chanel keeps investing in its supply chain (e.g. 20% stake in an Italian manufacturer) and opened 41 boutiques in 2025, with about 30 planned for 2026.",
+  "news": [
+   {
+    "date": "2026-05",
+    "title": "Chanel revenue rebounds to $19.3bn as Matthieu Blazy fuels demand",
+    "url": "https://www.thefashionlaw.com/chanel-revenue-rebounds-to-19-3b-as-matthieu-blazy-fuels-demand/"
+   },
+   {
+    "date": "2026-05",
+    "title": "Chanel bounces back in 2025 with 3% growth (Modaes)",
+    "url": "https://www.modaes.com/global/companies/chanel-bounces-back-in-2025-3-growth-and-49-increase-in-operating-profit"
+   },
+   {
+    "date": "2026-05",
+    "title": "Chanel returns to growth as Blazy's designs win over new shoppers",
+    "url": "https://www.koreatimes.co.kr/amp/world/20260520/chanel-returns-to-growth-as-blazys-designs-win-over-new-shoppers"
+   }
+  ],
+  "recruiting": "Chanel Europe posts many internships for January 2027 starts in Paris and Neuilly (e.g. talent acquisition, sustainability, CRM, pricing analysis, controlling), usually 6 months. Roles titled 'strategy' are rare; business analyst and pricing roles are the closest.",
+  "tinoAngle": "Chanel suits your Paris-plus-Singapore plan: aim for a business-analysis or pricing internship in Paris now and use your Singapore internship to later target its Asia-Pacific teams in Singapore.",
+  "careersUrl": "https://careers.chanel.com",
+  "website": "https://www.chanel.com",
+  "sources": [
+   "https://www.thefashionlaw.com/chanel-revenue-rebounds-to-19-3b-as-matthieu-blazy-fuels-demand/",
+   "https://www.modaes.com/global/companies/chanel-bounces-back-in-2025-3-growth-and-49-increase-in-operating-profit",
+   "https://leatherbiz.com/News/175190",
+   "https://www.jobteaser.com/en/companies/chanel/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "l-or-al",
+  "name": "L'Oréal",
+  "aliases": [
+   "L'Oréal Groupe",
+   "LOreal",
+   "L'Oreal"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Clichy (Greater Paris), France",
+  "paris": "Global headquarters in Clichy, just outside Paris, hosts group strategy, finance and Beauty Tech teams, with R&I in Saint-Ouen and Aulnay.",
+  "founded": "1909",
+  "employees": "More than 95,000 (2025)",
+  "revenue": "€44.05bn (2025); €23.77bn H1 2026",
+  "ownership": "Listed on Euronext Paris (CAC 40); Bettencourt Meyers family and Nestlé are the main shareholders",
+  "description": "World's largest beauty company with brands across consumer products, luxury (Lancôme, YSL Beauty, now Creed), dermatological beauty and professional products. It positions itself as a 'Beauty Tech' leader, with e-commerce above 30% of sales.",
+  "sectors": "Beauty & cosmetics, luxury beauty, dermocosmetics, beauty tech",
+  "health": "2025 sales rose 4.0% like-for-like to €44.05bn with a 20.2% operating margin; H1 2026 accelerated to +6.8% like-for-like with a record 21.3% margin. Strategic moves include integrating Kering Beauté (from April 2026), a 50-year Gucci beauty licence, a Galderma stake raised to 20%, and an AI partnership with OpenAI.",
+  "news": [
+   {
+    "date": "2026-10",
+    "title": "L'Oréal Groupe and Paris Saint-Germain team up",
+    "url": "https://www.loreal.com/fr/press-release/group/le-paris-saint-germain-et-loreal-groupe-font-equipe-pour-celebrer-la-performance-l-innovation-et-le-sens-du-collectif/"
+   },
+   {
+    "date": "2026-07",
+    "title": "H1 2026: +6.8% like-for-like, record 21.3% margin",
+    "url": "https://www.loreal-finance.com/eng/press-release/2026-half-year-results"
+   },
+   {
+    "date": "2026-07",
+    "title": "50-year exclusive worldwide licence for Gucci beauty",
+    "url": "https://www.loreal.com/fr/press-release/group/l-oreal-conclut-avec-kering-un-accord-de-licence-exclusive-mondiale--de-50-ans-pour-la-beaute-gucci/"
+   },
+   {
+    "date": "2026-06",
+    "title": "L'Oréal and OpenAI join forces to transform beauty with AI",
+    "url": "https://www.loreal.com/fr/press-release/research-and-innovation/l-oreal-et-openai-unissent-leurs-forces-pour-transformer-la-beaute-grace-a-l-ia/"
+   }
+  ],
+  "recruiting": "L'Oréal calls internships and apprenticeships its 'n°1 route' to a job, with 6-month internships (January, July, September starts) in Clichy and the divisions. Graduates can join the SeedZ Management Trainee Programme (permanent hire); VIE roles exist in subsidiaries abroad.",
+  "tinoAngle": "Your interest in strategy and digital transformation maps directly onto L'Oréal's Beauty Tech push and its Kering Beauté integration, so target strategy or transformation internships in Clichy and mention SeedZ as your graduate route.",
+  "careersUrl": "https://careers.loreal.com/en/internship-apprenticeship",
+  "website": "https://www.loreal.com",
+  "sources": [
+   "https://www.loreal-finance.com/eng/press-release/2025-annual-results",
+   "https://www.loreal-finance.com/eng/press-release/2026-half-year-results",
+   "https://www.loreal.com/fr/press-release/?page=3",
+   "https://careers.loreal.com/en/internship-apprenticeship"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "accor",
+  "name": "Accor",
+  "aliases": [
+   "Accor SA",
+   "Groupe Accor",
+   "Ennismore",
+   "Novotel",
+   "Sofitel"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Issy-les-Moulineaux (Greater Paris), France",
+  "paris": "Global headquarters is in Issy-les-Moulineaux, where central strategy, development, brand and finance teams (including the Luxury & Lifestyle development office) sit.",
+  "founded": "1967",
+  "employees": "380,000+ team members across its network (June 2026)",
+  "revenue": "€5.64bn (2025); €2.76bn H1 2026",
+  "ownership": "Listed on Euronext Paris (CAC 40); widely held",
+  "description": "Europe's largest hotel group, operating and franchising 5,800+ hotels and 45+ brands (from ibis and Novotel to Sofitel, Raffles and Ennismore lifestyle brands) in 110+ countries. It runs an asset-light model built on management and franchise fees.",
+  "sectors": "Hospitality, hotels, lifestyle brands, loyalty",
+  "health": "2025 was a record year (RevPAR +4.2%, recurring EBITDA +13.3% to €1.2bn); H1 2026 RevPAR growth slowed to +2.2% due to the Middle East conflict, yet EBITDA still rose 6.5% at constant currency. In July 2026 it agreed to sell its ~30.7% Essendi stake for up to ~€975m and keeps buying back shares.",
+  "news": [
+   {
+    "date": "2026-07",
+    "title": "H1 2026 results: Accor shows agility; Essendi stake sale agreed",
+    "url": "https://www.journaldespalaces.com/en/pressrelease-79059-half-year-2026-resultsaccor-shows-its-agility-in-a-challenging-global-environment-NL.html"
+   },
+   {
+    "date": "2026-07",
+    "title": "First-half performance dampened by Middle East turmoil (HOTELS)",
+    "url": "https://hotelsmag.com/news/accor-first-half-performance-dampened-by-middle-east-turmoil/"
+   },
+   {
+    "date": "2026-02",
+    "title": "FY2025 results: record recurring EBITDA of €1.2bn",
+    "url": "https://group.accor.com/en/news-stories/accor-full-year-2025-results"
+   }
+  ],
+  "recruiting": "Accor lists hundreds of internships and apprenticeships at its HQ and hotels, plus a Graduate Program track; HQ roles include strategy-type internships such as 'Strategy Analyst Luxury & Lifestyle' and 'Sustainability Strategy & Transformation' in Paris/Issy. Internships are typically 6 months.",
+  "tinoAngle": "Accor already spoke at your Strategy Club and your six months in Australian hospitality give you real operational credibility, so apply to HQ strategy internships like the Luxury & Lifestyle strategy analyst role in Issy.",
+  "careersUrl": "https://careers.accor.com/student-opportunities",
+  "website": "https://group.accor.com",
+  "sources": [
+   "https://www.journaldespalaces.com/en/pressrelease-79059-half-year-2026-resultsaccor-shows-its-agility-in-a-challenging-global-environment-NL.html",
+   "https://group.accor.com/en/news-stories/accor-full-year-2025-results",
+   "https://group.accor.com/files/accor-group-overview.pdf",
+   "https://careers.accor.com/global/en/job/strategy-analyst-luxury-and-lifestyle-internship-apprenticeship-h-f-x-in-paris-france-jid-83903",
+   "https://careers.accor.com/student-opportunities"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "decathlon",
+  "name": "Decathlon",
+  "aliases": [
+   "Decathlon Group",
+   "Decathlon SE"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Villeneuve-d'Ascq (near Lille), France",
+  "paris": "Corporate and strategy teams sit mainly in Villeneuve-d'Ascq and Lille; Paris hosts flagship stores and some regional teams rather than group strategy.",
+  "founded": "1976",
+  "employees": "102,913 (2025)",
+  "revenue": "€16.8bn (2025); business volume €20.7bn",
+  "ownership": "Private; controlled by the Mulliez family, with about half of employees as shareholders (2025)",
+  "description": "World's largest sporting goods retailer, designing its own brands and selling through 1,900+ stores in 80+ territories and online. It is shifting to a 'sport platform' model including marketplace, rental, repair and second-hand.",
+  "sectors": "Sporting goods retail, product design & manufacturing, e-commerce, circular economy",
+  "health": "2025 revenue grew to €16.8bn (+5.6% at constant rates) with net profit up 16% to €910m; about three quarters of sales are outside France. In 2026 it accelerated franchising (master franchisees in ~20 territories) and set a goal of reaching 2 billion people by 2035.",
+  "news": [
+   {
+    "date": "2026-05",
+    "title": "Decathlon franchises mountain stores and accelerates internationally (L'Express Franchise)",
+    "url": "https://lexpress-franchise.com/actualites/decathlon-franchise-ses-magasins-de-montagne-et-accelere-dans-20-pays-a-linternational/"
+   },
+   {
+    "date": "2026-04",
+    "title": "Behind €20.7bn: Decathlon's shift to a sport platform model (Ecommerce Nation)",
+    "url": "https://www.ecommerce-nation.fr/?p=126234"
+   },
+   {
+    "date": "2026-04",
+    "title": "Decathlon 2025 annual results: revenue €16.8bn, net profit €910m",
+    "url": "https://www.decathlon-united.media/shared/pressfiles/modules/fichiers/decathlon-group_2025-global-annual-results_communique-de-presse-fr.pdf"
+   }
+  ],
+  "recruiting": "Decathlon offers retail management internships and CDIs nationwide plus HQ internships and apprenticeships in Lille/Villeneuve-d'Ascq (finance, portfolio, marketing ops); international roles exist across 80+ territories. HQ processes typically run 2-4 interview rounds, and practising a sport is valued.",
+  "tinoAngle": "Decathlon's international expansion and franchise push match your interest in sport and innovation, and your Madrid sales and import/export experience suit an HQ finance/portfolio or international development internship in Lille.",
+  "careersUrl": "https://recrutement.decathlon.fr",
+  "website": "https://www.decathlon.com",
+  "sources": [
+   "https://www.decathlon-united.media/shared/pressfiles/modules/fichiers/decathlon-group_2025-global-annual-results_communique-de-presse-fr.pdf",
+   "https://lexpress-franchise.com/actualites/decathlon-franchise-ses-magasins-de-montagne-et-accelere-dans-20-pays-a-linternational/",
+   "https://www.ecommerce-nation.fr/?p=126234",
+   "https://www.jobteaser.com/en/companies/decathlon-france/job-offers"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "arkopharma",
+  "name": "Arkopharma",
+  "aliases": [
+   "Laboratoires Arkopharma",
+   "Arkopharma Group"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Carros (near Nice), France",
+  "paris": "No significant Paris strategy team: management, marketing and production are based in Carros near Nice, with group strategy influenced by parent Dermapharm in Germany.",
+  "founded": "1980 (legal entity registered 1976)",
+  "employees": "About 1,400 worldwide (company careers page, 2026)",
+  "revenue": "€216.7m group (2023); French entity €164m (2024)",
+  "ownership": "Private; subsidiary of Germany's Dermapharm Holding SE (acquired 2022)",
+  "description": "French leader in herbal medicines and phytotherapy food supplements (Arkogélules), sold mainly in pharmacies, with subsidiaries in seven countries and distribution in 60+ countries. A mid-sized company where strategy work is close to top management.",
+  "sectors": "Food supplements, phytotherapy, consumer healthcare, pharmacy",
+  "health": "Arkopharma is undergoing a business-model reorganisation: Dermapharm's segment that includes it was flat in 2025 (€352m) and in H1 2026 (€177m), with restructuring costs at Arkopharma. Dermapharm expects a strong H2 2026 and higher market share and earnings from Arkopharma.",
+  "news": [
+   {
+    "date": "2026-08",
+    "title": "Dermapharm H1 2026: profitable growth, 'strong second half' expected for Arkopharma",
+    "url": "https://www.deraktionaer.de/nachricht/eqs-newsdermapharmbestaetigtprofitableswachstumimerstenhalbjahr2026underhoehtbereinigtesebitdadeutsch-546987.html"
+   },
+   {
+    "date": "2026-05",
+    "title": "Dermapharm performs in line in Q1 2026 and confirms guidance",
+    "url": "https://live.deutsche-boerse.com/news/EQS-News-Dermapharm-Holding-SE-performs-in-line-with-projections-in-Q1-2026-and-confirms-guidance-1c4d2632-9414-420e-b2f0-590eaaa36ec3"
+   },
+   {
+    "date": "2026-03",
+    "title": "Dermapharm FY2025: Arkopharma reorganisation weighs on segment",
+    "url": "https://app.boersengefluester.de/en/newswire/DE000A2GS5D8/dermapharm-holding-se/reports-dip-in-revenue-rise-in-adjusted-consolidated-ebitda-and-margin-2300258"
+   }
+  ],
+  "recruiting": "Arkopharma posts 6-month internships and apprenticeships (e.g. marketing product assistant, scientific affairs) at Carros, with October 2026 postings for 2027; spontaneous applications go through a Jobaffinity form. No formal graduate programme or strategy internship track was found.",
+  "tinoAngle": "You are already working on Arkopharma's growth strategy in your course, so turn that work into a short pitch to management and propose an end-of-studies internship on its turnaround and international growth, where a mid-sized firm gives you more direct impact.",
+  "careersUrl": "https://fr.arkopharma.com/pages/nous-rejoindre",
+  "website": "https://fr.arkopharma.com",
+  "sources": [
+   "https://fr.indeed.com/cmp/Arkopharma-3/about",
+   "https://pappers.fr/entreprise/307378489",
+   "https://app.boersengefluester.de/en/newswire/DE000A2GS5D8/dermapharm-holding-se/reports-dip-in-revenue-rise-in-adjusted-consolidated-ebitda-and-margin-2300258",
+   "https://www.deraktionaer.de/nachricht/eqs-newsdermapharmbestaetigtprofitableswachstumimerstenhalbjahr2026underhoehtbereinigtesebitdadeutsch-546987.html",
+   "https://fr.arkopharma.com/pages/nous-rejoindre"
+  ],
+  "updatedAt": "2026-10-20T17:56:56+02:00"
  }
 ]

@@ -8,10 +8,11 @@
   "note": "Practising cases with a BCG professor; strong in energy and luxury.",
   "offersUrl": "https://careers.bcg.com/",
   "addedAt": "2026-10-20T17:33:12+02:00",
-  "firmId": "boston-consulting-group-bcg"
+  "firmId": "boston-consulting-group-bcg",
+  "startHere": true
  },
  {
-  "id": "mckinsey-and-company",
+  "id": "mckinsey-company",
   "rank": 2,
   "group": "MBB",
   "top": true,
@@ -22,7 +23,7 @@
   "firmId": "mckinsey-company"
  },
  {
-  "id": "bain-and-company",
+  "id": "bain-company",
   "rank": 3,
   "group": "MBB",
   "top": false,
@@ -52,7 +53,8 @@
   "note": "The reference firm for automotive strategy in Europe.",
   "offersUrl": "https://www.rolandberger.com/en/Join/",
   "addedAt": "2026-10-20T17:33:12+02:00",
-  "firmId": "roland-berger"
+  "firmId": "roland-berger",
+  "startHere": true
  },
  {
   "id": "arthur-d-little",
@@ -63,7 +65,8 @@
   "note": "Innovation and technology strategy, close to my Innovation Is Everywhere work.",
   "offersUrl": "https://www.adlittle.com/en/careers",
   "addedAt": "2026-10-20T17:33:12+02:00",
-  "firmId": "arthur-d-little"
+  "firmId": "arthur-d-little",
+  "startHere": true
  },
  {
   "id": "oliver-wyman",
@@ -88,7 +91,7 @@
   "firmId": "kearney"
  },
  {
-  "id": "strategyand-pwc",
+  "id": "strategy-pwc",
   "rank": 9,
   "group": "Other strategy consulting firms",
   "top": false,
@@ -126,7 +129,433 @@
   "group": "Other strategy consulting firms",
   "top": false,
   "name": "Monitor Deloitte",
-  "offersUrl": "https://www.jobteaser.com/fr/companies/deloitte/job-offers",
-  "addedAt": "2026-10-20T17:33:12+02:00"
+  "note": "Corporate strategy and sustainability.",
+  "offersUrl": "https://www.deloitte.com/fr/fr/careers/content/job/results.html?contract_type=Stage&icid=top_results",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "monitor-deloitte"
+ },
+ {
+  "id": "l-e-k-consulting",
+  "rank": 13,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "L.E.K. Consulting",
+  "note": "Growth strategy, Singapore office.",
+  "offersUrl": "https://www.lek.com/careers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "l-e-k-consulting"
+ },
+ {
+  "id": "simon-kucher",
+  "rank": 14,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Simon-Kucher",
+  "note": "Pricing and commercial strategy, strong in luxury.",
+  "offersUrl": "https://www.simon-kucher.com/en/careers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "simon-kucher"
+ },
+ {
+  "id": "eleven-strategy",
+  "rank": 15,
+  "group": "Other strategy consulting firms",
+  "top": true,
+  "name": "Eleven Strategy",
+  "note": "Paris firm focused on technology and innovation strategy.",
+  "offersUrl": "https://www.eleven.fr/careers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "eleven-strategy",
+  "startHere": true
+ },
+ {
+  "id": "estin-co",
+  "rank": 16,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Estin & Co",
+  "note": "Paris growth strategy firm with Asia offices.",
+  "offersUrl": "https://estin.com/careers/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "estin-co",
+  "warning": "Court-ordered receivership opened in July 2026 against the former Estin & Co entity: check the firm is still recruiting before applying."
+ },
+ {
+  "id": "k-a",
+  "rank": 17,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Kéa",
+  "note": "French strategy firm with a CSR angle.",
+  "offersUrl": "https://www.kea-partners.com/carrieres/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "k-a"
+ },
+ {
+  "id": "sia-partners",
+  "rank": 18,
+  "group": "Specialist consulting firms",
+  "top": true,
+  "name": "Sia Partners",
+  "note": "Strong energy practice, Singapore office.",
+  "offersUrl": "https://www.sia-partners.com/en/opportunities",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "sia-partners",
+  "startHere": true
+ },
+ {
+  "id": "capgemini-invent",
+  "rank": 19,
+  "group": "Specialist consulting firms",
+  "top": false,
+  "name": "Capgemini Invent",
+  "note": "Innovation and strategy for automotive and industry.",
+  "offersUrl": "https://www.capgemini.com/fr-fr/carrieres/rejoignez-nous/nos-offres-demploi/?page=1&size=11&country_code=fr-fr&brand=Capgemini+Invent",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "capgemini-invent"
+ },
+ {
+  "id": "wavestone",
+  "rank": 20,
+  "group": "Specialist consulting firms",
+  "top": false,
+  "name": "Wavestone",
+  "note": "Transformation projects for large French corporates.",
+  "offersUrl": "https://www.wavestone.com/fr/carrieres/nos-offres/?city=paris-fr%2Cnantes-fr%2Clyon-fr%2Cmarseille-fr&sort=desc",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "wavestone"
+ },
+ {
+  "id": "carbone-4",
+  "rank": 21,
+  "group": "Specialist consulting firms",
+  "top": false,
+  "name": "Carbone 4",
+  "note": "Climate strategy, fits my AFOCO decarbonisation work.",
+  "offersUrl": "https://www.carbone4.com/en/jobs",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "carbone-4"
+ },
+ {
+  "id": "eurogroup-consulting",
+  "rank": 22,
+  "group": "Specialist consulting firms",
+  "top": false,
+  "name": "Eurogroup Consulting",
+  "note": "Public sector and energy, French firm.",
+  "offersUrl": "https://eurogroup.recruitmentplatform.com/QNBFK026203F3VBQB8NQW79QY/list.html",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "eurogroup-consulting"
+ },
+ {
+  "id": "totalenergies",
+  "rank": 23,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": true,
+  "name": "TotalEnergies",
+  "note": "Strategy and energy-transition team.",
+  "offersUrl": "https://careers.totalenergies.com/fr",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "totalenergies"
+ },
+ {
+  "id": "veolia",
+  "rank": 24,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": true,
+  "name": "Veolia",
+  "note": "Natural follow-on from my AFOCO internship (circular economy).",
+  "offersUrl": "https://jobs.veolia.com/en/location/france-jobs/2702/3017382/2",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "veolia",
+  "startHere": true
+ },
+ {
+  "id": "engie",
+  "rank": 25,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "Engie",
+  "note": "Strategy and M&A, renewables.",
+  "offersUrl": "https://jobs.engie.com/search/?createNewAlert=false&q=stagiaire&locationsearch=France",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "engie"
+ },
+ {
+  "id": "edf",
+  "rank": 26,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "EDF",
+  "note": "Corporate strategy, international development.",
+  "offersUrl": "https://www.edf.fr/edf-recrute/rejoignez-nous/voir-les-offres/nos-offres?search[profil][34952]=34952",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "edf"
+ },
+ {
+  "id": "schneider-electric",
+  "rank": 27,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "Schneider Electric",
+  "note": "Energy management, Singapore hub.",
+  "offersUrl": "https://www.jobteaser.com/en/companies/schneider-electric/job-offers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "schneider-electric"
+ },
+ {
+  "id": "air-liquide",
+  "rank": 28,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "Air Liquide",
+  "note": "Hydrogen and decarbonisation strategy.",
+  "offersUrl": "https://www.jobteaser.com/en/companies/air-liquide/job-offers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "air-liquide"
+ },
+ {
+  "id": "saint-gobain",
+  "rank": 29,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "Saint-Gobain",
+  "note": "Surveyed them during AFOCO; sustainable construction.",
+  "offersUrl": "https://joinus.saint-gobain.com/en?f%5B0%5D=contract_type%3A36&f%5B1%5D=contract_type%3A39&f%5B2%5D=contract_type%3A46",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "saint-gobain"
+ },
+ {
+  "id": "siemens",
+  "rank": 30,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "Siemens",
+  "note": "Know the company well from the Siemens case.",
+  "offersUrl": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/?42390=%5B102154%2C102155%2C102156%5D&42390_format=17550&listFilterMode=1&folderRecordsPerPage=6&",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "siemens"
+ },
+ {
+  "id": "holcim",
+  "rank": 31,
+  "group": "Energy & industry (corporate strategy teams)",
+  "top": false,
+  "name": "Holcim",
+  "note": "Studied its sustainability strategy in class.",
+  "offersUrl": "https://fr.indeed.com/cmp/Holcim/jobs",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "holcim"
+ },
+ {
+  "id": "renault-group-incl-alpine",
+  "rank": 32,
+  "group": "Automotive, mobility & aerospace",
+  "top": true,
+  "name": "Renault Group (incl. Alpine)",
+  "note": "Corporate strategy, plus the Alpine F1 team.",
+  "offersUrl": "https://www.renaultgroup.com/en/careers/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "renault-group",
+  "startHere": true
+ },
+ {
+  "id": "ferrari",
+  "rank": 33,
+  "group": "Automotive, mobility & aerospace",
+  "top": true,
+  "name": "Ferrari",
+  "note": "Ties into my F4 and Ferrari driving; luxury and automotive at once.",
+  "offersUrl": "https://jobs.ferrari.com/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "ferrari"
+ },
+ {
+  "id": "stellantis",
+  "rank": 34,
+  "group": "Automotive, mobility & aerospace",
+  "top": false,
+  "name": "Stellantis",
+  "note": "Strategy and transformation programmes, very international.",
+  "offersUrl": "https://careers.stellantis.com/early-careers/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "stellantis"
+ },
+ {
+  "id": "michelin",
+  "rank": 35,
+  "group": "Automotive, mobility & aerospace",
+  "top": false,
+  "name": "Michelin",
+  "note": "Strategy, innovation and sustainable mobility.",
+  "offersUrl": "https://recrutement.michelin.fr/en/job-offer-result-list",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "michelin"
+ },
+ {
+  "id": "valeo",
+  "rank": 36,
+  "group": "Automotive, mobility & aerospace",
+  "top": false,
+  "name": "Valeo",
+  "note": "Strategy for electric vehicles and driver-assistance technology.",
+  "offersUrl": "https://www.valeo.com/en/offers/list/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "valeo"
+ },
+ {
+  "id": "forvia",
+  "rank": 37,
+  "group": "Automotive, mobility & aerospace",
+  "top": false,
+  "name": "Forvia",
+  "note": "Automotive technology, strategy roles.",
+  "offersUrl": "https://careers.faurecia.com/search/?createNewAlert=false&q=&locationsearch=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=&optionsFacetsDD_shifttype=",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "forvia"
+ },
+ {
+  "id": "airbus",
+  "rank": 38,
+  "group": "Automotive, mobility & aerospace",
+  "top": false,
+  "name": "Airbus",
+  "note": "Corporate strategy, very international.",
+  "offersUrl": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus?locationCountry=54c5b6971ffb4bf0b116fe7651ec789a&workerSubType=f5811cef9cb50193723ed01d470a6e15",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "airbus"
+ },
+ {
+  "id": "safran",
+  "rank": 39,
+  "group": "Automotive, mobility & aerospace",
+  "top": false,
+  "name": "Safran",
+  "note": "Strategy and M&A in aerospace.",
+  "offersUrl": "https://www.safran-group.com/fr/offres",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "safran"
+ },
+ {
+  "id": "lvmh-incl-sephora",
+  "rank": 40,
+  "group": "Luxury, consumer & hospitality",
+  "top": true,
+  "name": "LVMH (incl. Sephora)",
+  "note": "Group strategy; Sephora spoke at my Strategy Club.",
+  "offersUrl": "https://www.lvmh.com/en/join-us/our-job-offers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "lvmh",
+  "startHere": true
+ },
+ {
+  "id": "kering",
+  "rank": 41,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "Kering",
+  "note": "Corporate strategy and sustainability.",
+  "offersUrl": "https://fr.indeed.com/cmp/Kering/jobs",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "kering"
+ },
+ {
+  "id": "herm-s",
+  "rank": 42,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "Hermès",
+  "note": "Very selective, strong Asia presence.",
+  "offersUrl": "https://www.jobteaser.com/en/companies/hermes/job-offers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "herm-s"
+ },
+ {
+  "id": "chanel",
+  "rank": 43,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "Chanel",
+  "note": "Strategy roles in Paris and Singapore.",
+  "offersUrl": "https://www.jobteaser.com/en/companies/chanel/job-offers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "chanel"
+ },
+ {
+  "id": "richemont",
+  "rank": 44,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "Richemont",
+  "note": "Watches and jewellery.",
+  "offersUrl": "https://careers.richemont.com/en/jobs/",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "richemont"
+ },
+ {
+  "id": "l-or-al",
+  "rank": 45,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "L'Oréal",
+  "note": "Strategy and digital transformation, beauty tech.",
+  "offersUrl": "https://careers.loreal.com/en/search-jobs",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "l-or-al"
+ },
+ {
+  "id": "accor",
+  "rank": 46,
+  "group": "Luxury, consumer & hospitality",
+  "top": true,
+  "name": "Accor",
+  "note": "Spoke at my Strategy Club; my hospitality background helps.",
+  "offersUrl": "https://careers.accor.com/jobs?options=192,192&page=1&ln=&la=0&lo=0&lr=1&li=",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "accor"
+ },
+ {
+  "id": "pernod-ricard",
+  "rank": 47,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "Pernod Ricard",
+  "note": "Strategy, international markets, big Asia business.",
+  "offersUrl": "https://www.pernod-ricard.com/careers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "pernod-ricard"
+ },
+ {
+  "id": "decathlon",
+  "rank": 48,
+  "group": "Luxury, consumer & hospitality",
+  "top": false,
+  "name": "Decathlon",
+  "note": "Sport, innovation and international expansion.",
+  "offersUrl": "https://job-boards.eu.greenhouse.io/decathlongroup",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "decathlon"
+ },
+ {
+  "id": "bpifrance",
+  "rank": 49,
+  "group": "Innovation & growth",
+  "top": false,
+  "name": "Bpifrance",
+  "note": "Innovation strategy, Le Hub (startup and open innovation programme).",
+  "offersUrl": "https://www.jobteaser.com/fr/companies/bpifrance/job-offers",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "bpifrance"
+ },
+ {
+  "id": "arkopharma",
+  "rank": 50,
+  "group": "Innovation & growth",
+  "top": false,
+  "name": "Arkopharma",
+  "note": "Working on its growth strategy in my course; mid-sized company, more impact.",
+  "offersUrl": "https://arkopharma.fr/RH/offres-stage.php",
+  "addedAt": "2026-10-20T17:56:56+02:00",
+  "firmId": "arkopharma"
  }
 ]
