@@ -99,6 +99,8 @@ select{font:inherit;font-size:14px;padding:8px 12px;border-radius:var(--pill);bo
 .b{font-size:12.5px;padding:3px 10px;border-radius:var(--pill);background:var(--bg);color:var(--muted);white-space:nowrap}
 .b.ct{background:var(--ink-soft);color:var(--ink);font-weight:600}
 .b.new{font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;background:var(--green-soft);color:var(--green);font-weight:700}
+.b.star{background:var(--amber-soft);color:var(--amber);font-weight:700}
+.card.mine{border-color:#e3cf9c}
 .b.dl{background:var(--amber-soft);color:var(--amber);font-weight:600}
 .b.urgent{background:var(--copper-soft);color:var(--copper);font-weight:700}
 .sum{margin:0;font-size:14.5px}
@@ -187,7 +189,7 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
       <span class="pref"><b>Where</b> Paris → Europe → world</span>
       <span class="pref"><b>Contracts</b> Internship · Graduate · CDI/CDD · VIE</span>
       <span class="pref"><b>Employers</b> MBB · Tier 2 · Big4 strategy · Corporate strategy</span>
-      <span class="pref"><b>Sectors</b> Energy · Automotive · Luxury</span>
+      <span class="pref"><b>Highlighted</b> ★ Energy · Automotive · Luxury (all sectors welcome)</span>
     </div>
   </section>
 
@@ -211,7 +213,7 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
       <div class="chips" id="f-zone"><span class="lab">Where</span></div>
       <div class="chips" id="f-type"><span class="lab">Employer</span></div>
       <div class="row">
-        <label class="chips" style="gap:8px"><input type="checkbox" id="onlyNew"> <span style="font-size:13px">Only new in the last 48h</span></label>
+        <div class="chips" style="gap:14px"><label class="chips" style="gap:8px"><input type="checkbox" id="onlyNew"> <span style="font-size:13px">Only new in the last 48h</span></label><label class="chips" style="gap:8px"><input type="checkbox" id="onlyMine"> <span style="font-size:13px">Only ★ my sectors</span></label></div>
         <div style="display:flex;gap:8px;align-items:center"><span class="count" id="count"></span>
           <select id="sort" aria-label="Sort"><option value="fit">Paris first</option><option value="new">Newest</option><option value="deadline">Deadline</option></select></div>
       </div>
@@ -289,7 +291,7 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   var ZONES=["Paris / Île-de-France","France (other)","UK / London","Europe","Asia","Rest of world","Remote"];
   var CONTRACTS=["Internship","Graduate programme","CDI","CDD","VIE"];
   var TYPES=["Strategy consulting – MBB","Strategy consulting – Tier 2","Big4 strategy arm","Corporate strategy","Internal consulting"];
-  var state={jobs:[],calendar:[],discover:[],digest:[],meta:{},firms:[],contacts:[],f:{contract:new Set(),zone:new Set(),type:new Set(),ftype:new Set()},q:"",fq:"",onlyNew:false,sort:"fit",tab:"offers"};
+  var state={jobs:[],calendar:[],discover:[],digest:[],meta:{},firms:[],contacts:[],f:{contract:new Set(),zone:new Set(),type:new Set(),ftype:new Set()},q:"",fq:"",onlyNew:false,onlyMine:false,sort:"fit",tab:"offers"};
   var VAULT="TnG1612/recherche-tino-contacts";var REPO="https://github.com/"+VAULT;
   function vtoken(){try{return localStorage.getItem("rt-vault")||""}catch(e){return ""}}
   function loadVault(){var t=vtoken();if(!t)return Promise.resolve(null);
@@ -317,6 +319,10 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   function daysTo(iso){if(!iso)return null;var d=new Date(iso+"T23:59:59");return Math.ceil((d-today())/86400000)-1}
   function fmtDate(iso){if(!iso)return"";var d=new Date(iso+"T12:00:00");return d.toLocaleDateString("en-GB",{day:"numeric",month:"short",year:d.getFullYear()!==new Date().getFullYear()?"numeric":undefined})}
   function fmtStamp(iso){if(!iso)return"—";var d=new Date(iso);return d.toLocaleDateString("en-GB",{weekday:"short",day:"numeric",month:"short"})+" "+d.toLocaleTimeString("en-GB",{hour:"2-digit",minute:"2-digit"})}
+  var SECT=[["Energy",/energ|power|renewab|electric|utilit|oil|gas\b|battery|nuclear|hydrogen|totalenergies|engie|\bedf\b|saft|nord pool/i],
+    ["Automotive",/automot|\bauto\b|vehicle|mobility|\bcar\b|\bev\b|renault|stellantis|valeo|forvia|michelin/i],
+    ["Luxury",/luxur|fashion|beauty|cosmetic|jewel|watch|maison|lvmh|kering|herm[eè]s|chanel|richemont|l'or[eé]al|galeries lafayette/i]];
+  function mySector(j){var t=[j.sector,j.title,j.org].join(" ");for(var i=0;i<SECT.length;i++)if(SECT[i][1].test(t))return SECT[i][0];return null}
   function isNew(j){return j.addedAt&&(Date.now()-new Date(j.addedAt))<48*3600000}
   function open(j){var d=daysTo(j.deadline);return d===null||d>=0}
 
@@ -331,8 +337,8 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   function card(j){
     var st=store[j.id]||{};var d=daysTo(j.deadline);
     var dl=j.deadline?'<span class="b dl'+(d!==null&&d<=7?" urgent":"")+'">'+(d===0?"Closes today":d===1?"Closes tomorrow":"Closes "+fmtDate(j.deadline))+'</span>':(j.deadlineNote?'<span class="b">'+esc(j.deadlineNote)+'</span>':"");
-    return '<article class="card'+(st.applied?" applied":"")+'" data-id="'+esc(j.id)+'">'+
-      '<div class="top"><div class="org">'+esc(j.org)+'</div>'+(isNew(j)?'<span class="b new">New</span>':"")+'</div>'+
+    return '<article class="card'+(st.applied?" applied":(mySector(j)?" mine":""))+'" data-id="'+esc(j.id)+'">'+
+      '<div class="top"><div class="org">'+esc(j.org)+'</div><div class="badges">'+(mySector(j)?'<span class="b star">★ '+mySector(j)+'</span>':"")+(isNew(j)?'<span class="b new">New</span>':"")+'</div></div>'+
       '<h3>'+esc(j.title)+'</h3>'+
       '<div class="badges"><span class="b ct">'+esc(j.contract)+'</span><span class="b">'+esc(j.location)+'</span>'+(j.sector?'<span class="b">'+esc(j.sector)+'</span>':"")+(j.start?'<span class="b">Start: '+esc(j.start)+'</span>':"")+dl+'</div>'+
       (j.summary?'<p class="sum">'+esc(j.summary)+'</p>':"")+
@@ -356,13 +362,14 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
       if(state.f.zone.size&&!state.f.zone.has(j.zone))return false;
       if(state.f.type.size&&!state.f.type.has(j.orgType))return false;
       if(state.onlyNew&&!isNew(j))return false;
+      if(state.onlyMine&&!mySector(j))return false;
       if(q){var hay=[j.title,j.org,j.location,j.summary,j.sector,j.orgType,j.contract].join(" ").toLowerCase();if(hay.indexOf(q)<0)return false}
       return true});
     var zi=function(z){var i=ZONES.indexOf(z);return i<0?99:i};
     list.sort(function(a,b){
       if(state.sort==="new")return (b.addedAt||"").localeCompare(a.addedAt||"");
       if(state.sort==="deadline"){var da=a.deadline||"9999",db=b.deadline||"9999";return da.localeCompare(db)}
-      return zi(a.zone)-zi(b.zone)||(b.addedAt||"").localeCompare(a.addedAt||"")});
+      return zi(a.zone)-zi(b.zone)||(mySector(b)?1:0)-(mySector(a)?1:0)||(b.addedAt||"").localeCompare(a.addedAt||"")});
     return list;
   }
 
@@ -529,6 +536,7 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   });
   document.getElementById("q").addEventListener("input",function(e){state.q=e.target.value;render()});
   document.getElementById("onlyNew").addEventListener("change",function(e){state.onlyNew=e.target.checked;render()});
+  document.getElementById("onlyMine").addEventListener("change",function(e){state.onlyMine=e.target.checked;render()});
   document.getElementById("sort").addEventListener("change",function(e){state.sort=e.target.value;render()});
   var themes=["auto","light","dark"],ti=0;
   try{var saved=localStorage.getItem("rt-theme");if(saved)ti=Math.max(0,themes.indexOf(saved))}catch(e){}
