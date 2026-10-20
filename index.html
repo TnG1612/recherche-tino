@@ -199,6 +199,7 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
 
   <nav class="tabs" role="tablist" id="tabs">
     <button class="tab" role="tab" data-tab="offers" aria-selected="true">Offers<span class="c" id="c-offers"></span></button>
+    <button class="tab" role="tab" data-tab="targets" aria-selected="false">My targets<span class="c" id="c-targets"></span></button>
     <button class="tab" role="tab" data-tab="calendar" aria-selected="false">Deadlines<span class="c" id="c-calendar"></span></button>
     <button class="tab" role="tab" data-tab="discover" aria-selected="false">Discover<span class="c" id="c-discover"></span></button>
     <button class="tab" role="tab" data-tab="firms" aria-selected="false">Firms<span class="c" id="c-firms"></span></button>
@@ -229,6 +230,21 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   <section id="p-discover" hidden>
     <p class="note" style="margin-bottom:12px">Roles, employer types and programmes you might not search for yourself, picked for your profile. New ideas every Monday.</p>
     <div class="grid" id="disc"></div>
+  </section>
+
+  <section id="p-targets" hidden>
+    <p class="note" style="margin-bottom:12px">The companies you most want to join, in your order. Each one links to its offers page, the open offers already on this site, its profile and people to contact. The daily search checks every one of them at least once a week. Statuses are saved in this browser.</p>
+    <div class="row" style="margin-bottom:14px"><div class="chips" id="tgroups"></div>
+      <select id="tstatus" aria-label="Filter by status"><option value="">All statuses</option></select></div>
+    <div id="targets"></div>
+    <form class="form" id="tform" style="margin-top:22px">
+      <h3>Add a company</h3>
+      <div class="two"><label>Company<input name="name" required placeholder="e.g. Schneider Electric"></label>
+        <label>Offers page (optional)<input name="url" type="url" placeholder="https://…/careers"></label></div>
+      <label>Why it fits you (optional)<input name="note" placeholder="One line"></label>
+      <div class="actions" style="border:0;padding:0;margin:0"><button class="btn primary" type="submit">Add</button>
+        <span class="note">Added on this device right away. Ask Claude to add it to your permanent list (and the daily search).</span></div>
+    </form>
   </section>
 
   <section id="p-firms" hidden>
@@ -460,6 +476,44 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   }
   function closeDlg(){var d=document.getElementById("dlg");if(d.close)d.close();else d.removeAttribute("open")}
 
+  /* ---------- targets ---------- */
+  var TSTAT=["Not applied yet","Preparing","Applied","Interviewing","Offer","Rejected","On hold"];
+  var tstore={},tlocal=[],tgroup="";
+  try{tstore=JSON.parse(localStorage.getItem("rt-tstatus")||"{}")||{};tlocal=JSON.parse(localStorage.getItem("rt-tlocal")||"[]")||[]}catch(e){}
+  function saveT(){try{localStorage.setItem("rt-tstatus",JSON.stringify(tstore));localStorage.setItem("rt-tlocal",JSON.stringify(tlocal))}catch(e){}}
+  function tFirm(t){return (t.firmId&&state.firms.filter(function(f){return f.id===t.firmId})[0])||firmFor(t.name)}
+  function tJobs(t){var f=tFirm(t);var n=norm(shortOrg(t.name));return state.jobs.filter(function(j){return open(j)&&((f&&firmFor(j.org)===f)||norm(j.org).indexOf(n)===0)})}
+  function renderTargets(){
+    var all=state.targets.slice().sort(function(a,b){return (a.rank||999)-(b.rank||999)}).concat(tlocal.map(function(x){return Object.assign({local:true,group:"Added on this device"},x)}));
+    var groups=[];all.forEach(function(t){if(groups.indexOf(t.group)<0)groups.push(t.group)});
+    document.getElementById("tgroups").innerHTML=['<button class="chip" data-tg="" aria-pressed="'+(tgroup==="")+'">All</button>'].concat(groups.map(function(g){return '<button class="chip" data-tg="'+esc(g)+'" aria-pressed="'+(tgroup===g)+'">'+esc(g)+'</button>'})).join("");
+    var sf=document.getElementById("tstatus").value;
+    var list=all.filter(function(t){return (!tgroup||t.group===tgroup)&&(!sf||((tstore[t.id]||{}).s||"Not applied yet")===sf)});
+    document.getElementById("c-targets").textContent=all.length||"";
+    var html="",cur=null;
+    list.forEach(function(t){
+      if(t.group!==cur){if(cur!==null)html+='</div>';cur=t.group;html+='<h3 style="font-family:var(--font-display);font-weight:500;font-size:21px;margin:18px 0 10px">'+esc(cur)+'</h3><div class="grid">'}
+      var f=tFirm(t),jobs=tJobs(t),st=(tstore[t.id]||{}).s||"Not applied yet";
+      html+='<article class="card'+(t.top?" mine":"")+'"><div class="top"><span class="org">'+(t.rank?'#'+t.rank+' · ':'')+esc(f?f.type:t.group)+'</span><div class="badges">'+(t.top?'<span class="b star">★ Top match</span>':'')+(jobs.length?'<span class="b ct">'+jobs.length+' open on site</span>':'')+'</div></div>'+
+        '<h3>'+esc(t.name)+'</h3>'+(t.note?'<p class="sum">'+esc(t.note)+'</p>':'')+
+        (f?'<div class="kv"><div><span>Employees</span>'+esc(f.employees||"—")+'</div><div><span>Revenue</span>'+esc(f.revenue||"—")+'</div></div>':'')+
+        (jobs.length?'<ul style="margin:0;padding-left:18px;font-size:14px;display:grid;gap:4px">'+jobs.slice(0,4).map(function(j){return '<li><a href="'+esc(j.url)+'" target="_blank" rel="noopener">'+esc(j.title)+'</a> <span class="note">· '+esc(j.location)+'</span></li>'}).join("")+'</ul>':'<p class="note">No open offer on your site yet: check their offers page.</p>')+
+        '<div class="actions">'+(t.offersUrl?'<a class="btn primary" href="'+esc(t.offersUrl)+'" target="_blank" rel="noopener">Their offers ↗</a>':'')+
+        (f?'<button class="btn" data-firm="'+esc(f.id)+'">Profile</button>':'')+'<button class="btn" data-people="'+esc(t.name)+'">Find people</button>'+
+        '<select class="cstatus" data-tstat="'+esc(t.id)+'">'+TSTAT.map(function(x){return '<option'+(x===st?' selected':'')+'>'+x+'</option>'}).join("")+'</select>'+
+        (t.local?'<button class="btn" data-tdel="'+esc(t.id)+'">Remove</button>':'')+'</div></article>';
+    });
+    if(cur!==null)html+='</div>';
+    document.getElementById("targets").innerHTML=html||'<div class="empty">No company matches.</div>';
+  }
+  document.getElementById("tstatus").innerHTML='<option value="">All statuses</option>'+TSTAT.map(function(x){return "<option>"+x+"</option>"}).join("");
+  document.getElementById("tstatus").addEventListener("change",renderTargets);
+  document.getElementById("tgroups").addEventListener("click",function(e){var b=e.target.closest("[data-tg]");if(!b)return;tgroup=b.getAttribute("data-tg");renderTargets()});
+  document.addEventListener("change",function(e){var s=e.target.closest("[data-tstat]");if(!s)return;tstore[s.getAttribute("data-tstat")]={s:s.value,at:new Date().toISOString()};saveT();renderTargets()});
+  document.getElementById("targets").addEventListener("click",function(e){var b=e.target.closest("[data-tdel]");if(!b)return;var id=b.getAttribute("data-tdel");tlocal=tlocal.filter(function(x){return x.id!==id});saveT();renderTargets()});
+  document.getElementById("tform").addEventListener("submit",function(e){e.preventDefault();var f=this.elements;var n=f.name.value.trim();if(!n)return;
+    tlocal.push({id:"local-"+Date.now(),name:n,offersUrl:f.url.value.trim(),note:f.note.value.trim()});saveT();this.reset();renderTargets();toast("Added")});
+
   /* ---------- networking ---------- */
   function offerLabel(v){if(!v)return"";if(v.indexOf("firm:")===0){var f=state.firms.filter(function(x){return "firm:"+x.id===v})[0];return f?f.name:""}
     var j=state.jobs.filter(function(x){return x.id===v})[0];return j?j.org+" — "+j.title:""}
@@ -532,7 +586,7 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   document.getElementById("tabs").addEventListener("click",function(e){
     var t=e.target.closest(".tab");if(!t)return;state.tab=t.dataset.tab;
     document.querySelectorAll(".tab").forEach(function(x){x.setAttribute("aria-selected",x===t)});
-    ["offers","calendar","discover","firms","network","mine"].forEach(function(n){document.getElementById("p-"+n).hidden=n!==state.tab});
+    ["offers","targets","calendar","discover","firms","network","mine"].forEach(function(n){document.getElementById("p-"+n).hidden=n!==state.tab});
   });
   document.getElementById("q").addEventListener("input",function(e){state.q=e.target.value;render()});
   document.getElementById("onlyNew").addEventListener("change",function(e){state.onlyNew=e.target.checked;render()});
@@ -548,9 +602,9 @@ dialog::backdrop{background:rgba(43,40,36,.45)}
   (function(){var el=document.getElementById("f-ftype");TYPES.forEach(function(v){var b=document.createElement("button");b.className="chip";b.textContent=v;b.setAttribute("aria-pressed","false");
     b.onclick=function(){var s=state.f.ftype;if(s.has(v))s.delete(v);else s.add(v);b.setAttribute("aria-pressed",s.has(v));renderFirms()};el.appendChild(b)})})();
   load();loadC();
-  Promise.all(["jobs","calendar","discover","digest","meta","firms"].map(get).concat([loadVault()])).then(function(r){
+  Promise.all(["jobs","calendar","discover","digest","meta","firms","targets"].map(get).concat([loadVault()])).then(function(r){
     state.jobs=Array.isArray(r[0])?r[0]:[];state.calendar=Array.isArray(r[1])?r[1]:[];state.discover=Array.isArray(r[2])?r[2]:[];state.digest=Array.isArray(r[3])?r[3]:[];state.meta=r[4]||{};
-    state.firms=Array.isArray(r[5])?r[5]:[];state.vault=r[6];state.contacts=Array.isArray(r[6])?r[6]:[];vaultUI();
+    state.firms=Array.isArray(r[5])?r[5]:[];state.targets=Array.isArray(r[6])?r[6]:[];state.vault=r[7];state.contacts=Array.isArray(r[7])?r[7]:[];vaultUI();renderTargets();
     renderFirms();fillOffers();renderContacts();
     var m=state.meta;document.getElementById("upd").innerHTML="Daily: "+fmtStamp(m.daily&&m.daily.at)+(m.daily?" · +"+m.daily.added:"")+"<br>Weekly: "+fmtStamp(m.weekly&&m.weekly.at);
     renderSoon();renderDigest();renderCal();renderDisc();render();

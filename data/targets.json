@@ -1,0 +1,132 @@
+[
+ {
+  "id": "bcg",
+  "rank": 1,
+  "group": "MBB",
+  "top": true,
+  "name": "BCG",
+  "note": "Practising cases with a BCG professor; strong in energy and luxury.",
+  "offersUrl": "https://careers.bcg.com/",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "boston-consulting-group-bcg"
+ },
+ {
+  "id": "mckinsey-and-company",
+  "rank": 2,
+  "group": "MBB",
+  "top": true,
+  "name": "McKinsey & Company",
+  "note": "Top target; Paris and Singapore offices.",
+  "offersUrl": "https://www.mckinsey.com/fr/careers",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "mckinsey-company"
+ },
+ {
+  "id": "bain-and-company",
+  "rank": 3,
+  "group": "MBB",
+  "top": false,
+  "name": "Bain & Company",
+  "note": "Strong in luxury, consumer and private equity.",
+  "offersUrl": "https://www.bain.com/careers/",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "bain-company"
+ },
+ {
+  "id": "advancy",
+  "rank": 4,
+  "group": "Other strategy consulting firms",
+  "top": true,
+  "name": "Advancy",
+  "note": "Already applied; growth strategy across industry and consumer.",
+  "offersUrl": "https://advancy.recruitee.com/",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "advancy"
+ },
+ {
+  "id": "roland-berger",
+  "rank": 5,
+  "group": "Other strategy consulting firms",
+  "top": true,
+  "name": "Roland Berger",
+  "note": "The reference firm for automotive strategy in Europe.",
+  "offersUrl": "https://www.rolandberger.com/en/Join/",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "roland-berger"
+ },
+ {
+  "id": "arthur-d-little",
+  "rank": 6,
+  "group": "Other strategy consulting firms",
+  "top": true,
+  "name": "Arthur D. Little",
+  "note": "Innovation and technology strategy, close to my Innovation Is Everywhere work.",
+  "offersUrl": "https://www.adlittle.com/en/careers",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "arthur-d-little"
+ },
+ {
+  "id": "oliver-wyman",
+  "rank": 7,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Oliver Wyman",
+  "note": "Automotive, transport and energy.",
+  "offersUrl": "https://www.oliverwyman.com/careers.html",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "oliver-wyman"
+ },
+ {
+  "id": "kearney",
+  "rank": 8,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Kearney",
+  "note": "Operations and procurement, matches my cost-saving work at Marché aux Affaires.",
+  "offersUrl": "https://www.kearney.com/careers",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "kearney"
+ },
+ {
+  "id": "strategyand-pwc",
+  "rank": 9,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Strategy& (PwC)",
+  "note": "Corporate strategy and energy transition.",
+  "offersUrl": "https://www.strategyand.pwc.com/fr/fr/careers.html",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "strategy-pwc"
+ },
+ {
+  "id": "accenture-strategy",
+  "rank": 10,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Accenture Strategy",
+  "note": "Already applied (UK); strategy mixed with technology and AI.",
+  "offersUrl": "https://www.accenture.com/fr-fr/careers",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "accenture-strategy"
+ },
+ {
+  "id": "ey-parthenon",
+  "rank": 11,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "EY-Parthenon",
+  "note": "Strategy and deals, big graduate intake.",
+  "offersUrl": "https://careers.ey.com/",
+  "addedAt": "2026-10-20T17:33:12+02:00",
+  "firmId": "ey-parthenon"
+ },
+ {
+  "id": "monitor-deloitte",
+  "rank": 12,
+  "group": "Other strategy consulting firms",
+  "top": false,
+  "name": "Monitor Deloitte",
+  "offersUrl": "https://www.jobteaser.com/fr/companies/deloitte/job-offers",
+  "addedAt": "2026-10-20T17:33:12+02:00"
+ }
+]
