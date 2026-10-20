@@ -1,0 +1,1606 @@
+[
+ {
+  "id": "mckinsey-company",
+  "name": "McKinsey & Company",
+  "aliases": [
+   "McKinsey",
+   "McKinsey Paris",
+   "McKinsey & Company France",
+   "QuantumBlack, AI by McKinsey"
+  ],
+  "type": "Strategy consulting – MBB",
+  "hq": "New York, United States (no formal global HQ)",
+  "paris": "Main French office at 35-37 boulevard des Invalides (Paris 7e), with a smaller Lyon office; ~700 consultants in France (2025, down from ~800 in 2023), led by Clarisse Magnin, covering all major sector and functional practices incl. energy, automotive, consumer and sustainability.",
+  "founded": "1926",
+  "employees": "~40,000 worldwide (Jan 2026), plus ~20,000 AI agents per the CEO; ~700 consultants in France (2025)",
+  "revenue": "Not disclosed; roughly $15-16bn annually, flat for ~5 years (Dec 2025 estimate reported via Bloomberg/Storyboard18)",
+  "ownership": "Private partnership (owned by its partners)",
+  "description": "The world's best-known strategy consultancy, advising CEOs, governments and institutions on strategy, operations, organisation, digital/AI and sustainability. Highly generalist with deep industry practices, a large research arm (McKinsey Global Institute) and AI unit QuantumBlack.",
+  "sectors": "Generalist: energy & materials, automotive & assembly, consumer & retail (incl. luxury), financial services, healthcare, TMT, public sector; strong sustainability and AI practices",
+  "health": "Revenue has plateaued (~$15-16bn) and headcount fell from ~45,000 (2022) to ~40,000; the French partnership shrank from 71 to 59 partners (2024-25) and further support-function cuts were reported in Dec 2025. The firm is pushing hard into AI (20,000 agents) and will elect a new global managing partner in 2027.",
+  "news": [
+   {
+    "date": "2026-10-09",
+    "title": "McKinsey senior partners to meet in Sydney to elect next global managing partner (2027)",
+    "url": "https://www.consultancy.com.au/news/12895/sydney-set-to-host-mckinseys-next-global-leader-elections"
+   },
+   {
+    "date": "2026-07-22",
+    "title": "KPN partners with McKinsey on agentic-AI customer service",
+    "url": "https://www.consultancy.eu/news/14093/kpn-partners-with-mckinsey-to-reinvent-customer-service-through-agentic-ai"
+   },
+   {
+    "date": "2026-01-15",
+    "title": "McKinsey adds AI (Lilli) exercise to final-round interviews; counts 20,000 AI agents",
+    "url": "https://www.hrgrapevine.com/us/content/article/2026-01-15-mckinsey-goes-all-in-on-ai-with-interview-testing-workforce-of-20000-agents"
+   },
+   {
+    "date": "2025-12-16",
+    "title": "McKinsey weighs new cuts of ~10% of support staff as growth stalls",
+    "url": "https://www.storyboard18.com/how-it-works/mckinsey-plans-fresh-round-of-job-cuts-as-growth-stalls-85995.htm"
+   }
+  ],
+  "recruiting": "Interns (stage of 2-6 months) and Business Analysts (graduates) apply online year-round; the process is the McKinsey Solve online game, then a first round of two interviews (case + personal experience interview) and a final round of 2-3 with partners, which now includes an AI-assisted exercise using the internal tool Lilli. Very selective (top Grandes Écoles), working French required and interviews often mix French and English.",
+  "tinoAngle": "His Singapore internship and multi-country exposure fit McKinsey's global staffing, and his industrial ash-recovery project maps directly onto its Sustainability and Energy & Materials practices; the Paris office's automotive and consumer work matches his sector interests.",
+  "careersUrl": "https://www.mckinsey.com/fr/careers",
+  "website": "https://www.mckinsey.com",
+  "sources": [
+   "https://www.consultor.fr/articles/contraction-des-effectifs-influence-la-patronne-de-mckinsey-france-fait-le-point",
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-mckinsey",
+   "https://www.hrgrapevine.com/us/content/article/2026-01-15-mckinsey-goes-all-in-on-ai-with-interview-testing-workforce-of-20000-agents",
+   "https://www.storyboard18.com/how-it-works/mckinsey-plans-fresh-round-of-job-cuts-as-growth-stalls-85995.htm",
+   "https://www.hackingthecaseinterview.com/pages/mckinsey-france-recruiting"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "boston-consulting-group-bcg",
+  "name": "Boston Consulting Group (BCG)",
+  "aliases": [
+   "BCG",
+   "Boston Consulting Group",
+   "BCG Paris",
+   "BCG X",
+   "BCG Platinion",
+   "BCG Gamma"
+  ],
+  "type": "Strategy consulting – MBB",
+  "hq": "Boston, United States",
+  "paris": "Large Paris office on avenue de la Grande Armée (16e), led by Olivier Scalabre, historically hiring ~70-90 people a year; BCG France posted record revenue of ~€645m in 2025 (Consultor headline).",
+  "founded": "1963",
+  "employees": "~33,500 worldwide (2025); France headcount not disclosed (Paris office ~1,000 consultants per older Consultor profile)",
+  "revenue": "$14.4bn (2025), +7% vs $13.5bn (2024)",
+  "ownership": "Private partnership (owned by its partners)",
+  "description": "Global strategy consultancy founded by Bruce Henderson, known for the growth-share matrix and today for large transformations and tech/AI work through BCG X. Over 40% of revenue now comes from AI- and tech-related services.",
+  "sectors": "Generalist: energy, automotive & mobility, consumer & luxury, industrial goods, financial institutions, health, TMT, public sector; strong Climate & Sustainability and BCG X (AI/tech)",
+  "health": "Strong: 22nd consecutive year of growth in 2025 ($14.4bn, +7%), AI services +25%, headcount up to 33,500, and BCG overtook McKinsey on headcount. In 2026 it launched an interim-management offer (first in Germany and France).",
+  "news": [
+   {
+    "date": "2026-10-08",
+    "title": "BCG survey: half of senior leaders now see AI generating value",
+    "url": "https://www.consultancy.uk/news/45827/half-of-senior-leaders-now-believe-ai-generates-value-at-firm"
+   },
+   {
+    "date": "2026-08-31",
+    "title": "BCG India chairman Janmejaya Sinha appointed to RBI central board",
+    "url": "https://www.consultancy.in/news/4576/bcg-india-chairman-janmejaya-sinha-appointed-to-rbi-central-board"
+   },
+   {
+    "date": "2026-04-27",
+    "title": "BCG launches interim-management offer, starting in Germany and France",
+    "url": "https://www.consultor.fr/articles/le-bcg-signe-une-croissance-de-7-en-2025-et-se-lance-dans-linterim-management"
+   },
+   {
+    "date": "2026-04-23",
+    "title": "BCG reports $14.4bn 2025 revenue, 22nd straight year of growth",
+    "url": "https://www.bcg.com/press/23april2026-bcg-revenue-22nd-consecutive-year-growth"
+   }
+  ],
+  "recruiting": "Interns join as Visiting Associates (typically 6-month stages) and graduates as Associates; after CV screening, Paris candidates usually take an online aptitude test (a cognitive test reported since 2024; Casey/Pymetrics in some offices) followed by interview rounds of two case + fit interviews each (historically three rounds in Paris). Top school profiles expected; French and English both needed.",
+  "tinoAngle": "BCG's Climate & Sustainability practice and its energy and automotive work in Paris fit his CSR ash-valorisation project and sector interests, while his Singapore internship is a credible link to BCG's large Southeast Asia system.",
+  "careersUrl": "https://careers.bcg.com/",
+  "website": "https://www.bcg.com",
+  "sources": [
+   "https://www.bcg.com/press/23april2026-bcg-revenue-22nd-consecutive-year-growth",
+   "https://www.consultor.fr/articles/le-bcg-signe-une-croissance-de-7-en-2025-et-se-lance-dans-linterim-management",
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-boston-consulting-group-presentation",
+   "https://www.preplounge.com/consulting-forum/which-test-at-bcg-paris-22259",
+   "https://www.consultor.fr/articles/recrutements-survivre-au-robot-a-cv-du-bcg"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "bain-company",
+  "name": "Bain & Company",
+  "aliases": [
+   "Bain",
+   "Bain Paris",
+   "Bain & Company France"
+  ],
+  "type": "Strategy consulting – MBB",
+  "hq": "Boston, United States",
+  "paris": "Paris office at 25 avenue Kléber (16e) with ~49 partners (2025), leader in French private-equity due diligence and strong in consumer/retail, energy & utilities, TMT and a fast-growing enterprise technology practice.",
+  "founded": "1973",
+  "employees": "18,000+ worldwide (2022 figure; ~12,000 client-facing staff in 2026); France headcount not disclosed",
+  "revenue": "Not disclosed",
+  "ownership": "Private partnership (owned by its partners)",
+  "description": "Strategy consultancy founded by former BCG partners, known for results-oriented work, the Net Promoter System and the world's leading private-equity consulting practice. Publishes the reference luxury market study with Altagamma.",
+  "sectors": "Private equity, consumer products & retail, luxury, energy & natural resources, utilities, TMT, financial services, healthcare; growing AI/tech practice",
+  "health": "Growing: CEO Christophe De Vusser said in Sep 2026 that AI demand drives double-digit revenue growth and that consulting headcount will rise ~12% (~1,400 hires) in 2026, with graduate intake up >10% in 2026 and 2027 and no layoffs planned.",
+  "news": [
+   {
+    "date": "2026-09-04",
+    "title": "Bain to grow consulting headcount ~12% in 2026, citing AI demand",
+    "url": "https://www.consultor.fr/articles/bain-va-augmenter-ses-recrutements-de-consultants-de-12-en-2026"
+   },
+   {
+    "date": "2026-08-27",
+    "title": "Anthropic names Bain a Global Premier Partner for Claude",
+    "url": "https://www.consultancy-me.com/news/14270/anthropic-names-bain-company-a-global-premier-partner-for-claude"
+   },
+   {
+    "date": "2026-07-15",
+    "title": "Bain report: AI now at the top of the agenda for luxury houses",
+    "url": "https://www.consulting.us/news/13700/ai-now-at-top-of-agenda-for-more-luxury-houses-bain-report"
+   },
+   {
+    "date": "2026-05-15",
+    "title": "Bain invests in the new OpenAI Deployment Company",
+    "url": "https://www.consulting.us/news/13396/bain-company-invests-in-openai-deployment-company"
+   }
+  ],
+  "recruiting": "Interns are Associate Consultant Interns (ACI) and graduates Associate Consultants (AC). Process: Gorilla online test (numerical, logic, business sense, written English), then round 1 (one case + one behavioural interview) and round 2 (one case for ACI, two for AC, plus a motivation interview). English is assessed explicitly; French expected in Paris.",
+  "tinoAngle": "Bain is the reference firm for luxury (Bain-Altagamma study) and has an active energy & utilities practice in Paris, matching two of his target sectors; his sales internship in Madrid and Singapore experience support its client-results, commercial culture.",
+  "careersUrl": "https://www.bain.com/careers/",
+  "website": "https://www.bain.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-bain-description",
+   "https://www.consultor.fr/articles/bain-va-augmenter-ses-recrutements-de-consultants-de-12-en-2026",
+   "https://www.bain.com/el/about/",
+   "https://www.consultancy.org/news/firm/bain-company"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "roland-berger",
+  "name": "Roland Berger",
+  "aliases": [
+   "Roland Berger Paris",
+   "Roland Berger SAS",
+   "Roland Berger Strategy Consultants"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Munich, Germany",
+  "paris": "Paris office (open since 1990-91) with 41 partners as of Feb 2026, led by Laurent Benarousse with a six-person leadership team (May 2026); notable public-sector, consumer, operations and energy/climate/circular-economy work.",
+  "founded": "1967",
+  "employees": "~3,500 worldwide across 52 offices (2025-26); France headcount not disclosed (~300 staff in 2021)",
+  "revenue": "€1.01bn (2025), record year",
+  "ownership": "Independent, owned solely by its partners",
+  "description": "The only top-tier strategy consultancy of European (German) origin, strong in industrial sectors, restructuring and transformation. Known for automotive, industrial and restructuring expertise and an engineering-minded client base.",
+  "sectors": "Automotive (historic flagship), industrials, energy & utilities, aerospace & defence, consumer goods & retail, healthcare, public sector, restructuring; sustainability/circular economy",
+  "health": "Record €1.01bn revenue in 2025 with growth in all regions (Asia +19%, Americas +11%), new Houston and Sydney offices, and partner growth in Paris (35 to 41). Management warned 2026 would be more challenging and is focusing on profitability.",
+  "news": [
+   {
+    "date": "2026-08-24",
+    "title": "Roland Berger: one in four new cars sold globally is now electric",
+    "url": "https://www.consultancy.eu/news/14249/one-in-four-new-cars-sold-globally-is-now-electric-roland-berger-finds"
+   },
+   {
+    "date": "2026-06-17",
+    "title": "Roland Berger passes €1bn revenue in strongest year in its history",
+    "url": "https://www.rolandberger.com/en/Media/Roland-Berger-surpasses-%E2%82%AC1bn-in-revenue-marking-strongest-year-in-firm-history.html"
+   },
+   {
+    "date": "2026-05-28",
+    "title": "New six-member leadership team for Roland Berger Paris",
+    "url": "https://www.rolandberger.com/fr/Media/Une-nouvelle-gouvernance-pour-Roland-Berger-Paris.html"
+   },
+   {
+    "date": "2026-02-10",
+    "title": "Paris partnership grows to 41 with new health/consumer partner",
+    "url": "https://www.consultor.fr/articles/un-41e-partner-elu-chez-roland-berger-a-paris-positionne-sur-la-sante"
+   }
+  ],
+  "recruiting": "Paris hires 'Stagiaire Consultant' interns (6-12 month gap-year or end-of-studies stages; 2027 postings already open) and Junior Consultants. Typical process: CV + cover letter, round 1 (group case or two short interviews), round 2 (two one-hour case + fit interviews), plus a third round for permanent hires; fluent French and English mandatory, a third language a plus, and at least 6 months of prior experience expected.",
+  "tinoAngle": "Roland Berger's automotive heritage and Paris energy/climate/circular-economy team (led by Claire Pernet) match his automotive interest and industrial waste-valorisation project; his Spanish and logistics background fit its operations and supply-chain work, and it posts 2027 intern roles fitting his Jan-Jul 2027 window.",
+  "careersUrl": "https://www.rolandberger.com/en/Join/",
+  "website": "https://www.rolandberger.com",
+  "sources": [
+   "https://www.rolandberger.com/en/Media/Roland-Berger-surpasses-%E2%82%AC1bn-in-revenue-marking-strongest-year-in-firm-history.html",
+   "https://www.presseportal.de/pm/32053/6289535",
+   "https://www.consultancy-me.com/firms/roland-berger",
+   "https://www.rolandberger.com/fr/Media/Une-nouvelle-gouvernance-pour-Roland-Berger-Paris.html",
+   "https://www.rolandberger.com/en/Join/All-Jobs/Stagiaire-Consultant(e)-(F-H)-2027-REF4381R.html",
+   "https://business-cool.com/entreprises/conseil/salaires-recrutement-roland-berger/"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "kearney",
+  "name": "Kearney",
+  "aliases": [
+   "A.T. Kearney",
+   "AT Kearney",
+   "Kearney Paris",
+   "Kearney France"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Chicago, United States",
+  "paris": "Paris office led by Kearney France president Jérôme Souied; it has been shrinking sharply, with 15 partner departures since Dec 2023 and an internal source citing fewer than 100 consultants in 2026 (vs 150-200 in 2025), mostly staffed on international projects.",
+  "founded": "1926",
+  "employees": "~5,700 worldwide (2026); Paris <100 consultants per internal source (Mar 2026)",
+  "revenue": "~$2.0bn+ (2025, Wikipedia; not officially published)",
+  "ownership": "Private partnership (partner-owned since 2006 buy-back from EDS)",
+  "description": "Global management consultancy marking its centenary in 2026, best known for operations, procurement and supply-chain strategy alongside corporate strategy and its FDI Confidence Index. Partners each hold an equal governance vote.",
+  "sectors": "Procurement, operations & supply chain, consumer & retail, automotive, energy, industrials, telecoms, financial services, public sector (strong in Middle East)",
+  "health": "Globally stable and investing (new CFO Sep 2026, AI procurement tool with Beroe, Middle East expansion), but the Paris office is in deep difficulty: its consumer/retail practice left for Oliver Wyman and Consultor (Mar 2026) describes the worst crisis in its Paris history.",
+  "news": [
+   {
+    "date": "2026-09-14",
+    "title": "Kearney appoints Martin Denman as chief financial officer",
+    "url": "https://www.consulting.us/news/13956/kearney-appoints-martin-denman-as-chief-financial-officer"
+   },
+   {
+    "date": "2026-06-08",
+    "title": "Kearney and Beroe launch 'Max', an AI procurement decision engine",
+    "url": "https://www.consulting.us/news/13502/kearney-and-beroe-launch-ai-powered-procurement-solution"
+   },
+   {
+    "date": "2026-03-26",
+    "title": "Consultor: Kearney Paris partnership collapses after 15 partner exits",
+    "url": "https://www.consultor.fr/articles/kearney-la-degringolade-du-partnership-a-paris"
+   },
+   {
+    "date": "2026-02-21",
+    "title": "Kearney celebrates 100 years",
+    "url": "https://www.consultancy.com.au/news/11688/global-management-consulting-firm-kearney-celebrates-100-years-of-impact"
+   }
+  ],
+  "recruiting": "Entry roles are interns and Business Analysts; process is CV screening (school, experience, languages), an online cognitive test (numerical, inductive, deductive), then case interviews: three for an internship, four over two rounds for a permanent role, sometimes in a one-day 'Recruiting Day' format with same-day answer. Fluent English needed given heavy international staffing.",
+  "tinoAngle": "Kearney's operations, procurement and supply-chain DNA fits his import/export logistics internship and Singapore experience (strong Asia-Pacific presence); given the Paris turmoil, he should check current Paris openings or consider international offices.",
+  "careersUrl": "https://www.kearney.com/careers",
+  "website": "https://www.kearney.com",
+  "sources": [
+   "https://www.consultor.fr/articles/kearney-la-degringolade-du-partnership-a-paris",
+   "https://en.wikipedia.org/wiki/Kearney_(consulting_firm)",
+   "https://www.consultancy.com.au/news/11688/global-management-consulting-firm-kearney-celebrates-100-years-of-impact",
+   "https://www.planetegrandesecoles.com/kearney-conseil-en-strategie-salaire-missions-recrutement",
+   "https://www.consultancy.org/news/firm/kearney"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "oliver-wyman",
+  "name": "Oliver Wyman",
+  "aliases": [
+   "Oliver Wyman Paris",
+   "Marsh Management Consulting",
+   "Oliver Wyman Group"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "New York, United States",
+  "paris": "Paris office at 1 rue Euler (8e) with ~225 consultants and ~40 partners (2025), historically strongest in financial services, plus telecoms/media, transport and consumer goods (reinforced by four ex-Kearney consumer/retail partners).",
+  "founded": "1984",
+  "employees": "Not disclosed separately; Marsh Management Consulting (Oliver Wyman, Lippincott, NERA) has 7,200+ staff (2025); ~225 consultants in Paris (2025)",
+  "revenue": "$3.6bn (2025), +6% (Marsh Management Consulting)",
+  "ownership": "Subsidiary of Marsh (formerly Marsh McLennan; NYSE: MRSH)",
+  "description": "Global strategy and management consultancy owned by insurance broker Marsh, renowned for financial services and risk, and also active in transport, aviation, consumer, energy and public sector. Combines strategy work with deep analytics and actuarial expertise.",
+  "sectors": "Financial services & risk (flagship), transportation & aviation, automotive, consumer & retail, energy & utilities, health & life sciences, telecoms, public sector; restructuring (CR3)",
+  "health": "Healthy: record $3.6bn revenue in 2025 (+6%), first $1bn quarter, similar growth expected in 2026; new CEO Ted Moynihan (Apr 2026) and acquisition of turnaround firm CR3 Partners (May 2026). Management said it plans to hire as many or more junior consultants who are comfortable with AI.",
+  "news": [
+   {
+    "date": "2026-09-28",
+    "title": "Birgit Boykin named chief people officer of Oliver Wyman",
+    "url": "https://www.consulting.us/news/14013/birgit-boykin-named-chief-people-officer-of-oliver-wyman-and-marsh-management-consulting"
+   },
+   {
+    "date": "2026-05-05",
+    "title": "Oliver Wyman to acquire turnaround firm CR3 Partners",
+    "url": "https://www.consulting.us/news/13339/oliver-wyman-to-acquire-turnaround-firm-cr3-partners"
+   },
+   {
+    "date": "2026-04-01",
+    "title": "Ted Moynihan named president and CEO of Oliver Wyman",
+    "url": "https://www.consulting.us/news/13195/ted-moynihan-named-president-and-ceo-of-oliver-wyman"
+   },
+   {
+    "date": "2026-02-02",
+    "title": "Oliver Wyman posts record 2025 revenue of $3.6bn, up 6%",
+    "url": "https://www.consultor.fr/articles/oliver-wyman-signe-une-annee-2025-record-avec-un-chiffre-daffaires-de-3-6-milliards-de-dollars-en-hausse-de-6"
+   }
+  ],
+  "recruiting": "Paris hires interns and Consultants (graduate entry). Interns go through 2 rounds (1 then 2 case + fit interviews); graduate Consultants through 3 rounds (1, 2, then 1 interview). Candidates usually choose a practice affiliation; French and English expected.",
+  "tinoAngle": "Oliver Wyman's transport/automotive and newly reinforced consumer & retail practice in Paris fit his sector interests, and its large Singapore/Asia business and energy work connect with his international and industrial-sustainability experience.",
+  "careersUrl": "https://www.oliverwyman.com/careers.html",
+  "website": "https://www.oliverwyman.com",
+  "sources": [
+   "https://www.consultor.fr/articles/oliver-wyman-signe-une-annee-2025-record-avec-un-chiffre-daffaires-de-3-6-milliards-de-dollars-en-hausse-de-6",
+   "https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/mrsh-20251231.htm",
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-oliver-wyman-presentation",
+   "https://www.consultancy.org/news/firm/oliver-wyman",
+   "https://www.consultor.fr/articles/kearney-la-degringolade-du-partnership-a-paris"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "arthur-d-little",
+  "name": "Arthur D. Little",
+  "aliases": [
+   "ADL",
+   "Arthur D. Little France",
+   "ADL Paris"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Brussels, Belgium (registered office)",
+  "paris": "Paris office at 7 place d'Iéna (16e) with 100+ consultants and ~16 partners in France (2025), led by Matteo Ainardi (Western Europe & France/Morocco), strong in telecoms, transport, consumer/luxury, automotive, energy and private equity (25-30% of activity).",
+  "founded": "1886",
+  "employees": "2,000+ worldwide in ~40 offices (2026); 100+ consultants in France (2025)",
+  "revenue": "Not disclosed (US unit $38m in 2025, said to be nearly 10% of global revenue, per Boston Globe 2026)",
+  "ownership": "Independent, partner-owned since a 2011-12 management buyout from Altran",
+  "description": "The world's oldest management consultancy, combining strategy with technology and innovation expertise. Mid-sized and European-centred, it targets mid-sized as well as large clients and is strong in the Middle East and Asia.",
+  "sectors": "Telecoms/TIME, transport & airports, automotive & mobility, energy & utilities, consumer & luxury, chemicals/process industries, life sciences, private equity",
+  "health": "Stable and expanding selectively: new partners in Paris and Madrid (Apr 2026), Middle East and Tokyo promotions, a joint venture with Vega IT (Dec 2025), and a push to grow US revenue from $38m (2025) to ~$45m (2026).",
+  "news": [
+   {
+    "date": "2026-09-25",
+    "title": "ADL: UAE leads Gulf in EV readiness as focus moves to infrastructure",
+    "url": "https://www.consultancy-me.com/news/14492/uae-leads-the-gulf-in-electric-driving-readiness-as-focus-shifts-beyond-the-vehicle"
+   },
+   {
+    "date": "2026-04-24",
+    "title": "ADL promotes two Paris partners and adds one in Madrid",
+    "url": "https://www.consultancy.eu/news/13559/arthur-d-little-appoints-new-partners-in-madrid-and-paris"
+   },
+   {
+    "date": "2026-03-16",
+    "title": "ADL aims to make the US its biggest market within a decade",
+    "url": "https://www.bostonglobe.com/2026/03/16/business/arthur-d-little-craig-wylie/"
+   },
+   {
+    "date": "2025-12-09",
+    "title": "ADL launches joint venture with Vega IT",
+    "url": "https://www.consulting.us/news/12753/arthur-d-little-launches-joint-venture-with-vega-it"
+   }
+  ],
+  "recruiting": "Entry titles are Business Analyst (intern and graduate) then Consultant; recruitment is handled by the Paris office, targeting business and engineering schools, with case + fit interviews. Business Analyst intern postings appear through the year; French and English required.",
+  "tinoAngle": "ADL Paris explicitly covers luxury/consumer, automotive and energy-environment, all three of his target sectors, and its technology-and-innovation angle suits his industrial ash-recovery project; its Madrid and Middle East/Asia footprint value his Spanish and Singapore experience.",
+  "careersUrl": "https://www.adlittle.com/en/careers",
+  "website": "https://www.adlittle.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-conseil-strategie-adl-arthur-d-little-presentation-description",
+   "https://www.bostonglobe.com/2026/03/16/business/arthur-d-little-craig-wylie/",
+   "https://www.consultancy.eu/news/13559/arthur-d-little-appoints-new-partners-in-madrid-and-paris",
+   "https://www.consultancy.org/news/firm/arthur-d-little"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "l-e-k-consulting",
+  "name": "L.E.K. Consulting",
+  "aliases": [
+   "LEK",
+   "L.E.K.",
+   "LEK Consulting",
+   "L.E.K. Paris"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "London, United Kingdom (large hub in Boston)",
+  "paris": "Paris office (since 1989) at 2 rue Paul Cézanne (8e) with ~14 partners and ~100 consultants (2026), led by Anne Dhulesia; core in private equity/M&A, life sciences, industry-energy-construction, consumer, retail and tech.",
+  "founded": "1983",
+  "employees": "2,300+ worldwide in 25+ offices (2025-26); ~100 consultants in Paris (2026)",
+  "revenue": "Not disclosed",
+  "ownership": "Private partnership (owned by its partners)",
+  "description": "Strategy consultancy founded by three former Bain partners, best known for private-equity due diligence, M&A and corporate strategy, with a rigorous analytical culture. Strong in life sciences and pricing.",
+  "sectors": "Private equity & M&A, life sciences & healthcare, industrials & energy, consumer & retail, TMT, transport, financial services; pricing and operations",
+  "health": "Steady: regular partner promotions (incl. Paris, Jan 2026), senior lateral hires and a move to a larger New York office (Mar 2026); global managing partner Clay Heskett re-elected (Oct 2025). No layoffs reported.",
+  "news": [
+   {
+    "date": "2026-10-15",
+    "title": "L.E.K. re-elects Manny Picciola as Americas leader",
+    "url": "https://www.consulting.us/news/14098/lek-consulting-re-elects-manny-picciola-as-americas-leader"
+   },
+   {
+    "date": "2026-03-18",
+    "title": "L.E.K. moves to a bigger New York office",
+    "url": "https://www.consulting.us/news/13126/lek-consulting-moving-to-bigger-new-york-office-appoints-new-market-leader"
+   },
+   {
+    "date": "2026-01-15",
+    "title": "L.E.K. promotes Sébastien Beausoleil to partner in Paris",
+    "url": "https://www.consultancy.eu/news/12970/lek-consulting-promotes-sebastien-beausoleil-to-partner-in-paris-office"
+   },
+   {
+    "date": "2025-10-31",
+    "title": "Antonio Martínez joins L.E.K. to build Spain and Latin America",
+    "url": "https://www.consultancy.eu/news/12684/antonio-martinez-joins-lek-consulting-with-focus-on-spain-and-latin-america"
+   }
+  ],
+  "recruiting": "Entry titles are Analyst / Associate (and interns). Process: online numerical test in English, round 1 with two consultant interviews (market-sizing or strategy case + fit, one fully in English), round 2 with two partner case + fit interviews. Analytical rigour is weighted heavily.",
+  "tinoAngle": "L.E.K.'s industry-energy practice and PE due-diligence work suit an analytical, industrial profile like his waste-valorisation project, and its Singapore office plus new Spain/LatAm push make use of his Asian experience and Spanish.",
+  "careersUrl": "https://www.lek.com/careers",
+  "website": "https://www.lek.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/lek-cabinet-conseil-strategie",
+   "https://managementconsulted.com/consulting-firm/l-e-k-consulting/",
+   "https://www.consultancy.org/news/firm/lek-consulting",
+   "https://www.consultancy.eu/news/12970/lek-consulting-promotes-sebastien-beausoleil-to-partner-in-paris-office"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "strategy-pwc",
+  "name": "Strategy& (PwC)",
+  "aliases": [
+   "Strategy&",
+   "Strategy and",
+   "PwC Strategy&",
+   "Booz & Company",
+   "PwC Strategy& France"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "London, United Kingdom (PwC network); Paris team in Neuilly-sur-Seine",
+  "paris": "Around 200 consultants in Paris (Consultor) based at PwC's Neuilly-sur-Seine campus, with 22 partners in France after the 2023 promotions; led since July 2026 by Laurent Guérin.",
+  "founded": "1914 (Booz heritage); Strategy& brand since 2014",
+  "employees": "About 4,000 consultants worldwide (Consultor, 2025-26); PwC network about 364,000 people (FY2025)",
+  "revenue": "PwC: $56.9bn (FY2025, year to June 2025); Strategy& not disclosed separately",
+  "ownership": "Part of PwC network",
+  "description": "PwC's global strategy consulting brand, created when Booz & Company joined PwC in 2014. It combines classic strategy work with PwC's deals, operations and tech capabilities, positioning itself on 'strategy through execution'. Strong in M&A-related strategy (carve-outs, spin-offs, post-merger integration) and private equity value creation.",
+  "sectors": "Energy & utilities, consumer goods & retail, aerospace & defence, TMT, financial services, private equity; also restructuring, operations and decarbonisation",
+  "health": "PwC grew only 2.7% in FY2025 and cut headcount 1.6%, but Strategy& is investing: it bought UK AI consultancy Datasparq (Aug 2026) and PwC Australia acquired Advancy Australia (Sept 2026). France saw a leadership change in July 2026; Paris was still posting junior roles in May 2026.",
+  "news": [
+   {
+    "date": "2026-10-01",
+    "title": "PwC Australia completes acquisition of Advancy Australia for deals and value-creation work",
+    "url": "https://www.pwc.com.au/media/2026/PwC-Australia-invests-in-specialist-deals-expertise-with-acquisition-of-Advancy-Australia.html"
+   },
+   {
+    "date": "2026-08-27",
+    "title": "Strategy& acquires London AI and data consultancy Datasparq",
+    "url": "https://www.consultancy.uk/news/45488/datasparq-joins-strategy-to-strengthen-ai-and-data-capabilities-in-uk"
+   },
+   {
+    "date": "2026-07-24",
+    "title": "Laurent Guérin succeeds Edouard Bitton as head of Strategy& (France)",
+    "url": "https://www.cfnews.net/L-actualite/Nominations/Conseil/Strategy-se-dote-d-un-nouveau-responsable-723325"
+   },
+   {
+    "date": "2025-08-01",
+    "title": "Strategy& partner Anne-Lise Glauser joins PwC France & Maghreb executive committee to lead strategy and investments",
+    "url": "https://www.consultor.fr/articles/pwc-france-et-maghreb-confie-sa-strategie-et-ses-investisseements-a-une-associee-de-strategy"
+   }
+  ],
+  "recruiting": "Entry titles are intern/apprentice and Associate (junior consultant). Interns go through 4 interviews and graduates 5, each mixing fit and case study, conducted in both French and English (Consultor). Looks for top business/engineering school profiles with strong analytics and sector curiosity.",
+  "tinoAngle": "Energy is one of Strategy&'s core French sectors and its operations practice covers decarbonisation and circular economy, a direct link to Tino's industrial waste/ash valorisation project; his Singapore internship fits PwC's global network and international staffing.",
+  "careersUrl": "https://www.strategyand.pwc.com/fr/fr/careers.html",
+  "website": "https://www.strategyand.pwc.com/fr/fr",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-strategy-and",
+   "https://www.consultancy.eu/news/9097/strategy-appoints-five-new-partners-in-paris-office",
+   "https://news.bloombergtax.com/daily-tax-report-state/pwc-reports-second-year-of-slower-revenue-growth-lags-peers",
+   "https://www.pwc.com/gx/en/news-room/press-releases/2025/pwc-global-revenues-rise.html",
+   "https://www.consultancy.uk/news/45488/datasparq-joins-strategy-to-strengthen-ai-and-data-capabilities-in-uk",
+   "https://www.cfnews.net/L-actualite/Nominations/Conseil/Strategy-se-dote-d-un-nouveau-responsable-723325"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "ey-parthenon",
+  "name": "EY-Parthenon",
+  "aliases": [
+   "EY Parthenon",
+   "Parthenon-EY",
+   "EY-Parthenon Strategy & Transactions",
+   "EY Strategy and Transactions",
+   "Ernst & Young"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "London, United Kingdom (EY global); Parthenon originally Boston, USA",
+  "paris": "In France about 650 consultants and 80 partners (2025), of which 200+ in Strategy & Transformation; Paris strategy teams sit at rue Saint-Lazare (9th) and move to One Monceau (8th) in 2026, with new regional offices in Bordeaux and Toulouse.",
+  "founded": "1991 (Parthenon); EY-Parthenon since 2014",
+  "employees": "EY: 415,182 people (June 2026); EY-Parthenon France ~650 consultants (2025)",
+  "revenue": "EY: $57.0bn (FY2026, to June 2026); Strategy and Transactions (EY-Parthenon): $6.8bn (FY2026)",
+  "ownership": "Part of EY network",
+  "description": "EY's strategy and transactions brand, combining Parthenon's strategy consulting heritage with EY's transaction and corporate finance teams. In France it was built largely from the 2017 absorption of OC&C's Paris office and covers growth strategy, performance, due diligence, carve-outs and post-merger integration. About a third of missions involve other EY lines (consulting, law, sustainability).",
+  "sectors": "Industry & mobility (automotive), retail & consumer goods, TMT; also financial services, public sector, health, education and energy",
+  "health": "Strong: EY's Strategy and Transactions line grew 7.4% in local currency to $6.8bn in FY2026, faster than EY overall (4.7%). France has grown about 10% a year since 2017 and kept expanding in 2026 (Toulouse office, larger Paris premises).",
+  "news": [
+   {
+    "date": "2026-10-08",
+    "title": "EY reports $57bn FY2026 revenue; Strategy and Transactions up 7.4% to $6.8bn",
+    "url": "https://www.ey.com/en_gl/newsroom/2026/10/ey-global-revenue-increases-4-point-7-percent-to-us-dollars-57b-for-fiscal-year-2026"
+   },
+   {
+    "date": "2026-07-22",
+    "title": "EY-Parthenon expands in south-west France with Bordeaux hires and a Toulouse office",
+    "url": "https://www.cfnews.net/L-actualite/Nominations/Conseil/EY-Parthenon-garnit-ses-rangs-dans-le-Sud-Ouest-723015"
+   },
+   {
+    "date": "2025-05-02",
+    "title": "EY-Parthenon France hires Bayer health division's strategy director",
+    "url": "https://www.consultor.fr/devenir-consultant/guide-des-cabinets-de-conseil-en-strategie/cabinet-de-conseil-en-strategie-ey-parthenon.html"
+   },
+   {
+    "date": "2025-01-14",
+    "title": "Nicolas Atfi returns from Oliver Wyman as partner for StratOps / value creation",
+    "url": "https://www.consultor.fr/articles/ey-parthenon-come-back-dun-partner-en-provenance-doliver-wyman"
+   }
+  ],
+  "recruiting": "Entry titles are intern, Associate Consultant and Senior Associate. Process has 3 rounds: a quantitative test plus one case, then two cases, then a final case (Consultor). French and English are expected; separate tracks exist for strategy and for transaction work (PMI/carve-out, due diligence).",
+  "tinoAngle": "Industry & mobility is a lead French sector, matching Tino's automotive interest, and the integrated model with EY sustainability teams suits his CSR waste-valorisation project; his import/export logistics internship is relevant for supply-chain and carve-out work.",
+  "careersUrl": "https://careers.ey.com/",
+  "website": "https://www.ey.com/fr_fr",
+  "sources": [
+   "https://www.consultor.fr/devenir-consultant/guide-des-cabinets-de-conseil-en-strategie/cabinet-de-conseil-en-strategie-ey-parthenon.html",
+   "https://www.ey.com/en_gl/newsroom/2026/10/ey-global-revenue-increases-4-point-7-percent-to-us-dollars-57b-for-fiscal-year-2026",
+   "https://www.cfnews.net/L-actualite/Nominations/Conseil/EY-Parthenon-garnit-ses-rangs-dans-le-Sud-Ouest-723015",
+   "https://www.consultor.fr/articles/le-bureau-de-paris-d-oc-c-en-passe-de-ceder-aux-avances-d-ey",
+   "https://www.consultor.fr/articles/ey-parthenon-come-back-dun-partner-en-provenance-doliver-wyman"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "accenture-strategy",
+  "name": "Accenture Strategy",
+  "aliases": [
+   "Accenture",
+   "Accenture Strategy & Consulting",
+   "Accenture Business Strategy",
+   "Accenture Technology Strategy"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "Dublin, Ireland",
+  "paris": "Accenture's Strategy & Consulting teams in France count about 1,500 people out of ~10,000 Accenture staff in the country (Jan 2025), including a ~100-person Technology Strategy team; strategy work covers M&A, strategic plans and large transformations.",
+  "founded": "1989 (as Andersen Consulting; renamed Accenture 2001)",
+  "employees": "About 814,000 people globally (Oct 2026, Q4 FY2026 release); ~779,000 at Aug 2025",
+  "revenue": "Accenture: $74.2bn (FY2026, to Aug 2026), of which Consulting $36.9bn; Strategy not disclosed separately",
+  "ownership": "Listed (NYSE: ACN)",
+  "description": "Strategy unit of Accenture's Strategy & Consulting business, merged organisationally with consulting since 2020. Positions itself on business strategy tied to technology and AI, with the ability to carry recommendations into implementation through the wider group.",
+  "sectors": "Organised by industry matrix incl. automotive, industrial/manufacturing, utilities & energy, retail & consumer goods, aviation, financial services; plus functional practices (finance, HR, technology strategy)",
+  "health": "Mixed: FY2026 revenue grew 6% to $74.2bn, but Accenture ran an ~$865m restructuring in late 2025 (11,000+ cuts in one quarter) and keeps buying AI/data firms in Europe. In France, Consultor reported pay freezes, low staffing and morale issues in 2024-25.",
+  "news": [
+   {
+    "date": "2026-10-01",
+    "title": "Accenture reports FY2026 revenue of $74.2bn, up 6%, with $84.5bn in bookings",
+    "url": "https://pulse2.com/accenture-reports-q4-revenue-of-18-7-billion-and-fy2026-revenue-of-74-2-billion/"
+   },
+   {
+    "date": "2026-07-02",
+    "title": "Accenture acquires Danish digital group Mjølner Informatics (400+ staff)",
+    "url": "https://www.consultancy.eu/news/firm/accenture/consulting/ma-in-consulting"
+   },
+   {
+    "date": "2026-04-08",
+    "title": "Accenture buys Spanish data and AI consultancy Keepler",
+    "url": "https://www.consultancy.eu/news/firm/accenture/consulting/ma-in-consulting"
+   },
+   {
+    "date": "2025-09-26",
+    "title": "Accenture announces job cuts and divestments as FY2026 growth outlook slows",
+    "url": "https://storyboard18.com/brand-marketing/accenture-to-cut-jobs-exit-acquisitions-as-growth-slows-in-fy26-81582.htm"
+   }
+  ],
+  "recruiting": "Entry is via end-of-studies internship or Analyst/Consultant roles in strategy, often converted from internships. Candidate reports describe an online application, sometimes online tests, then 2-3 interviews mixing fit and business cases with managers and a senior manager/MD; fluent French and English required.",
+  "tinoAngle": "Accenture's automotive and utilities/energy industry groups line up with Tino's target sectors, and its large international network suits his Singapore and Madrid experience; Spanish is a plus for Iberian projects.",
+  "careersUrl": "https://www.accenture.com/fr-fr/careers",
+  "website": "https://www.accenture.com/fr-fr",
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/0001467373/000146737326000037/q4fy26earnings8-kexhibit.htm",
+   "https://pulse2.com/accenture-reports-q4-revenue-of-18-7-billion-and-fy2026-revenue-of-74-2-billion/",
+   "https://www.consultor.fr/articles/accenture-france-le-blues-des-consultants-en-strategie",
+   "https://www.consultor.fr/articles/accenture-strategy-les-dessous-de-la-reorganisation",
+   "https://www.peoplematters.in/amp/news/strategic-hr/accenture-lays-off-11419-in-three-months-spends-dollar615m-on-severance-reports-46722",
+   "https://fr.glassdoor.ca/Entretien/Accenture-Entretien-E4138-RVW47939310.htm"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "publicis-sapient-strategy",
+  "name": "Publicis Sapient Strategy",
+  "aliases": [
+   "Publicis Sapient",
+   "Publicis Sapient Strategy Consulting",
+   "Sapient",
+   "Publicis Groupe",
+   "Digital & AI Strategy"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "Boston, USA (Publicis Groupe HQ: Paris, France)",
+  "paris": "Publicis Sapient France runs a strategy practice (data, tech and business strategy) inside its 'SPEED' model; the original Paris strategy unit (~30 consultants) was wound down in 2023, but new managing directors joined in 2024-25 and it is again hiring Digital & AI Strategy juniors and interns in 2026.",
+  "founded": "1990 (Sapient); part of Publicis Groupe since 2015",
+  "employees": "Publicis Sapient: 20,000+ people in 72 offices (2026 job ad); Publicis Groupe ~114,000 (2025)",
+  "revenue": "Publicis Groupe net revenue €14.5bn (2025); Publicis Sapient not disclosed separately (Technology practice ~14% of group net revenue, 2025)",
+  "ownership": "Part of Publicis Groupe (Euronext Paris: PUB)",
+  "description": "Digital business transformation consultancy of Publicis Groupe, combining strategy, product, experience, engineering and data/AI. Its strategy team focuses on AI, data and technology strategy linked to delivery, using proprietary platforms (Slingshot, CoreAI).",
+  "sectors": "Retail & consumer, financial services, pharma/health, transport & mobility, energy & utilities; Paris clients cited include Sonepar, Pfizer, Deutsche Bank",
+  "health": "Mixed: Publicis Groupe grew 5.6% organically in 2025 and 5% in Q3 2026, but its Technology (Sapient) practice was almost flat in 2025 on client caution. In France the strategy team saw many exits in 2023 and is being rebuilt around AI since 2024-25.",
+  "news": [
+   {
+    "date": "2026-10-14",
+    "title": "Publicis Groupe Q3 2026 revenue up 5%, beating forecasts on AI-driven demand",
+    "url": "https://adindex.ru/news/agencies/2026/10/14/349938.phtml"
+   },
+   {
+    "date": "2026-09-15",
+    "title": "Publicis Sapient Paris posts Junior Associate Consultant - Digital & AI Strategy internship",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/junior-associate-consultant-digital-ai-strategy-stage"
+   },
+   {
+    "date": "2026-02",
+    "title": "Publicis FY2025: 5.6% organic growth, Technology practice almost flat",
+    "url": "https://www.publicisgroupe.com/sites/default/files/press-releases/2026-02/CP_FY%202025_ENG.pdf"
+   },
+   {
+    "date": "2025-09-30",
+    "title": "Bain enterprise-technology partner Stéphane Busse joins Publicis Sapient as MD",
+    "url": "https://www.consultor.fr/articles/publicis-sapient-recrute-un-responsable-de-practice-tech-de-bain"
+   }
+  ],
+  "recruiting": "Entry titles are Junior Associate Consultant (intern) and Associate Consultant in Digital & AI Strategy. 2026 ads target final-year or gap-year students from top business/engineering schools, value a prior international strategy/business internship, and require fluent French and English; interview format is not published (expect fit and case interviews).",
+  "tinoAngle": "The 2026 intern ad explicitly values prior international business internships, matching Tino's Singapore and Madrid experience; best fit if he wants strategy with a strong AI/digital angle on retail, consumer and transport clients.",
+  "careersUrl": "https://careers.publicissapient.com/",
+  "website": "https://www.publicissapient.com/",
+  "sources": [
+   "https://www.consultor.fr/articles/publicis-clap-de-fin-pour-l-activite-de-conseil-en-strategie-en-france",
+   "https://www.consultor.fr/articles/laccompagnement-des-clients-tel-que-nous-lavons-connu-nest-plus-ce-quattend-le-marche-xavier-cimino-et-lise-malbernard-publicis-sapient",
+   "https://www.consultor.fr/carrieres/offre-d-emploi/junior-associate-consultant-digital-ai-strategy-stage",
+   "https://www.publicisgroupe.com/sites/default/files/press-releases/2026-02/CP_FY%202025_ENG.pdf",
+   "https://adindex.ru/news/agencies/2026/10/14/349938.phtml"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "oc-c-strategy-consultants",
+  "name": "OC&C Strategy Consultants",
+  "aliases": [
+   "OC&C",
+   "OC&C Strategy",
+   "Outram Cullinan & Co"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "London, United Kingdom",
+  "paris": "Boutique-sized Paris office (rue Marbeuf, 8th) rebuilt after most partners left for EY in 2017; it had about 3 partners and 30 consultants in 2022 and focuses on consumer goods/retail, private equity, industry and B2B services.",
+  "founded": "1987",
+  "employees": "700+ (OC&C graduate brochure, 2024); ~900 per Management Consulted (undated)",
+  "revenue": "Not disclosed",
+  "ownership": "Private partnership (partner-owned, ~80 partners)",
+  "description": "Independent strategy consultancy founded in London, known for consumer, retail, leisure and media work and a strong private equity due diligence practice. Runs short, high-intensity strategy projects (typically 3-8 weeks) across 14 offices.",
+  "sectors": "Consumer goods & retail, leisure & hospitality, media & technology, B2B services, industrials & infrastructure, private equity",
+  "health": "Stable and growing in Europe: it rehired a 35-person team and partners from EY-Parthenon in Germany (2024-25) and kept promoting partners in 2025-26. No public Paris headcount update since 2022.",
+  "news": [
+   {
+    "date": "2026-05-29",
+    "title": "OC&C study: $85bn investment fuelling cruise fleet expansion",
+    "url": "https://www.consultancy.eu/firms/occ-strategy-consultants/news"
+   },
+   {
+    "date": "2026-03-23",
+    "title": "Dominik Rohrbeck promoted to partner in Düsseldorf",
+    "url": "https://www.consultancy.eu/firms/occ-strategy-consultants/news"
+   },
+   {
+    "date": "2026-01-28",
+    "title": "OC&C creates Managing Director of Analytics role (Jan Sauerbrey)",
+    "url": "https://www.consultancy.eu/firms/occ-strategy-consultants/news"
+   },
+   {
+    "date": "2025-07-01",
+    "title": "Riccardo Pipparelli joins as partner in Milan",
+    "url": "https://www.consultancy.eu/firms/occ-strategy-consultants/news"
+   }
+  ],
+  "recruiting": "Paris hires Associate Consultants and 6-month end-of-studies interns (final-year students only) on a rolling basis, except July-August. Process: CV and cover letter in English, online test, then two 60-minute case interviews with consultants/managers and two with partners. Requires business-fluent French and English and a business or engineering Master's.",
+  "tinoAngle": "OC&C's consumer, retail and leisure/hospitality focus connects with Tino's sales internship in Madrid and hospitality experience in Australia, and its end-of-studies internship format fits his Jan-Jul 2027 window.",
+  "careersUrl": "https://careers-fr.occstrategy.com/",
+  "website": "https://occstrategy.com/",
+  "sources": [
+   "https://occstrategy.com/wp-content/uploads/2024/09/OCC-Graduate-Rec-Global-bro-2024.pdf",
+   "https://careers-fr.occstrategy.com/vacancies/210/associate-consultant-intern-paris-office.html",
+   "https://www.consultor.fr/articles/remettre-oc-c-sur-la-carte-des-cabinets-qui-comptent-en-france",
+   "https://www.consultancy.eu/firms/occ-strategy-consultants/news",
+   "https://managementconsulted.com/consulting-firm/occ-strategy-consultants/",
+   "https://www.roadtooffer.com/blog/oc-and-c-consulting"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "simon-kucher",
+  "name": "Simon-Kucher",
+  "aliases": [
+   "Simon-Kucher & Partners",
+   "Simon Kucher",
+   "SKP"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Bonn, Germany",
+  "paris": "About 155 staff and 16 partners in Paris (Square Édouard VII, 9th) as of 2026, with a large consumer goods & luxury and retail practice plus B2B, TMT, life sciences and a transaction/private equity team.",
+  "founded": "1985",
+  "employees": "Nearly 2,200 (early 2026)",
+  "revenue": "€606m (2025)",
+  "ownership": "Private partnership (227 partners, 2026)",
+  "description": "Global consultancy specialised in commercial strategy: pricing, monetisation, sales, marketing and go-to-market. Also does commercial due diligence and value creation for investors, plus pricing software (Engine).",
+  "sectors": "Consumer goods & luxury, wines & spirits, retail, automotive & industrials, TMT, life sciences, financial services, energy",
+  "health": "Healthy: revenue up 6% in 2025 to a record €606m, headcount up to ~2,200 and 28 new partners on 1 Jan 2026. In Paris one Technology & Industrials partner left in Jan 2026, offset by internal promotions.",
+  "news": [
+   {
+    "date": "2026-06-16",
+    "title": "Simon-Kucher study: sales conversion becomes automakers' new battleground",
+    "url": "https://www.consultancy.eu/firms/simon-kucher-partners/news"
+   },
+   {
+    "date": "2026-03-18",
+    "title": "Simon-Kucher posts record €606m revenue for 2025 and ~2,200 staff",
+    "url": "https://www.consultancy.eu/news/13355/simon-kucher-enters-2026-with-record-revenues-and-headcount"
+   },
+   {
+    "date": "2026-01-21",
+    "title": "New partner promotions as 28 partners join the partnership",
+    "url": "https://www.consultancy.eu/firms/simon-kucher-partners/news"
+   },
+   {
+    "date": "2026-01-05",
+    "title": "Simon-Kucher France: Technology & Industrials partner Sébastien Verrot leaves",
+    "url": "https://www.consultor.fr/articles/simon-kucher-france-enregistre-le-depart-dun-associe-aero"
+   }
+  ],
+  "recruiting": "Entry titles are Associate Consultant (intern, incl. gap-year and end-of-studies) and Consultant, often by sector practice. Process: online test (numerical/logic), then round 1 with three interviews (one analytical case, two business cases plus motivation) and round 2 with two interviews; English is tested in every round (Consultor).",
+  "tinoAngle": "Paris has a strong consumer goods & luxury practice and the firm publishes automotive sales work, both Tino's target sectors; his commercial internship in Madrid is a natural fit for a pricing and sales-strategy firm.",
+  "careersUrl": "https://www.simon-kucher.com/en/careers",
+  "website": "https://www.simon-kucher.com/fr",
+  "sources": [
+   "https://www.consultancy.eu/news/13355/simon-kucher-enters-2026-with-record-revenues-and-headcount",
+   "https://www.consultor.fr/cabinets/simon-kucher-a-partners",
+   "https://www.consultancy.eu/firms/simon-kucher-partners/news",
+   "https://www.consultor.fr/articles/simon-kucher-france-enregistre-le-depart-dun-associe-aero",
+   "https://www.simon-kucher.com/fr/pays/france"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "advancy",
+  "name": "Advancy",
+  "aliases": [
+   "Advancy Paris",
+   "Advancy Strategy"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris HQ (rue Washington, 8th) hosts about 150 of the firm's ~300 consultants and 9 of its 22 partners (2026).",
+  "founded": "1999",
+  "employees": "About 300 consultants (2026)",
+  "revenue": "Over €100m (2025, firm figure)",
+  "ownership": "Private, partner/employee-owned (40 shareholders) with EMZ Partners as minority financial partner since 2023",
+  "description": "Independent French strategy consultancy founded by ex-Kearney consultants, known for hands-on strategy and performance work for corporates and a large private equity practice. About 40% of activity is international (Shanghai, London, Frankfurt, New York, Singapore).",
+  "sectors": "Chemicals & materials, industry, health/life sciences & ingredients, consumer goods, retail, luxury, travel & hospitality; also energy-environment, restructuring and private equity",
+  "health": "Growing about 15% a year, from €65m (2022) to over €100m (2025), and now open to faster external growth. It sold its independent Australian affiliate to PwC Australia in Sept 2026 and was posting junior and intern roles in mid-2026.",
+  "news": [
+   {
+    "date": "2026-10-01",
+    "title": "Advancy Australia acquired by PwC Australia",
+    "url": "https://www.pwc.com.au/media/2026/PwC-Australia-invests-in-specialist-deals-expertise-with-acquisition-of-Advancy-Australia.html"
+   },
+   {
+    "date": "2026-07-17",
+    "title": "Advancy recruiting junior strategy consultants and interns in Paris",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/consultant-junior-en-strategie-h-f"
+   },
+   {
+    "date": "2026-05-07",
+    "title": "Founder Éric de Bettignies marks 25 years: over €100m revenue, eyes faster growth",
+    "url": "https://www.consultor.fr/articles/nous-sommes-au-premier-jour-des-25-prochaines-annees-eric-de-bettignies-advancy"
+   }
+  ],
+  "recruiting": "Entry titles are intern and Junior Consultant. Interns: online numerical/logic tests plus HR interview, then fit + case with a senior consultant/manager, then partner interview + case (3 rounds); juniors have 4 rounds. About 80% of partners started at Advancy, and consultants can become shareholders after 3-4 years.",
+  "tinoAngle": "Advancy's chemicals/materials, industry and decarbonisation work aligns with Tino's ash recovery project, and its luxury, retail and travel & hospitality practice plus Singapore office connect with his hospitality and Singapore experience.",
+  "careersUrl": "https://www.advancy.com/careers/",
+  "website": "https://www.advancy.com/",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-advancy-description",
+   "https://www.consultor.fr/articles/nous-sommes-au-premier-jour-des-25-prochaines-annees-eric-de-bettignies-advancy",
+   "https://www.pwc.com.au/media/2026/PwC-Australia-invests-in-specialist-deals-expertise-with-acquisition-of-Advancy-Australia.html",
+   "https://www.ziprecruiter.fr/jobs/580183311-paris-junior-strategy-consultant-h-f-a-advancy"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "strategia-partners",
+  "name": "Strategia Partners",
+  "aliases": [
+   "Strategia",
+   "Strategia Partners Paris"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France (also Zurich, Switzerland)",
+  "paris": "Small Paris team (about 15 of ~30 consultants per Consultor) on rue du Faubourg Saint-Honoré, led by founding partners Jean Berg (consumer/luxury, B2B services) and Thomas Chevre (private equity).",
+  "founded": "2021",
+  "employees": "About 30 consultants (Consultor profile, 2025); 21-50 employees (company data)",
+  "revenue": "Not disclosed",
+  "ownership": "Private partnership",
+  "description": "Boutique pure-play growth strategy firm spun off from Estin & Co in 2021. Advises CEOs, boards, family-owned groups and PE funds (PE ~40% of activity) on growth strategy, resource allocation and acquisitions, adding environmental and human dimensions to strategic plans.",
+  "sectors": "Consumer goods & luxury, business services, industry, technology & software, health, energy & renewables, mobility, private equity",
+  "health": "Growing from a small base: offices added in Seattle (2023) and New York (2024), with a target of 80 consultants. It recruits year-round and posted consultant and intern roles in Paris in May 2026; no financials published.",
+  "news": [
+   {
+    "date": "2026-05-15",
+    "title": "Strategia Partners recruiting consultants and interns in Paris",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/consultant-e-stagiaire"
+   },
+   {
+    "date": "2024-06-05",
+    "title": "Strategia opens New York office led by ex-Circana partner Ray Florio",
+    "url": "https://www.consultor.fr/articles/nouveau-bureau-a-new-york-pour-strategia-partners"
+   },
+   {
+    "date": "2023-03-02",
+    "title": "Two years after launch, Strategia expands its team",
+    "url": "https://www.consultor.fr/articles/deux-ans-apres-sa-creation-strategia-s-agrandit"
+   }
+  ],
+  "recruiting": "Hires interns and consultants year-round by email application. Two rounds of case interviews (2-3 cases, then 2). Targets top French business/engineering schools, prefers 6+ months of prior experience in consulting, finance or industry, and requires fluent French and English, with a third language a plus.",
+  "tinoAngle": "Ads explicitly value a third language and prior experience, so Tino's Spanish and multiple internships stand out; its energy & renewables, mobility and luxury focus covers all three of his preferred sectors.",
+  "careersUrl": "https://strategiapartners.com/careers/",
+  "website": "https://strategiapartners.com/",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-strategia-partners",
+   "https://www.consultor.fr/carrieres/offre-d-emploi/consultant-e-stagiaire",
+   "https://www.consultor.fr/articles/nouveau-bureau-a-new-york-pour-strategia-partners",
+   "https://www.strategiapartners.com",
+   "https://prospeo.io/c/strategia-partners"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "indefi",
+  "name": "Indefi",
+  "aliases": [
+   "INDEFI",
+   "INDEFI Group",
+   "INDEFI x Singulier"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris is the headquarters and largest office (the 2023 Paris partnership had 9 partners), covering private equity due diligence, asset-management strategy and sustainability advisory; a Lyon office opened in January 2024.",
+  "founded": "2007",
+  "employees": "85+ consultants (company website, 2026); about 80 consultants and 12 partners (Consultor, 2022)",
+  "revenue": "Not disclosed",
+  "ownership": "Independent, partner-owned",
+  "description": "Strategy boutique dedicated to the investment industry: asset and wealth managers, private equity funds and their portfolio companies. It runs three business units (Private Equity Advisory, Corporate Strategy, Sustainability Advisory) and has offered ESG advice since 2011. Known for high volumes of strategic due diligence (about 70 a year, per Consultor 2022), some run with its long-standing partner Singulier.",
+  "sectors": "Private equity (due diligence, value creation), asset & wealth management, ESG/sustainability, portfolio companies across consumer, health, business services, industry",
+  "health": "Stable and growing its partner bench: Adam Laissaoui was named 10th partner in June 2025, while the sustainability unit was reorganised after its lead partner left (June 2025). In September 2026 PE partner Marc Durance left for CMI.",
+  "news": [
+   {
+    "date": "2026-09-09",
+    "title": "PE partner Marc Durance leaves Indefi to join CMI",
+    "url": "https://www.consultor.fr/articles/un-recrutement-et-deux-promotions-internes-le-partnership-de-cmi-passe-de-14-a-17-associes"
+   },
+   {
+    "date": "2025-06-30",
+    "title": "Indefi reorganises its Sustainability Advisory unit as founding partner goes independent",
+    "url": "https://www.cfnews.net/L-actualite/Exclusif-CFNEWS/Indefi-repense-son-offre-Sustainability-advisory-534720"
+   },
+   {
+    "date": "2025-06-17",
+    "title": "Adam Laissaoui promoted as Indefi's 10th partner in Paris",
+    "url": "https://www.cfnews.net/L-actualite/Nominations/Conseil/Indefi-promeut-533504"
+   }
+  ],
+  "recruiting": "Hires strategy consultant interns (6 months, e.g. January intakes in Paris and Lyon) and junior/senior consultants in the Private Equity and Corporate Strategy units via Teamtailor and JobTeaser. Targets top business/engineering school graduates with prior consulting, M&A, banking or PE exposure, strong PowerPoint/Excel and PE knowledge. Full fluency in French and English is mandatory; other European languages are a plus.",
+  "tinoAngle": "Indefi posts January-start strategy internships (a January 2027 Lyon internship appeared on JobTeaser), which fits Tino's Jan–Jul 2027 window. His CSR ash-recovery project is a hook for the Sustainability Advisory unit, and PE due diligence would expose him to energy and industrial targets.",
+  "careersUrl": "https://indefi.teamtailor.com/jobs",
+  "website": "https://www.indefi.com",
+  "sources": [
+   "https://www.indefi.com",
+   "https://indefi.teamtailor.com/jobs/8024309-junior-strategy-consultant-private-equity-lyon-f-h",
+   "https://www.consultor.fr/articles/indefi-depart-promo-d-associes-pe",
+   "https://www.cfnews.net/L-actualite/Nominations/Conseil/Indefi-s-installe-a-Lyon-468438",
+   "https://www.cfnews.net/L-actualite/Nominations/Conseil/Indefi-promeut-533504"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "pmp-strategy",
+  "name": "PMP Strategy",
+  "aliases": [
+   "PMP",
+   "PMP Conseil"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris (rue d'Anjou, 8th) is the core office, with roughly 100 of the firm's ~150 consultants in 2023 and a 20-member Paris partnership in 2026.",
+  "founded": "2003",
+  "employees": "150+ consultants across 11 offices (Consulting.ca, April 2026)",
+  "revenue": "Not disclosed (firm claims double-digit annual growth, 2026)",
+  "ownership": "Independent, partner-owned",
+  "description": "Independent international strategy firm that advises top management on strategy and execution. It is organised around four sector pillars (Telecom/Media/Digital infrastructure, Energy & Industry decarbonisation, Financial Services, Transport & Mobility) and functional practices such as IT performance, data/customer experience, private equity and CFO advisory/ESG. Strong in telecoms and data-centre work (70+ data-centre projects in two years).",
+  "sectors": "Telecom & digital infrastructure, energy & industrial decarbonisation (commodities, chemicals, building materials), financial services & PE, transport & mobility, tourism",
+  "health": "Growing: three new associate partners in February 2026 (Paris partnership now 20, plus 6 abroad), with a stated aim to double the partnership within five years. It keeps expanding internationally (Montreal, Toronto, New York, Seattle, Dubai, Casablanca, Brussels, London).",
+  "news": [
+   {
+    "date": "2026-04-09",
+    "title": "PMP Strategy adds an associate partner in Montreal",
+    "url": "https://www.consulting.ca/news/4960/pmp-strategy-adds-stephane-bouzelmat-as-an-associate-partner-in-montreal"
+   },
+   {
+    "date": "2026-02-18",
+    "title": "Three new associate partners in Paris; goal to double the partnership in five years",
+    "url": "https://www.consultor.fr/articles/trois-nouveaux-associes-chez-pmp-strategy-qui-compte-doubler-son-partnership-dici-5-ans"
+   }
+  ],
+  "recruiting": "Recruits interns and junior consultants (0–3 years) plus experienced consultants, posted on pmpstrategy.com/carrieres, Consultor and JobTeaser. Requires a top engineering or business school degree and strong analysis/synthesis skills; detailed interview steps are not published, but case-based interviews are standard for the segment. International offices make English important.",
+  "tinoAngle": "PMP's Energy & Industry decarbonisation practice (commodities, building materials, chemicals) maps directly onto Tino's industrial ash-valorisation project, and its Transport & Mobility pillar touches automotive. Its international network (Gulf, Morocco, North America) values his Singapore and Madrid experience.",
+  "careersUrl": "https://pmpstrategy.com/carrieres",
+  "website": "https://pmpstrategy.com",
+  "sources": [
+   "https://www.consultor.fr/articles/trois-nouveaux-associes-chez-pmp-strategy-qui-compte-doubler-son-partnership-dici-5-ans",
+   "https://www.consulting.ca/news/4960/pmp-strategy-adds-stephane-bouzelmat-as-an-associate-partner-in-montreal",
+   "https://www.consultor.fr/articles/pmp-strategy-installe-deux-antennes-a-seattle-et-dubai",
+   "https://www.jobteaser.com/fr/companies/pmp-conseil",
+   "https://www.consultor.fr/carrieres/offre-d-emploi/pmp-consultant-e-junior-senior-h-f"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "cmi-strategies",
+  "name": "CMI Strategies",
+  "aliases": [
+   "CMI",
+   "CMI Stratégies",
+   "CMI Strategies & Cepheïd"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris (rue des Italiens, 9th) hosts almost all of the ~100 consultants, split roughly in thirds between public sector, corporates and private equity, with offices also in Madrid (2024) and Milan (2026).",
+  "founded": "1986",
+  "employees": "Just under 100 consultants (Consultor, March 2026); 17 partners (September 2026)",
+  "revenue": "About €20m, broadly flat in 2024 and 2025 (Consultor, March 2026)",
+  "ownership": "Independent, partner-owned (employees targeted to hold ~25% of capital)",
+  "description": "One of France's oldest independent strategy firms, founded by former Centrale Paris strategy professor Thomas Durand. It works for corporates, public bodies and private equity funds (strategic due diligence), and added transformation, StratOps and ESG capabilities through its 2022 merger with Cepheïd Consulting. It is part of a European 'Consulting for Capital' alliance with Germany's Codex and the UK's Fairgrove.",
+  "sectors": "Private equity due diligence, public sector & local authorities, pharma/health, telecom/tech, energy & infrastructure, consumer goods & retail, building & real estate",
+  "health": "Revenue plateaued around €20m in 2024–2025, but the firm is investing: Milan office (April 2026), planned acquisitions and sector expansion into industry, defence/aerospace, energy and financial services. Partnership rose from 14 to 17 in September 2026 and it claims market-share gains.",
+  "news": [
+   {
+    "date": "2026-09-09",
+    "title": "Partnership grows from 14 to 17 with a hire from Indefi and two promotions",
+    "url": "https://www.consultor.fr/articles/un-recrutement-et-deux-promotions-internes-le-partnership-de-cmi-passe-de-14-a-17-associes"
+   },
+   {
+    "date": "2026-03-24",
+    "title": "CMI turns 40: Milan office, acquisition plans and new sectors",
+    "url": "https://www.consultor.fr/articles/cmi-1986-2026-un-anniversaire-et-des-ambitions"
+   },
+   {
+    "date": "2025-04-29",
+    "title": "European alliance with Codex and Fairgrove to win cross-border PE deals",
+    "url": "https://www.consultor.fr/articles/une-nouvelle-alliance-entre-cmi-un-britannique-et-un-allemand-pour-gagner-des-deals-europeens"
+   }
+  ],
+  "recruiting": "Hires about 10–20 people a year (internships and permanent), mostly juniors from business, engineering schools and Sciences Po. Round 1: motivation interview, market sizing and a synthesis exercise; round 2: business case plus discussion with a director or partner. Strategy consultant internships in Paris are posted regularly (e.g. February 2026).",
+  "tinoAngle": "CMI's push into energy & infrastructure and industry, plus its Cepheïd ESG/StratOps offer, fits Tino's industrial CSR project. Its Madrid office (PE due diligence) is a natural use of his Madrid internship and Spanish.",
+  "careersUrl": "https://cmi-strategies.com/votre-parcours-chez-cmi/",
+  "website": "https://cmi-strategies.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-cmi",
+   "https://www.consultor.fr/articles/cmi-1986-2026-un-anniversaire-et-des-ambitions",
+   "https://www.consultor.fr/articles/un-recrutement-et-deux-promotions-internes-le-partnership-de-cmi-passe-de-14-a-17-associes",
+   "https://www.consultancy.uk/news/40181/fairgrove-cmi-and-codex-launch-multi-disciplinary-consulting-for-capital-offering",
+   "https://www.jobteaser.com/en/companies/cmi-strategies"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "ares-co",
+  "name": "Ares & Co",
+  "aliases": [
+   "Ares and Co",
+   "Ares&Co",
+   "Ares & Co Consulting"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Single office in Paris (avenue de la Grande Armée, 16th) with about 30 staff and 5 partners in 2026, all focused on financial services.",
+  "founded": "2009",
+  "employees": "About 30 staff (Consultor, May 2026)",
+  "revenue": "Not disclosed",
+  "ownership": "Independent, partner-owned",
+  "description": "Small strategy and management consulting boutique specialised exclusively in financial services, founded by Olivier Dupin (ex-Mars & Co, Roland Berger). It serves commercial, development and central banks, insurers, mutuals, investment funds and fintechs on strategy, regulation, operating models, due diligence, analytics and sustainable finance. Nearly 400 missions to date.",
+  "sectors": "Banking, insurance & mutuals, private banking/wealth, investment funds, fintech; practices in strategy, advanced analytics, finance & risk, digital, M&A/due diligence",
+  "health": "In a growth phase despite a tougher 2026 market: hired an insurance partner from TNP (May 2026) and a banking partner ex-CVA/Kearney (September 2026), reaching 5 partners. Targets about 70 consultants in the medium term.",
+  "news": [
+   {
+    "date": "2026-09-11",
+    "title": "Ares & Co hires ex-CVA/Kearney partner to strengthen banking practice",
+    "url": "https://www.consultor.fr/articles/ares-co-muscle-sa-practice-banque-avec-un-ancien-de-cva-et-kearney"
+   },
+   {
+    "date": "2026-05-07",
+    "title": "New insurance partner joins from TNP; target of ~70 consultants",
+    "url": "https://www.consultor.fr/articles/ares-co-se-dote-dun-nouvel-associe-assurance"
+   }
+  ],
+  "recruiting": "Recruits interns and business analysts/consultants from grandes écoles (business, engineering) or top universities, ideally with a prior internship in consulting, bank audit or financial services. Interns go through an HR call then three interview rounds each with a case study; consultants face four rounds. Fluent English required; 'perform or out' rather than fixed time-in-grade.",
+  "tinoAngle": "A weaker sector match (financial services only, none of energy/automotive/luxury), but the small size means fast responsibility and partner exposure. His Madrid sales internship is relevant to its distribution and growth work for banks and insurers.",
+  "careersUrl": "https://www.aresandco.com/fr/p/19/carrieres",
+  "website": "https://www.aresandco.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/aresaco",
+   "https://www.consultor.fr/articles/ares-co-se-dote-dun-nouvel-associe-assurance",
+   "https://www.consultor.fr/articles/ares-co-muscle-sa-practice-banque-avec-un-ancien-de-cva-et-kearney",
+   "https://www.consultor.fr/carrieres/offre-d-emploi/business-analyst",
+   "https://www.aresandco.com"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "bartle-strategy-innovation",
+  "name": "Bartle - Strategy & Innovation",
+  "aliases": [
+   "Bartle",
+   "Bartle Business Consulting",
+   "Bartle Strategy & Innovation"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France",
+  "paris": "Paris (rue Legendre, 17th) is the head office; about 50 consultants work on strategy topics (Consultor, 2026) within a 300+ consultant firm that also has Lille, Montpellier, Rennes, Brussels and Geneva offices.",
+  "founded": "2005",
+  "employees": "300+ consultants, of which ~50 on strategy (bartle.fr / Consultor, 2026)",
+  "revenue": "Not disclosed",
+  "ownership": "Independent, founder/partner-owned",
+  "description": "Independent multi-disciplinary management consultancy founded by two ex-KPMG Consulting partners, covering strategy, transformation, customer experience, operations, data/AI and sustainability. Strategy work is spread across sector communities rather than a standalone practice. B Corp certified since 2019.",
+  "sectors": "Financial services & insurance, energy & utilities, retail/FMCG/luxury, industry & agri-food, transport & mobility, public sector",
+  "health": "Reports 30–40% organic growth per year in recent years (company website, undated); strategy work is growing in financial services and energy while retail/luxury is recovering after a sharp drop (Consultor, 2026). Recruits end-of-studies interns with a view to hiring them.",
+  "news": [
+   {
+    "date": "2026-08-27",
+    "title": "Bartle and Cog'X publish research on team cooperation (1,300 people, 180 teams)",
+    "url": "https://bartle.fr"
+   },
+   {
+    "date": "2026-07-09",
+    "title": "Bartle opinion piece: should France invest in data centres?",
+    "url": "https://bartle.fr"
+   }
+  ],
+  "recruiting": "Posts 6-month end-of-studies 'Analyste' internships (Paris) aimed at final-year business/engineering students, often leading to a job offer. Internship process has three interviews: HR, a skills interview with case studies and an English test (C1 ideal), then a motivation/potential interview; full-time roles add a final interview with a founding partner.",
+  "tinoAngle": "Bartle's B Corp positioning and Impact & Sustainability practice suit Tino's CSR ash-recovery project, and its energy/utilities and retail/luxury strategy work hits two of his target sectors. The end-of-studies internship explicitly feeds permanent hiring.",
+  "careersUrl": "https://bartle.fr/recrutement/parcours/",
+  "website": "https://bartle.fr",
+  "sources": [
+   "https://www.consultor.fr/cabinets/bartle",
+   "https://bartle.fr",
+   "https://www.carenews.com/annuaire/bartle",
+   "https://www.consultor.fr/carrieres/offre-d-emploi/analyste-h-f-offre-de-stage"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "bnp-paribas-cib-consulting-transformation",
+  "name": "BNP Paribas – CIB Consulting & Transformation",
+  "aliases": [
+   "BNP Paribas CIB Consulting",
+   "CIB Consulting & Transformation",
+   "BNP Paribas Corporate & Institutional Banking",
+   "BNP Paribas CIB"
+  ],
+  "type": "Internal consulting",
+  "hq": "Paris, France",
+  "paris": "Paris is the main hub of the in-house team, alongside London and Lisbon in EMEA plus teams in the Americas and APAC; team headcount is not published.",
+  "founded": "2009 (CIB Consulting; CIB Transformation added 2015); BNP Paribas group formed in 2000",
+  "employees": "Group: nearly 178,000 (BNP Paribas, end-2024, reported Feb 2026); team size not disclosed",
+  "revenue": "Group: €51.2bn revenue and ~€12.2bn net income (2025)",
+  "ownership": "Listed (Euronext Paris: BNP)",
+  "description": "BNP Paribas CIB's in-house strategy and management consulting team, positioned as an alternative to external firms for the bank's corporate & institutional banking businesses. It covers strategy framing, diagnostics, target operating models and implementation roadmaps, with specialist streams in Smartsourcing (near/offshoring) and RegTech.",
+  "sectors": "Corporate banking, global markets, securities services, and CIB functions (IT, operations, HR, regulation)",
+  "health": "Group is strong: 2025 revenue up 4.9% to €51.2bn with 2028 targets raised (Feb 2026), and Q2 2026 net income up 33% with CIB revenue up 12.7% (July 2026). No public data on the team's own growth.",
+  "news": [
+   {
+    "date": "2026-07-23",
+    "title": "BNP Paribas Q2 2026 net income up 33%; CIB revenue up 12.7%",
+    "url": "https://www.teleborsa.it/AMP/News/2026/07/23/bnp-paribas-utile-netto-balza-a-4-35-miliardi-33-4percent-in-crescita-i-ricavi-di-tutte-le-divisioni-33.html"
+   },
+   {
+    "date": "2026-02-05",
+    "title": "FY2025 revenue of €51.2bn; BNP Paribas raises 2028 targets",
+    "url": "https://www.nasdaq.com/articles/bnp-paribas-q4-net-income-rises-increases-2028-objectives"
+   }
+  ],
+  "recruiting": "Internships are open year-round via schools' JobTeaser; titles run Consultant, Senior Consultant, Principal, Associate Partner (Smartsourcing: Transformation Associate to Transformation Leader). Process: ~40-minute online logic test, 20-minute discovery call, then two rounds of two one-hour interviews (case study, motivation), and a final group HR interview. Targets top business/engineering schools; English is essential in an international CIB setting.",
+  "tinoAngle": "A steady, structured entry into consulting with year-round internship intakes; his Singapore experience is a plus given the team's APAC presence and global client base. Less aligned with his energy/automotive/luxury interests, but CIB covers those sectors as banking clients.",
+  "careersUrl": "https://careers.cib.bnpparibas/cib-consulting-transformation/",
+  "website": "https://group.bnpparibas",
+  "sources": [
+   "https://careers.cib.bnpparibas/cib-consulting-transformation/",
+   "https://choosemycompany.com/en/certified-reviews/164636.bnp-paribas-cib-consulting/infos",
+   "https://www.nasdaq.com/articles/bnp-paribas-q4-net-income-rises-increases-2028-objectives",
+   "https://group.bnpparibas/en/press-release/bnp-paribas-group-results-as-of-31-december-2025",
+   "https://www.teleborsa.it/AMP/News/2026/07/23/bnp-paribas-utile-netto-balza-a-4-35-miliardi-33-4percent-in-crescita-i-ricavi-di-tutte-le-divisioni-33.html"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "totalenergies",
+  "name": "TotalEnergies",
+  "aliases": [
+   "Saft (TotalEnergies)",
+   "Saft",
+   "TotalEnergies SE",
+   "Total"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Courbevoie (Paris La Défense), France",
+  "paris": "Group HQ and corporate functions (strategy, M&A, branch strategy teams such as Marketing & Services' Strategy, Growth and New Business department) sit in the La Défense towers; Saft is also headquartered in the Paris region.",
+  "founded": "1924",
+  "employees": "101,513 (end-2025)",
+  "revenue": "$201.2bn revenue / $182.3bn sales (2025)",
+  "ownership": "Listed (Euronext Paris & NYSE: TTE), CAC 40",
+  "description": "Integrated energy major spanning oil & gas, LNG, refining & chemicals, marketing and a fast-growing Integrated Power (renewables, gas power, storage) segment. Operates in 100+ countries and posted adjusted net income of $15.6bn in 2025. Saft, its battery subsidiary, makes batteries for industry, transport, defence and energy storage.",
+  "sectors": "Oil & gas upstream, Integrated LNG, Integrated Power (renewables, storage, Saft batteries), Refining & Chemicals, Marketing & Services",
+  "health": "2025 net income fell 17% to $13.1bn on lower oil prices, but ROACE of 12.6% stayed best among majors and 2025 buybacks reached $7.5bn. H1 2026 rebounded sharply (net income $11.2bn, +72%) on Middle East-driven high prices, despite conflict-related production losses; board backs CEO Pouyanné's renewal to 2033.",
+  "news": [
+   {
+    "date": "2026-10-12",
+    "title": "Adds 700 MW US solar portfolio (~$1.2bn) to its renewables JV with KKR",
+    "url": "https://finviz.com/news/401078/united-states-totalenergies-expands-its-joint-venture-with-kkr-with-the-addition-of-a-700-mw-renewables-portfolio"
+   },
+   {
+    "date": "2026-09-25",
+    "title": "Board unanimously backs renewal of CEO Patrick Pouyanné's mandate (vote at May 2027 AGM)",
+    "url": "https://brazilenergyinsight.com/2026/09/25/totalenergies-board-backs-ceo-pouyannes-mandate-renewal/"
+   },
+   {
+    "date": "2026-09",
+    "title": "Signs $1.8bn partnership with BlackRock's GIP on African midstream infrastructure",
+    "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-signs-an-agreement-with-gip-on-/9779320"
+   },
+   {
+    "date": "2026-07-24",
+    "title": "Q2 2026 net income doubles to $5.4bn on Middle East price spike",
+    "url": "https://www.offshore-technology.com/news/totalenergies-5-4bn-net-income-q2-2026/"
+   }
+  ],
+  "recruiting": "Offers internships (6-month 'stage conventionné' with a convention required, typically end-of-studies, e.g. M&A or strategic-studies internships at La Défense), work-study contracts, VIE and graduate programmes, all via careers.totalenergies.com. Applications are by CV + cover letter stating internship dates; alternance is not accepted on full-time internship offers.",
+  "tinoAngle": "His CSR ash-recovery project maps directly onto TotalEnergies' decarbonisation and Integrated Power push, and Saft offers a bridge to automotive/storage strategy. Spanish is useful given heavy Latin American activity (e.g. Argentina, Brazil), and his Singapore stint fits the group's Asian trading/marketing footprint.",
+  "careersUrl": "https://careers.totalenergies.com/fr",
+  "website": "https://totalenergies.com",
+  "sources": [
+   "https://www.hellenicshippingnews.com/total-energies-fourth-quarter-and-full-year-2025-results/",
+   "https://totalenergies.com/system/files/documents/totalenergies_etats-financiers-t4-2025_2026_fr.pdf",
+   "https://www.sec.gov/Archives/edgar/data/879764/000110465926035876/tot-20251231xex15d1.htm",
+   "https://www.offshore-technology.com/news/totalenergies-5-4bn-net-income-q2-2026/",
+   "https://totalenergies.com/fr/node/20591",
+   "https://jobs.totalenergies.com/en_US/careers/JobDetail/Stage-Analyste-M-A-H-F/82259"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "danone",
+  "name": "Danone",
+  "aliases": [
+   "Danone SA",
+   "Groupe Danone",
+   "Danone France",
+   "Nutricia",
+   "Evian (Danone)"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Global HQ in Paris (new headquarters announced in Sept 2025 at rue La Fayette, Paris 9e), where global strategy, category and insights teams are based.",
+  "founded": "1919",
+  "employees": "88,670 (2025)",
+  "revenue": "€27.3bn (2025)",
+  "ownership": "Listed (Euronext Paris: BN), CAC 40",
+  "description": "Global food & beverage group focused on health: Essential Dairy & Plant-Based (Activia, Alpro), Specialized Nutrition (Aptamil, Nutricia medical nutrition) and Waters (Evian, Volvic). Sells in 120+ countries and is B Corp certified.",
+  "sectors": "Essential Dairy & Plant-Based, Specialized (infant & medical) Nutrition, Waters",
+  "health": "2025 like-for-like sales grew 4.5% with recurring operating margin up 44bp to 13.4%, though reported sales were flat (-0.3%) on FX. Under 'Renew Danone – Chapter 2', H1 2026 margin reached 13.3% and 2026 guidance (+3–5% LFL) was confirmed, while the group steps up bolt-on M&A.",
+  "news": [
+   {
+    "date": "2026-07-29",
+    "title": "H1 2026: net income +13% to €1.18bn, 2026 guidance reaffirmed",
+    "url": "https://longbridge.com/news/294156867"
+   },
+   {
+    "date": "2026-06-22",
+    "title": "Agrees to buy Australia's Made Group and remaining 49% of Saputo dairy JV",
+    "url": "https://www.foodnavigator.com/Article/2026/06/22/danone-to-acquire-made-group/"
+   },
+   {
+    "date": "2026-03-23",
+    "title": "Agrees to acquire meal-replacement brand Huel",
+    "url": "https://www.hl.co.uk/shares/stock-market-news/company--news/danone-to-buy-huel-for-undisclosed-sum"
+   },
+   {
+    "date": "2026-02-20",
+    "title": "FY2025: +4.5% LFL sales, margin up to 13.4%",
+    "url": "https://www.nasdaq.com/press-release/danone-2025-another-year-strong-delivery-2026-02-20"
+   }
+  ],
+  "recruiting": "Internships are posted on careers.danone.com and JobTeaser, typically 6 months with January, March or July starts (e.g. a 'Stage Global Strategy' for Jan/Mar 2027 at Paris HQ), paid ~€1,300–1,500 gross/month and requiring a convention de stage. Danone is 'Happy Trainees' certified and also runs graduate/VIE roles internationally.",
+  "tinoAngle": "Danone was founded in Barcelona, so his Spanish and Madrid sales experience resonate; its 2026 Asia-Pacific push (Made Group, Australian dairy JV) links to his Singapore and Australia years. Its B Corp/sustainability agenda fits his circular-economy project.",
+  "careersUrl": "https://careers.danone.com/fr/fr",
+  "website": "https://www.danone.com",
+  "sources": [
+   "https://www.nasdaq.com/press-release/danone-2025-another-year-strong-delivery-2026-02-20",
+   "https://longbridge.com/news/294156867",
+   "https://www.foodnavigator.com/Article/2026/06/22/danone-to-acquire-made-group/",
+   "https://www.sustainabilityreports.com/danone/2025/universal-registration-document",
+   "https://www.danone.com/fr/newsroom/communiques-de-presse/new-headquarters-la-fayette.html",
+   "https://www.jobteaser.com/fr/job-offers/f822d849-482e-47ec-b4b5-2c8662008ae4-danone-internship-strategic-insights-analytics-global-dairy-team-july-2026-m-w"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "renault-group",
+  "name": "Renault Group",
+  "aliases": [
+   "Renault",
+   "Groupe Renault",
+   "Renault SA",
+   "Dacia",
+   "Alpine",
+   "Ampere"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Boulogne-Billancourt, France",
+  "paris": "HQ in Boulogne-Billancourt (west Paris) hosts corporate strategy, partnerships and finance; the Technocentre in Guyancourt (Yvelines) hosts engineering.",
+  "founded": "1899",
+  "employees": "100,541 (end-2025)",
+  "revenue": "€57.9bn (2025)",
+  "ownership": "Listed (Euronext Paris: RNO), CAC 40; French State ~15% shareholder",
+  "description": "French carmaker with three brands (Renault, Dacia, Alpine) plus Mobilize mobility/financial services. Sold ~2.34m vehicles in 2025 and is accelerating in EVs and outside Europe.",
+  "sectors": "Passenger & light commercial vehicles (Renault, Dacia, Alpine), EVs/software, mobility & financial services (Mobilize)",
+  "health": "2025 revenue rose 3% to €57.9bn but the group booked a €10.9bn net loss due to a €9.3bn Nissan accounting charge, and margin fell to 6.3%. New CEO François Provost launched the 'futuREady' plan (Mar 2026: 36 launches by 2030, 2m vehicles/yr half outside Europe); H1 2026 revenue +9.5% with 5.2% margin and ~5.5% FY2026 guidance confirmed.",
+  "news": [
+   {
+    "date": "2026-10-05",
+    "title": "Appoints Michelin's Carine Damois as CFO, succeeding Duncan Minto in November",
+    "url": "https://en.paperjam.lu/article/renault-group-appoints-carine-damois-as-chief-financial-officer"
+   },
+   {
+    "date": "2026-07-29",
+    "title": "H1 2026: revenue +9.5% to €30.3bn, 2026 guidance confirmed",
+    "url": "https://mfn.se/all/a/renault/renault-group-delivers-robust-performance-confirms-its-2026-fy-guidance-and-rapidly-implements-futuready-be6781a8"
+   },
+   {
+    "date": "2026-03-10",
+    "title": "Unveils 'futuREady' strategic plan: 36 new models and 16 EVs for Europe by 2030",
+    "url": "https://www.electrive.com/2026/03/10/strategy-plan-futuready-renault-plans-16-new-electric-vehicles-by-2030/"
+   },
+   {
+    "date": "2026-02-19",
+    "title": "FY2025: €10.9bn net loss on Nissan charge, record automotive net cash",
+    "url": "https://en.ilsole24ore.com/art/renault-group-closes-2025-revenue-growth-579-billion-AIqbZUVB"
+   }
+  ],
+  "recruiting": "Internships (often coded e.g. 'CS27 – Stage Bac+5') and VIE are posted on the Renault Group careers portal; end-of-studies internships are typically 6 months with a convention. Graduate programmes in France (2–5 years, 3 rotations, September start) include a 'Strategy, Internal Consulting & Partnerships' track; process = online application, 5–10 min video, then a Recruitment Day.",
+  "tinoAngle": "Direct fit with his automotive interest, and the internal-consulting graduate track mirrors his strategy-consulting Master. Spanish is valuable given Renault's major Spanish plants, and futuREady's international expansion (half of sales outside Europe) suits his Singapore/Madrid exposure; circular-economy activities (e.g. Flins Refactory) echo his waste-valorisation project.",
+  "careersUrl": "https://www.renaultgroup.com/en/careers/",
+  "website": "https://www.renaultgroup.com",
+  "sources": [
+   "https://en.ilsole24ore.com/art/renault-group-closes-2025-revenue-growth-579-billion-AIqbZUVB",
+   "https://mfn.se/all/a/renault/renault-group-delivers-robust-performance-confirms-its-2026-fy-guidance-and-rapidly-implements-futuready-be6781a8",
+   "https://www.electrive.com/2026/03/10/strategy-plan-futuready-renault-plans-16-new-electric-vehicles-by-2030/",
+   "https://www.renaultgroup.com/en/magazine/our-group-news/futuready-turning-renault-groups-success-story-into-a-success-system/",
+   "https://www.sustainabilityreports.com/renault/2025/universal-registration-document",
+   "https://www.renaultgroup.com/en/careers/graduate-programs/"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "euronext",
+  "name": "Euronext",
+  "aliases": [
+   "Euronext – Nord Pool",
+   "Nord Pool",
+   "Euronext Paris",
+   "Euronext N.V.",
+   "Euronext Securities",
+   "Euronext Athens"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Amsterdam, Netherlands (main operational centre in Paris)",
+  "paris": "Paris (La Défense) is the group's largest site, home to CEO Stéphane Boujnah's office and most group functions including strategy and corporate development.",
+  "founded": "2000",
+  "employees": "3,105 (end-2025)",
+  "revenue": "€1.82bn (2025)",
+  "ownership": "Listed (Euronext Paris: ENX), CAC 40 since Sept 2025",
+  "description": "Pan-European market infrastructure operating regulated exchanges in Paris, Amsterdam, Brussels, Dublin, Lisbon, Milan, Oslo and Athens, plus clearing, CSDs, data and the Nord Pool power exchange. Hosts ~1,800 issuers worth ~€7tn market cap and handles ~29% of European lit equity trading.",
+  "sectors": "Cash & derivatives trading, clearing, custody & settlement (Euronext Securities), market data & indices, energy/power markets (Nord Pool), corporate services",
+  "health": "Record 2025: revenue +11.8% to €1.82bn, adjusted EBITDA margin 62.7%, net income +9.8% under the 'Innovate for Growth 2027' plan. 2026 keeps double-digit growth (Q2 underlying revenue +16.9%, EBITDA margin 66.1%), helped by Athex and Admincontrol acquisitions.",
+  "news": [
+   {
+    "date": "2026-07-30",
+    "title": "Q2 2026: ninth straight quarter of double-digit growth, Nord Pool power futures boost commodities",
+    "url": "https://www.euronext.com/en/investor-relations/financial-information/news/euronext-publishes-q2-2026-results"
+   },
+   {
+    "date": "2026-05-19",
+    "title": "Q1 2026 revenue +15.3%; Nord Pool power futures launched; Athex rebranded Euronext Athens",
+    "url": "https://www.euronext.com/en/investor-relations/financial-information/news/euronext-publishes-q1-2026-results"
+   },
+   {
+    "date": "2026-03-06",
+    "title": "Confirms 21 Sept 2026 go-live of new European CSD settlement model",
+    "url": "https://posttrade360.com/news/infrastructure/euronext-sets-21-september-2026-go-live-for-alternative-csd-framework/"
+   },
+   {
+    "date": "2026-02-18",
+    "title": "FY2025 results: record revenue of €1.82bn",
+    "url": "https://www.euronext.com/en/about/media/euronext-press-releases/euronext-publishes-q4-and-full-year-2025-results"
+   }
+  ],
+  "recruiting": "Recruits early-career profiles all year via its careers page: full-time internships of at least 6 months in France, Italy, Portugal and the UK (apprenticeships in France only), with mentoring. An International Graduate Programme offers ~50 positions a year across Europe and the US with possible country rotations.",
+  "tinoAngle": "Nord Pool and the new power futures give an energy-markets angle that fits his energy interest, and the active M&A agenda (Athex, Admincontrol) makes the Paris strategy/corporate development team relevant. Euronext's multi-country footprint (incl. Lisbon, Milan) values his international and Spanish-speaking profile.",
+  "careersUrl": "https://www.euronext.com/careers/vacancies-internships",
+  "website": "https://www.euronext.com",
+  "sources": [
+   "https://www.euronext.com/en/about/media/euronext-press-releases/euronext-publishes-q4-and-full-year-2025-results",
+   "https://www.euronext.com/en/investor-relations/financial-information/news/euronext-publishes-q2-2026-results",
+   "https://www.euronext.com/en/investor-relations/financial-information/news/euronext-publishes-q1-2026-results",
+   "https://www.sustainabilityreports.com/euronext/2025/universal-registration-document",
+   "https://www.euronext.com/en/investor-relations/financial-information/news/euronext-join-cac-40r-index",
+   "https://euronext.com/it/node/2478523"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "richemont",
+  "name": "Richemont",
+  "aliases": [
+   "Compagnie Financière Richemont",
+   "Cartier",
+   "Van Cleef & Arpels",
+   "Richemont France"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Geneva (Bellevue), Switzerland",
+  "paris": "Cartier and Van Cleef & Arpels, its two largest Maisons, are headquartered in Paris, where Maison-level strategy, finance and business development teams sit; group strategy is run from Geneva.",
+  "founded": "1988",
+  "employees": "40,465 (FY ended Mar 2026)",
+  "revenue": "€22.4bn (FY ended Mar 2026)",
+  "ownership": "Listed (SIX Swiss Exchange: CFR; secondary JSE); Rupert family controls voting rights",
+  "description": "Swiss luxury group owning jewellery Maisons (Cartier, Van Cleef & Arpels, Buccellati, Vhernier), specialist watchmakers (Vacheron Constantin, Jaeger-LeCoultre, IWC, A. Lange & Söhne…) and fashion/accessories (Chloé, Montblanc…). Jewellery is ~75% of sales with ~30% margins.",
+  "sectors": "Jewellery Maisons, Specialist Watchmakers, Fashion & Accessories",
+  "health": "FY2026 (to Mar 2026) sales +11% at constant FX to €22.4bn with operating profit €4.5bn (20.0% margin), driven by jewellery; watches remain weak. Portfolio refocus continues (YNAP sold Apr 2025, Baume & Mercier sold Jul 2026), and Q1 FY27 sales jumped ~20% at constant FX.",
+  "news": [
+   {
+    "date": "2026-07-15",
+    "title": "Q1 FY27 sales up ~20% at constant FX, jewellery +24%",
+    "url": "https://www.journalduluxe.fr/fr/montres-joaillerie/richemont-debut-exercice-2026-en-forte-croissance"
+   },
+   {
+    "date": "2026-07-09",
+    "title": "Completes sale of Baume & Mercier to Italy's Damiani Group",
+    "url": "https://nationaljeweler.com/articles/15116-damiani-group-finalizes-acquisition-of-baume-mercier"
+   },
+   {
+    "date": "2026-05",
+    "title": "FY2026 results: €22.4bn sales, special dividend proposed",
+    "url": "https://www.richemont.com/news-media/press-releases-news/richemont-delivers-strong-sales-growth-and-solid-results-for-the-year-ended-31-march-2026/"
+   }
+  ],
+  "recruiting": "Jobs and internships are posted per Maison on careers.richemont.com (Paris roles at Cartier, Van Cleef & Arpels, Chloé etc.), usually 6-month internships with a convention. Structured early-career schemes are regional (e.g. 'Craft Your Journey' retail/corporate rotation programme, Middle East trainee programme, Americas summer internships).",
+  "tinoAngle": "Core luxury target: Asia-Pacific is Richemont's largest region, so his Singapore experience is a concrete asset for Maison strategy roles, and his Madrid sales and hospitality background suit client-centric luxury retail. Paris-based Cartier/VCA strategy and business development teams are the natural entry point.",
+  "careersUrl": "https://careers.richemont.com/en/jobs/",
+  "website": "https://www.richemont.com",
+  "sources": [
+   "https://www.richemont.com/news-media/press-releases-news/richemont-delivers-strong-sales-growth-and-solid-results-for-the-year-ended-31-march-2026/",
+   "https://www.journalduluxe.fr/fr/montres-joaillerie/richemont-debut-exercice-2026-en-forte-croissance",
+   "https://nationaljeweler.com/articles/15116-damiani-group-finalizes-acquisition-of-baume-mercier",
+   "https://tracenable.com/company/compagnie-financiere-richemont/employee-count",
+   "https://www.richemont.com/talent/students-graduates/early-career-programmes"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "pernod-ricard",
+  "name": "Pernod Ricard",
+  "aliases": [
+   "Pernod Ricard France",
+   "Martell Mumm Perrier-Jouët",
+   "Pernod Ricard Global Travel Retail"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Global HQ at 5 cours Paul Ricard (Paris 8e) houses group strategy, M&A and finance; Pernod Ricard France and other affiliates are also in Île-de-France.",
+  "founded": "1975",
+  "employees": "18,224 (FY2024-25)",
+  "revenue": "€9.4bn (FY ended June 2026)",
+  "ownership": "Listed (Euronext Paris: RI), CAC 40; Ricard family is a reference shareholder",
+  "description": "World No. 2 wines & spirits group with premium brands such as Absolut, Jameson, Chivas Regal, Martell, Ballantine's, Malibu and Perrier-Jouët/Mumm champagnes. Strong positions in India, China, the US, Europe and travel retail.",
+  "sectors": "Spirits (whisky, cognac, vodka, gin, rum), champagne, ready-to-drink",
+  "health": "FY26 (to June 2026) net sales fell 3.9% organically (-14.2% reported) to €9.4bn and recurring operating profit fell 5.2% organically, hit by the US and China; net debt/EBITDA rose to 3.7x. A €1bn efficiency programme ('Fit for Future') and brand disposals are under way; Q1 FY27 sales were nearly stable (-0.9% organic) with flat organic sales guided for FY27.",
+  "news": [
+   {
+    "date": "2026-10-15",
+    "title": "Q1 FY27 sales down 0.9% organically; US and China still weak, India +19%",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/pernod-ricard-sales-down-0-9-in-first-quarter-weighed-down-by-united-states-and-china/27170.html"
+   },
+   {
+    "date": "2026-08-27",
+    "title": "FY26 profit slides on US and China weakness; €1bn efficiency plan accelerated",
+    "url": "https://www.hl.co.uk/shares/stock-market-news/company--news/pernod-ricard-fy26-profits-slide-on-us-and-china-weakness"
+   },
+   {
+    "date": "2025-12-01",
+    "title": "Completes sale of Indian whisky brand Imperial Blue to Tilaknagar Industries",
+    "url": "https://www.theweek.in/wire-updates/business/2025/12/01/dcm88-biz-tilaknagar-imperial-blue.html"
+   }
+  ],
+  "recruiting": "Runs internship campaigns for January or March starts (6 months) in Paris, Marseille, Reims, Cognac and production sites, posted on its Workday careers site and JobTeaser; convention de stage required. Also offers apprenticeships (September starts) and VIE positions abroad.",
+  "tinoAngle": "Premium spirits and champagne sit next to luxury, and the group's growth now hinges on Asia (India, travel retail) where his Singapore experience helps. His Madrid sales internship and Spanish suit Iberian/Latin American affiliates, and import/export logistics experience is relevant to a tariff-exposed export business.",
+  "careersUrl": "https://www.pernod-ricard.com/careers",
+  "website": "https://www.pernod-ricard.com",
+  "sources": [
+   "https://www.hl.co.uk/shares/stock-market-news/company--news/pernod-ricard-fy26-profits-slide-on-us-and-china-weakness",
+   "https://www.ideal-investisseur.fr/en/stock-news/pernod-ricard-sales-down-0-9-in-first-quarter-weighed-down-by-united-states-and-china/27170.html",
+   "https://www.fccsingapore.com/news/n/news/pernod-ricard-reports-fy26-results-amid-a-challenging-market-environment.html",
+   "https://www.sustainabilityreports.com/pernod-ricard/2025/universal-registration-document",
+   "https://www.jobteaser.com/fr/companies/pernodricard/newsfeed/d48a8d47-2ebf-4a99-8e78-b55572b76106-rejoignez-pernod-ricard-en-stage-en-janvier-ou-mars-2026"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "dassault-syst-mes",
+  "name": "Dassault Systèmes",
+  "aliases": [
+   "Dassault Systemes",
+   "3DS",
+   "3DEXPERIENCE",
+   "Medidata",
+   "SOLIDWORKS",
+   "Dassault Systèmes SE"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Vélizy-Villacoublay, France",
+  "paris": "Global HQ campus in Vélizy-Villacoublay (Yvelines, south-west of Paris), where corporate strategy, business development and most European functions are located.",
+  "founded": "1981",
+  "employees": "c. 23,800 (2026, company careers site)",
+  "revenue": "€6.24bn (2025)",
+  "ownership": "Listed (Euronext Paris: DSY), CAC 40; Groupe Industriel Marcel Dassault is controlling shareholder",
+  "description": "European leader in industrial software (CAD/PLM, simulation, virtual twins) through its 3DEXPERIENCE platform and brands like CATIA, SOLIDWORKS and Medidata. Serves 350,000+ customers in 150+ countries across transport & mobility, aerospace, industrial equipment and life sciences.",
+  "sectors": "Industrial Innovation (CATIA, ENOVIA, SIMULIA), Mainstream Innovation (SOLIDWORKS), Life Sciences & Healthcare (Medidata)",
+  "health": "2025 revenue grew 4% at constant FX to €6.24bn with a 32.0% non-IFRS margin, but weak 2026 guidance (+3–5%) and AI-disruption fears sent the share down ~20% in Feb 2026. CEO Pascal Daloz is repositioning toward AI-powered virtual twins; H1 2026 confirmed guidance and the group is buying ArisGlobal (~$1.8bn) to shore up life sciences.",
+  "news": [
+   {
+    "date": "2026-07-24",
+    "title": "Q2 2026 revenue +4% at constant FX; FY2026 targets confirmed",
+    "url": "https://www.computer-automation.de/industrial-software/q2-2026-financial-results--dassault-syst-mes-confirms-annual-targets.htm?thema=plc"
+   },
+   {
+    "date": "2026-07-23",
+    "title": "Agrees to acquire drug-safety software firm ArisGlobal for ~$1.8bn",
+    "url": "https://brandsit.pl/?p=1997329"
+   },
+   {
+    "date": "2026-02-11",
+    "title": "Shares plunge ~20% after weak 2026 guidance and Q4 miss",
+    "url": "https://www.itiger.com/news/1109787600"
+   },
+   {
+    "date": "2026-02-11",
+    "title": "FY2025 results: €6.24bn revenue, 2026 growth guided at 3–5%",
+    "url": "https://www.3ds.com/newsroom/press-releases/dassault-systemes-q4-revenue-growth-1-solid-operating-margin-and-eps-expansion-initiating-2026-revenue-guidance-3-5-growth"
+   }
+  ],
+  "recruiting": "Internships ('STAGE – …', mostly at Vélizy) are posted on 3ds.com/careers for Bac+4/5 business and engineering students, usually 6 months with a convention; examples include a commercial strategy & business development analyst internship. Graduate hiring is mostly direct CDI entry into consulting, sales and business roles.",
+  "tinoAngle": "Virtual twins serve automotive and energy clients, two of his target sectors; a current Vélizy strategy/business development internship explicitly values Spanish for the Iberia/Africa/Middle East zone. His consulting training fits strategy roles as the group pivots to AI and makes acquisitions.",
+  "careersUrl": "https://www.3ds.com/careers",
+  "website": "https://www.3ds.com",
+  "sources": [
+   "https://www.3ds.com/newsroom/press-releases/dassault-systemes-q4-revenue-growth-1-solid-operating-margin-and-eps-expansion-initiating-2026-revenue-guidance-3-5-growth",
+   "https://www.computer-automation.de/industrial-software/q2-2026-financial-results--dassault-syst-mes-confirms-annual-targets.htm?thema=plc",
+   "https://www.itiger.com/news/1109787600",
+   "https://brandsit.pl/?p=1997329",
+   "https://akamai.3ds.com/about/company/facts-and-faqs",
+   "https://www.3ds.com/careers/jobs/stage-analyste-strategie-commerciale-developpement-f-h-549899"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "galeries-lafayette",
+  "name": "Galeries Lafayette",
+  "aliases": [
+   "Groupe Galeries Lafayette",
+   "Galeries Lafayette Haussmann",
+   "La Redoute",
+   "Galeries Lafayette Group"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Head office and flagship store on boulevard Haussmann (Paris 9e), which generates about two-thirds of department-store activity and where group strategy and corporate teams sit.",
+  "founded": "1893",
+  "employees": "Nearly 8,500 (group website, year not stated)",
+  "revenue": "c. €3.1bn department-store sales (2025; consolidated group figure not published)",
+  "ownership": "Private, family-owned (Moulin/Houzé family)",
+  "description": "French family retail group centred on the Galeries Lafayette department stores (Haussmann flagship, regional and affiliated stores, international stores in China, Middle East, India, Indonesia) plus La Redoute e-commerce, Mauboussin and Louis Pion. Haussmann alone did ~€2bn sales in 2025 with 35m visitors.",
+  "sectors": "Department stores, e-commerce (La Redoute), jewellery/watch retail (Mauboussin, Louis Pion), luxury & fashion retail",
+  "health": "2025 department-store sales were flat at ~€3.1bn (Haussmann +4%, above 2019), after store closures and the break with BHV operator SGM. The group is refocusing on Haussmann with a €260m investment plan to 2030 to make it the world's leading department store, while exiting loss-making assets (BHV building sale, Beijing and Macau closures).",
+  "news": [
+   {
+    "date": "2026-05-18",
+    "title": "Closes Beijing flagship as part of a 'strategic step back' in China",
+    "url": "https://bd.fashionnetwork.com/news/Galeries-lafayette-to-close-beijing-flagship-on-may-27,1832805.html"
+   },
+   {
+    "date": "2026-04-08",
+    "title": "Unveils €260m plan to 2030 to make Haussmann the world's top department store",
+    "url": "https://www.radiolac.ch/actualite/economie/les-galeries-lafayette-visent-le-toit-du-monde-en-2030/"
+   },
+   {
+    "date": "2026-01-28",
+    "title": "Puts BHV Marais building (valued ~€300m) up for sale after Shein controversy",
+    "url": "https://www.modaes.com/global/companies/galeries-lafayette-completes-sale-of-bhv-building-after-shein-scandal"
+   },
+   {
+    "date": "2025-11",
+    "title": "Ends affiliation with SGM and pulls its brand from seven regional stores over Shein deal",
+    "url": "https://www.journaldunet.com/business/1545821-partenariat-sgm-shein-sept-galeries-lafayette-vont-changer-d-identite/"
+   }
+  ],
+  "recruiting": "Offers end-of-studies and gap-year internships plus alternance at the Paris head office (strategy, merchandising, marketing, finance), posted on its job site and boards like JobTeaser, Welcome to the Jungle and France Travail; convention required. Process: CV + cover letter screening, phone/video motivation interview, then HR/manager interviews; interns paid ~€1,300–1,500 gross/month (2023 data).",
+  "tinoAngle": "A luxury-retail strategy target in the middle of a transformation plan, where his consulting toolkit is directly useful. Haussmann's heavy international clientele (Chinese ~22% of sales) and Asian stores fit his Singapore experience, and his hospitality/sales background matters for a customer-experience-led strategy; 'Rêvons Demain' responsible-sales targets echo his CSR work.",
+  "careersUrl": "https://groupegalerieslafayette.com/group",
+  "website": "https://www.galerieslafayette.com",
+  "sources": [
+   "https://www.radiolac.ch/actualite/economie/les-galeries-lafayette-visent-le-toit-du-monde-en-2030/",
+   "https://lessentieldeleco.fr/7016-galeries-lafayette-le-grand-defi/",
+   "https://bd.fashionnetwork.com/news/Galeries-lafayette-to-close-beijing-flagship-on-may-27,1832805.html",
+   "https://www.modaes.com/global/companies/galeries-lafayette-completes-sale-of-bhv-building-after-shein-scandal",
+   "https://groupegalerieslafayette.com/group",
+   "https://www.planetegrandesecoles.com/galeries-lafayette-salaires-processus-de-recrutement-carriere"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ },
+ {
+  "id": "eurazeo",
+  "name": "Eurazeo",
+  "aliases": [
+   "Eurazeo SE",
+   "Eurazeo Investment Manager",
+   "Idinvest Partners"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France",
+  "paris": "Head office in Paris houses the investment teams (buyout, growth, private debt, real estate, infrastructure) and corporate strategy/finance functions.",
+  "founded": "2001 (roots in Gaz et Eaux, 1881)",
+  "employees": "602 (end-2025)",
+  "revenue": "€435m management fees (2025); AUM €39bn",
+  "ownership": "Listed (Euronext Paris: RF), SBF 120; anchor family shareholders",
+  "description": "Global investment group and asset manager with €39bn AUM (end-2025) across private equity, private debt, real estate and infrastructure, managing a growing share for third-party clients. Backs ~700 companies from offices in Europe, Asia, the US and now the Middle East.",
+  "sectors": "Private equity (buyout, growth, venture), private debt, real assets (real estate, infrastructure), wealth solutions",
+  "health": "2025 saw record fundraising (€5.5bn, +28%), AUM +8% to €39bn and FRE margin of 35.9%, but a Group net loss of ~€0.4bn on portfolio revaluations. H1 2026 improved (AUM €40bn, net loss narrowed to €6m, NAV €105.4/share) as the strategic plan targets asset rotation and €2.3bn shareholder returns over 2024–2027.",
+  "news": [
+   {
+    "date": "2026-10-06",
+    "title": "To acquire MIYA Water, a water-efficiency solutions specialist",
+    "url": "https://en.newsroom.eurazeo.com/news/eurazeo-to-acquire-miya-water-a-global-specialist-in-efficient-water-management-solutions-ee5cf-52e2c.html"
+   },
+   {
+    "date": "2026-09-30",
+    "title": "Opens an office in Abu Dhabi",
+    "url": "https://en.newsroom.eurazeo.com/news/eurazeo-opens-an-office-in-abu-dhabi-reinforcing-its-commitment-to-the-middle-east-17991-52e2c.html"
+   },
+   {
+    "date": "2026-09-15",
+    "title": "Completes acquisition of Netco Group",
+    "url": "https://en.newsroom.eurazeo.com/news/eurazeo-completes-the-acquisition-of-netco-group-32edf-52e2c.html"
+   },
+   {
+    "date": "2026-07-23",
+    "title": "H1 2026: AUM up 9% to €40bn, net loss narrows sharply",
+    "url": "https://en.newsroom.eurazeo.com/news/eurazeo-confirms-the-excellent-momentum-of-its-asset-management-and-improves-its-portfolio-value-creation-in-h1-2026-6eb1b-52e2c.html"
+   }
+  ],
+  "recruiting": "Recruits analyst interns by team and semester (e.g. 'Internship – Real Estate / Infrastructure / Elevate – Paris – S1 2027'), 4–6 months starting January or July, posted on JobTeaser and its careers page; final-year Bachelor/Master students with strong Excel modelling and fluent English. Selection typically includes fit and technical/case interviews.",
+  "tinoAngle": "An investor-side view of corporate strategy where his consulting skills apply to due diligence and portfolio value creation; S1 2027 internships match his January 2027 window. Its infrastructure/sustainability deals (e.g. MIYA Water) connect to his waste-valorisation project, and offices in Madrid and Asia suit his Spanish and Singapore background.",
+  "careersUrl": "https://www.eurazeo.com/en/talents/challenging-work-and-career",
+  "website": "https://www.eurazeo.com",
+  "sources": [
+   "https://en.newsroom.eurazeo.com/news/eurazeo-delivers-on-its-strategic-plan-with-record-fundraising-and-accelerated-asset-rotation-in-2025-a1e96-52e2c.html",
+   "https://en.newsroom.eurazeo.com/news/eurazeo-confirms-the-excellent-momentum-of-its-asset-management-and-improves-its-portfolio-value-creation-in-h1-2026-6eb1b-52e2c.html",
+   "https://www.eurazeo.com/en/newsroom/la-une",
+   "https://www.sustainabilityreports.com/eurazeo/2025/universal-registration-document",
+   "https://www.jobteaser.com/fr/job-offers/79262d72-3ffe-4f23-b650-39262a17e5ab-eurazeo-stage-real-estate-paris-s1-2027",
+   "https://en.wikipedia.org/wiki/Eurazeo"
+  ],
+  "updatedAt": "2026-10-20T11:11:27+02:00"
+ }
+]
