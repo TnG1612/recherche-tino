@@ -17,7 +17,7 @@
   "ownership": "Private partnership (owned by its partners)",
   "description": "The world's best-known strategy consultancy, advising CEOs, governments and institutions on strategy, operations, organisation, digital/AI and sustainability. Highly generalist with deep industry practices, a large research arm (McKinsey Global Institute) and AI unit QuantumBlack.",
   "sectors": "Generalist: energy & materials, automotive & assembly, consumer & retail (incl. luxury), financial services, healthcare, TMT, public sector; strong sustainability and AI practices",
-  "health": "Revenue has plateaued (~$15-16bn) and headcount fell from ~45,000 (2022) to ~40,000; the French partnership shrank from 71 to 59 partners (2024-25) and further support-function cuts were reported in Dec 2025. The firm is pushing hard into AI (20,000 agents) and will elect a new global managing partner in 2027.",
+  "health": "Revenue has plateaued (~$15-16bn) and headcount fell from ~45,000 (2022) to ~40,000; the French partnership shrank from 71 to 59 partners (2024-25) and further support-function cuts were reported in Dec 2025. The firm is pushing hard into AI (20,000 agents, agentic-AI deals such as KPN), keeps renewing regional leadership (Germany/Austria, Middle East, Francophone Africa in Jul-Sep 2026), and senior partners will meet in Sydney to elect a new global managing partner in 2027.",
   "news": [
    {
     "date": "2026-10-09",
@@ -25,9 +25,9 @@
     "url": "https://www.consultancy.com.au/news/12895/sydney-set-to-host-mckinseys-next-global-leader-elections"
    },
    {
-    "date": "2026-07-22",
-    "title": "KPN partners with McKinsey on agentic-AI customer service",
-    "url": "https://www.consultancy.eu/news/14093/kpn-partners-with-mckinsey-to-reinvent-customer-service-through-agentic-ai"
+    "date": "2026-09-25",
+    "title": "McKinsey appoints Yassir Zouaoui as managing partner for Morocco and Francophone Africa",
+    "url": "https://www.consultancy.africa/news/2306/mckinsey-appoints-yassir-zouaoui-as-managing-partner-for-morocco-and-francophone-africa"
    },
    {
     "date": "2026-01-15",
@@ -49,9 +49,10 @@
    "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-mckinsey",
    "https://www.hrgrapevine.com/us/content/article/2026-01-15-mckinsey-goes-all-in-on-ai-with-interview-testing-workforce-of-20000-agents",
    "https://www.storyboard18.com/how-it-works/mckinsey-plans-fresh-round-of-job-cuts-as-growth-stalls-85995.htm",
-   "https://www.hackingthecaseinterview.com/pages/mckinsey-france-recruiting"
+   "https://www.hackingthecaseinterview.com/pages/mckinsey-france-recruiting",
+   "https://www.consultancy.uk/firms/mckinsey-company/global-news"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  },
  {
   "id": "boston-consulting-group-bcg",
@@ -73,7 +74,7 @@
   "ownership": "Private partnership (owned by its partners)",
   "description": "Global strategy consultancy founded by Bruce Henderson, known for the growth-share matrix and today for large transformations and tech/AI work through BCG X. Over 40% of revenue now comes from AI- and tech-related services.",
   "sectors": "Generalist: energy, automotive & mobility, consumer & luxury, industrial goods, financial institutions, health, TMT, public sector; strong Climate & Sustainability and BCG X (AI/tech)",
-  "health": "Strong: 22nd consecutive year of growth in 2025 ($14.4bn, +7%), AI services +25%, headcount up to 33,500, and BCG overtook McKinsey on headcount. In 2026 it launched an interim-management offer (first in Germany and France).",
+  "health": "Strong: 22nd consecutive year of growth in 2025 ($14.4bn, +7%), AI services +25%, headcount up to 33,500, overtaking McKinsey on headcount. In 2026 it launched an interim-management offer (first in Germany and France), named 15 new DACH partners (Jul 2026) and keeps publishing high-profile AI research (Oct 2026 survey: half of senior leaders now see AI creating value).",
   "news": [
    {
     "date": "2026-10-08",
@@ -81,9 +82,9 @@
     "url": "https://www.consultancy.uk/news/45827/half-of-senior-leaders-now-believe-ai-generates-value-at-firm"
    },
    {
-    "date": "2026-08-31",
-    "title": "BCG India chairman Janmejaya Sinha appointed to RBI central board",
-    "url": "https://www.consultancy.in/news/4576/bcg-india-chairman-janmejaya-sinha-appointed-to-rbi-central-board"
+    "date": "2026-09-28",
+    "title": "BCG: M&A deal value in Australia and New Zealand falls to decade low",
+    "url": "https://www.consultancy.com.au/news/12838/bcg-ma-deal-value-in-australia-and-new-zealand-falls-to-decade-low"
    },
    {
     "date": "2026-04-27",
@@ -105,9 +106,11 @@
    "https://www.consultor.fr/articles/le-bcg-signe-une-croissance-de-7-en-2025-et-se-lance-dans-linterim-management",
    "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-boston-consulting-group-presentation",
    "https://www.preplounge.com/consulting-forum/which-test-at-bcg-paris-22259",
-   "https://www.consultor.fr/articles/recrutements-survivre-au-robot-a-cv-du-bcg"
+   "https://www.consultor.fr/articles/recrutements-survivre-au-robot-a-cv-du-bcg",
+   "https://www.consulting.us/firms/boston-consulting-group/global-news",
+   "https://www.consultancy.eu/firms/boston-consulting-group/global-news/consulting/new-firms"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  },
  {
   "id": "bain-company",
@@ -126,8 +129,13 @@
   "ownership": "Private partnership (owned by its partners)",
   "description": "Strategy consultancy founded by former BCG partners, known for results-oriented work, the Net Promoter System and the world's leading private-equity consulting practice. Publishes the reference luxury market study with Altagamma.",
   "sectors": "Private equity, consumer products & retail, luxury, energy & natural resources, utilities, TMT, financial services, healthcare; growing AI/tech practice",
-  "health": "Growing: CEO Christophe De Vusser said in Sep 2026 that AI demand drives double-digit revenue growth and that consulting headcount will rise ~12% (~1,400 hires) in 2026, with graduate intake up >10% in 2026 and 2027 and no layoffs planned.",
+  "health": "Growing: CEO Christophe De Vusser said in Sep 2026 that AI demand drives double-digit revenue growth and that consulting headcount will rise ~12% (~1,400 hires) in 2026, with graduate intake up >10% in 2026 and 2027 and no layoffs planned. Bain is positioning itself as an AI leader (partnerships with Anthropic and OpenAI, Oct 2026 Global Technology Report).",
   "news": [
+   {
+    "date": "2026-10-15",
+    "title": "Bain Global Technology Report: AI market needs ~$6tn annual revenue by 2031",
+    "url": "https://www.consulting.us/news/14101/global-ai-market-could-hit-6-trillion-annually-by-2031-says-bain"
+   },
    {
     "date": "2026-09-04",
     "title": "Bain to grow consulting headcount ~12% in 2026, citing AI demand",
@@ -137,11 +145,6 @@
     "date": "2026-08-27",
     "title": "Anthropic names Bain a Global Premier Partner for Claude",
     "url": "https://www.consultancy-me.com/news/14270/anthropic-names-bain-company-a-global-premier-partner-for-claude"
-   },
-   {
-    "date": "2026-07-15",
-    "title": "Bain report: AI now at the top of the agenda for luxury houses",
-    "url": "https://www.consulting.us/news/13700/ai-now-at-top-of-agenda-for-more-luxury-houses-bain-report"
    },
    {
     "date": "2026-05-15",
@@ -157,9 +160,11 @@
    "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-bain-description",
    "https://www.consultor.fr/articles/bain-va-augmenter-ses-recrutements-de-consultants-de-12-en-2026",
    "https://www.bain.com/el/about/",
-   "https://www.consultancy.org/news/firm/bain-company"
+   "https://www.consultancy.org/news/firm/bain-company",
+   "https://www.consulting.us/news/14101/global-ai-market-could-hit-6-trillion-annually-by-2031-says-bain",
+   "https://www.consulting.us/firms/bain-company/global-news/consulting/new-firms"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  },
  {
   "id": "roland-berger",
@@ -178,12 +183,17 @@
   "ownership": "Independent, owned solely by its partners",
   "description": "The only top-tier strategy consultancy of European (German) origin, strong in industrial sectors, restructuring and transformation. Known for automotive, industrial and restructuring expertise and an engineering-minded client base.",
   "sectors": "Automotive (historic flagship), industrials, energy & utilities, aerospace & defence, consumer goods & retail, healthcare, public sector, restructuring; sustainability/circular economy",
-  "health": "Record €1.01bn revenue in 2025 with growth in all regions (Asia +19%, Americas +11%), new Houston and Sydney offices, and partner growth in Paris (35 to 41). Management warned 2026 would be more challenging and is focusing on profitability.",
+  "health": "Record €1.01bn revenue in 2025 with growth in all regions (Asia +19%, Americas +11%), new Houston and Sydney offices, the Alexec battery-consulting acquisition (Mar 2026) and partner growth in Paris (35 to 41). It improved its Forbes 2026 ranking (23 of 28 categories) and keeps hiring senior staff (Australia, Middle East), but management warned 2026 would be more challenging and is focusing on profitability.",
   "news": [
    {
-    "date": "2026-08-24",
-    "title": "Roland Berger: one in four new cars sold globally is now electric",
-    "url": "https://www.consultancy.eu/news/14249/one-in-four-new-cars-sold-globally-is-now-electric-roland-berger-finds"
+    "date": "2026-09-02",
+    "title": "Roland Berger quietly builds up its senior leadership team in Australia",
+    "url": "https://www.consultancy.com.au/news/12706/roland-berger-quietly-builds-up-its-senior-leadership-team-in-australia"
+   },
+   {
+    "date": "2026-08-21",
+    "title": "Roland Berger listed in 23 of 28 categories of Forbes' World's Best Management Consulting Firms 2026",
+    "url": "https://www.mynewsdesk.com/rolandberger/pressreleases/roland-berger-strengthens-position-in-forbes-worlds-best-management-consulting-firms-2026-3461846"
    },
    {
     "date": "2026-06-17",
@@ -194,11 +204,6 @@
     "date": "2026-05-28",
     "title": "New six-member leadership team for Roland Berger Paris",
     "url": "https://www.rolandberger.com/fr/Media/Une-nouvelle-gouvernance-pour-Roland-Berger-Paris.html"
-   },
-   {
-    "date": "2026-02-10",
-    "title": "Paris partnership grows to 41 with new health/consumer partner",
-    "url": "https://www.consultor.fr/articles/un-41e-partner-elu-chez-roland-berger-a-paris-positionne-sur-la-sante"
    }
   ],
   "recruiting": "Paris hires 'Stagiaire Consultant' interns (6-12 month gap-year or end-of-studies stages; 2027 postings already open) and Junior Consultants. Typical process: CV + cover letter, round 1 (group case or two short interviews), round 2 (two one-hour case + fit interviews), plus a third round for permanent hires; fluent French and English mandatory, a third language a plus, and at least 6 months of prior experience expected.",
@@ -211,9 +216,12 @@
    "https://www.consultancy-me.com/firms/roland-berger",
    "https://www.rolandberger.com/fr/Media/Une-nouvelle-gouvernance-pour-Roland-Berger-Paris.html",
    "https://www.rolandberger.com/en/Join/All-Jobs/Stagiaire-Consultant(e)-(F-H)-2027-REF4381R.html",
-   "https://business-cool.com/entreprises/conseil/salaires-recrutement-roland-berger/"
+   "https://business-cool.com/entreprises/conseil/salaires-recrutement-roland-berger/",
+   "https://www.mynewsdesk.com/rolandberger/pressreleases/roland-berger-strengthens-position-in-forbes-worlds-best-management-consulting-firms-2026-3461846",
+   "https://www.consultancy.in/firms/roland-berger/global-news/consulting/people",
+   "https://www.consultancy.eu/firms/roland-berger/news/consulting/financial-data"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  },
  {
   "id": "kearney",
@@ -233,8 +241,13 @@
   "ownership": "Private partnership (partner-owned since 2006 buy-back from EDS)",
   "description": "Global management consultancy marking its centenary in 2026, best known for operations, procurement and supply-chain strategy alongside corporate strategy and its FDI Confidence Index. Partners each hold an equal governance vote.",
   "sectors": "Procurement, operations & supply chain, consumer & retail, automotive, energy, industrials, telecoms, financial services, public sector (strong in Middle East)",
-  "health": "Globally stable and investing (new CFO Sep 2026, AI procurement tool with Beroe, Middle East expansion), but the Paris office is in deep difficulty: its consumer/retail practice left for Oliver Wyman and Consultor (Mar 2026) describes the worst crisis in its Paris history.",
+  "health": "Globally stable and investing (new CFO Sep 2026, AI procurement tool with Beroe, new partners in Germany and Denmark, continued Middle East expansion incl. Kuwait in Oct 2026), but the Paris office is in deep difficulty: its consumer/retail practice left for Oliver Wyman and Consultor (Mar 2026) describes the worst crisis in its Paris history.",
   "news": [
+   {
+    "date": "2026-10-19",
+    "title": "Kearney appoints Bader Khraibut as managing director of its Kuwait business",
+    "url": "https://www.consultancy-me.com/news/14563/kearney-appoints-bader-khraibut-as-managing-director-of-kuwait-business"
+   },
    {
     "date": "2026-09-14",
     "title": "Kearney appoints Martin Denman as chief financial officer",
@@ -249,11 +262,6 @@
     "date": "2026-03-26",
     "title": "Consultor: Kearney Paris partnership collapses after 15 partner exits",
     "url": "https://www.consultor.fr/articles/kearney-la-degringolade-du-partnership-a-paris"
-   },
-   {
-    "date": "2026-02-21",
-    "title": "Kearney celebrates 100 years",
-    "url": "https://www.consultancy.com.au/news/11688/global-management-consulting-firm-kearney-celebrates-100-years-of-impact"
    }
   ],
   "recruiting": "Entry roles are interns and Business Analysts; process is CV screening (school, experience, languages), an online cognitive test (numerical, inductive, deductive), then case interviews: three for an internship, four over two rounds for a permanent role, sometimes in a one-day 'Recruiting Day' format with same-day answer. Fluent English needed given heavy international staffing.",
@@ -265,9 +273,10 @@
    "https://en.wikipedia.org/wiki/Kearney_(consulting_firm)",
    "https://www.consultancy.com.au/news/11688/global-management-consulting-firm-kearney-celebrates-100-years-of-impact",
    "https://www.planetegrandesecoles.com/kearney-conseil-en-strategie-salaire-missions-recrutement",
-   "https://www.consultancy.org/news/firm/kearney"
+   "https://www.consultancy.org/news/firm/kearney",
+   "https://www.consulting.us/firms/kearney/global-news"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  },
  {
   "id": "oliver-wyman",
@@ -282,12 +291,22 @@
   "paris": "Paris office at 1 rue Euler (8e) with ~225 consultants and ~40 partners (2025), historically strongest in financial services, plus telecoms/media, transport and consumer goods (reinforced by four ex-Kearney consumer/retail partners).",
   "founded": "1984",
   "employees": "Not disclosed separately; Marsh Management Consulting (Oliver Wyman, Lippincott, NERA) has 7,200+ staff (2025); ~225 consultants in Paris (2025)",
-  "revenue": "$3.6bn (2025), +6% (Marsh Management Consulting)",
+  "revenue": "$3.6bn (2025), +6% (Marsh Management Consulting); Q3 2026 $1.013bn, +14%",
   "ownership": "Subsidiary of Marsh (formerly Marsh McLennan; NYSE: MRSH)",
   "description": "Global strategy and management consultancy owned by insurance broker Marsh, renowned for financial services and risk, and also active in transport, aviation, consumer, energy and public sector. Combines strategy work with deep analytics and actuarial expertise.",
   "sectors": "Financial services & risk (flagship), transportation & aviation, automotive, consumer & retail, energy & utilities, health & life sciences, telecoms, public sector; restructuring (CR3)",
-  "health": "Healthy: record $3.6bn revenue in 2025 (+6%), first $1bn quarter, similar growth expected in 2026; new CEO Ted Moynihan (Apr 2026) and acquisition of turnaround firm CR3 Partners (May 2026). Management said it plans to hire as many or more junior consultants who are comfortable with AI.",
+  "health": "Very healthy: record $3.6bn revenue in 2025 (+6%), then Q3 2026 Management Consulting revenue of $1.013bn, up 14% (GAAP and underlying), accelerating vs. 2025. New CEO Ted Moynihan (Apr 2026), acquisition of turnaround firm CR3 Partners (May 2026) and steady senior hiring; management said it plans to hire as many or more junior consultants who are comfortable with AI.",
   "news": [
+   {
+    "date": "2026-10-15",
+    "title": "Marsh Q3 2026: Management Consulting (Oliver Wyman) revenue $1.0bn, +14%",
+    "url": "https://www.sec.gov/Archives/edgar/data/0000062709/000006270926000256/mmc3q2026ex991newsrelease.htm"
+   },
+   {
+    "date": "2026-10-13",
+    "title": "Oliver Wyman appoints Kai Balder as partner in Amsterdam office",
+    "url": "https://www.consultancy.eu/news/14447/oliver-wyman-appoints-kai-balder-as-partner-in-amsterdam-office"
+   },
    {
     "date": "2026-09-28",
     "title": "Birgit Boykin named chief people officer of Oliver Wyman",
@@ -297,16 +316,6 @@
     "date": "2026-05-05",
     "title": "Oliver Wyman to acquire turnaround firm CR3 Partners",
     "url": "https://www.consulting.us/news/13339/oliver-wyman-to-acquire-turnaround-firm-cr3-partners"
-   },
-   {
-    "date": "2026-04-01",
-    "title": "Ted Moynihan named president and CEO of Oliver Wyman",
-    "url": "https://www.consulting.us/news/13195/ted-moynihan-named-president-and-ceo-of-oliver-wyman"
-   },
-   {
-    "date": "2026-02-02",
-    "title": "Oliver Wyman posts record 2025 revenue of $3.6bn, up 6%",
-    "url": "https://www.consultor.fr/articles/oliver-wyman-signe-une-annee-2025-record-avec-un-chiffre-daffaires-de-3-6-milliards-de-dollars-en-hausse-de-6"
    }
   ],
   "recruiting": "Paris hires interns and Consultants (graduate entry). Interns go through 2 rounds (1 then 2 case + fit interviews); graduate Consultants through 3 rounds (1, 2, then 1 interview). Candidates usually choose a practice affiliation; French and English expected.",
@@ -318,9 +327,11 @@
    "https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/mrsh-20251231.htm",
    "https://www.consultor.fr/cabinets/cabinet-de-conseil-strategie-oliver-wyman-presentation",
    "https://www.consultancy.org/news/firm/oliver-wyman",
-   "https://www.consultor.fr/articles/kearney-la-degringolade-du-partnership-a-paris"
+   "https://www.consultor.fr/articles/kearney-la-degringolade-du-partnership-a-paris",
+   "https://www.sec.gov/Archives/edgar/data/0000062709/000006270926000256/mmc3q2026ex991newsrelease.htm",
+   "https://www.consultancy-me.com/firms/oliver-wyman/global-news/consulting/people"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  },
  {
   "id": "arthur-d-little",
@@ -3219,5 +3230,435 @@
    "https://fr.arkopharma.com/pages/nous-rejoindre"
   ],
   "updatedAt": "2026-10-20T17:56:56+02:00"
+ },
+ {
+  "id": "papernest",
+  "name": "Papernest",
+  "aliases": [
+   "papernest",
+   "Papernest Énergie",
+   "Papernest Energie",
+   "Souscritoo"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (170 boulevard de la Villette, Paris 19e)",
+  "paris": "Head office in Paris 19e alongside a large customer-service site in Reims and its biggest hub in Barcelona (22@ district); Paris hosts the strategy, operations and corporate-strategy teams recruiting the Strategy & Operations and Corporate Strategy analyst interns.",
+  "founded": "2015 (as Souscritoo; renamed Papernest in 2017)",
+  "employees": "~1,000 'papermates' (company site, 2026); ~900 per its JobTeaser page (2026)",
+  "revenue": "Not disclosed",
+  "ownership": "Private, founder-led start-up backed by VCs (Partech, Kima Ventures, Idinvest); ~$11.75m raised in total (CB Insights)",
+  "description": "French scale-up that takes the hassle out of household admin: a free service that helps people subscribe to, switch, optimise and cancel energy, internet, mobile and home-insurance contracts, mostly when they move house. It earns commissions from partner suppliers and, since January 2024, also sells its own 100% renewable electricity offer (Papernest Énergie). It is distributed through bank partnerships such as BNP Paribas and Groupe BPCE.",
+  "sectors": "Consumer services / fintech-style platform for energy, telecom and insurance contracts; operating in France, Spain and Italy",
+  "health": "Grew from 10 to ~1,000 staff in under 10 years and claims 2m+ customers (2026). In April 2026 it went straight in at no. 5 in the French Fintech100 ranking, behind Qonto, Alan, Ledger and Swile. Funding has been modest (~$11.75m), so growth has mainly been financed from its own revenue. Revenue and profit are not published.",
+  "news": [
+   {
+    "date": "2026-04-14",
+    "title": "Papernest enters the French Fintech100 ranking straight at no. 5 (Journal du Net)",
+    "url": "https://www.journaldunet.com/fintech/1549497-fintech-100-qonto-conserve-la-tete-alan-et-ledger-completent-un-podium-inchange/"
+   },
+   {
+    "date": "2026-04-14",
+    "title": "Groupe BPCE Fintech100 release names Papernest among the notable new entrants",
+    "url": "https://newsroom.groupebpce.fr/download-pdf/69f86d8f425d0c60230c61d3"
+   }
+  ],
+  "recruiting": "Interns are mainly hired for January and mid-year (July/September) starts, and permanent roles are open year-round. The process starts with a ~30-minute call with the role's talent-acquisition contact, followed by role-specific steps listed in each offer (typically case or analytical exercises and team interviews). Interns are encouraged to convert to full-time roles, and offers are posted on Welcome to the Jungle and JobTeaser.",
+  "tinoAngle": "Your sales internship in Madrid and your Spanish fit Papernest's France-Spain-Italy footprint and its big Barcelona hub, and its corporate-strategy team gives you a scale-up seat on how a commission-based platform turns into an energy supplier.",
+  "careersUrl": "https://www.welcometothejungle.com/en/companies/papernest/jobs",
+  "website": "https://www.papernest.com",
+  "sources": [
+   "https://www.papernest.com/presse/",
+   "https://www.jobteaser.com/es/companies/papernest",
+   "https://www.journaldunet.com/fintech/1549497-fintech-100-qonto-conserve-la-tete-alan-et-ledger-completent-un-podium-inchange/",
+   "https://www.cbinsights.com/company/papernest/financials",
+   "https://www.yieldadvisory.fr/interviews/papernest",
+   "https://www.hellowatt.fr/fournisseurs/papernest-energie/",
+   "https://catalonia.com/w/the-french-tech-firm-papernest-opens-new-offices-in-barcelona-and-announces-the-creation-of-up-to-300-new-jobs",
+   "https://podcastledeclic.fr/podcast/comment-papernest-a-conquis-2-millions-de-clients-dans-un-marche-que-tout-le-monde-deteste/"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "singulier",
+  "name": "Singulier",
+  "aliases": [
+   "Singulier Consulting",
+   "Singulier (Ommax group)",
+   "Ommax"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France (offices in Paris, London and Munich)",
+  "paris": "Founding and main office in Paris, with ~80 professionals across Paris, London and Munich (2026). Paris recruits strategy, data and AI consultants and interns (Strategy & Operations Analyst, Business Strategy Intern) and is the French base of the combined Ommax-Singulier group.",
+  "founded": "2017, Paris (by Rémi Pesseguier and Mathieu Ferel)",
+  "employees": "~80 professionals (2026); ~400 for the combined Ommax-Singulier platform (June 2026)",
+  "revenue": "€14m (2023, CFNews); not disclosed since",
+  "ownership": "Being acquired by Munich-based Ommax, backed by Eurazeo (PME/Elevate buy-and-build), deal signed in spring 2026. Previously backed by Founders Future and MACSF (€5m raise, late 2023). Founders Future is exiting but reinvesting in the combined group.",
+  "description": "Paris-born consultancy that sits between strategy consulting and tech. It advises private-equity funds and their portfolio companies, as well as CEOs, on digital, data and AI strategy, transaction due diligence and value creation, and then helps build and implement the solutions. Clients cited include Ardian, Bridgepoint, PAI Partners and CMA CGM.",
+  "sectors": "Private equity and portfolio companies; health, B2B services, technology, financial services, retail/consumer goods (target sectors of the combined group)",
+  "health": "Growing and consolidating. Revenue reached €14m in 2023, and in 2026 the firm agreed to merge into Ommax (Eurazeo-backed) to form a ~400-person pan-European AI and data consulting platform. Co-founder Rémi Pesseguier becomes CEO France and co-CEO UK, and ex-McKinsey/Stellantis executive Yves Bonnefont joins as managing partner. Branding is still to be decided.",
+  "news": [
+   {
+    "date": "2026-06-11",
+    "title": "Eurazeo backs Ommax to acquire Singulier and hire two ex-McKinsey partners (Consultor)",
+    "url": "https://www.consultor.fr/articles/eurazeo-donne-les-moyens-a-ommax-dacquerir-singulier-et-de-recruter-deux-ex-partners-de-mckinsey"
+   },
+   {
+    "date": "2026-05-28",
+    "title": "French firm Singulier merges with Germany's Ommax to build a European AI consulting player (Maddyness)",
+    "url": "https://www.maddyness.com/uk/?p=765357"
+   },
+   {
+    "date": "2026-05-19",
+    "title": "Singulier joins forces with German Ommax (CFNews)",
+    "url": "https://www.cfnews.net/L-actualite/International/Operations/Build-up-International/Singulier-conjugue-ses-forces-avec-un-allemand-708369"
+   }
+  ],
+  "recruiting": "Hires through its Workable careers page (apply.workable.com/singulier) and job boards, for Paris roles that are hybrid with 3-4 office days a week. The interview process is not published. Expect strategy-consulting style case and fit interviews with data/AI questions, with offers posted year-round.",
+  "tinoAngle": "Your interest in AI strategy fits a firm whose whole pitch is data and AI value creation for private-equity portfolios, and the Ommax merger gives you an early seat in a fast-growing pan-European platform where your international exposure (Singapore, Madrid) counts.",
+  "careersUrl": "https://apply.workable.com/singulier/",
+  "website": "https://www.singulier.co",
+  "sources": [
+   "https://www.consultor.fr/articles/eurazeo-donne-les-moyens-a-ommax-dacquerir-singulier-et-de-recruter-deux-ex-partners-de-mckinsey",
+   "https://www.maddyness.com/uk/?p=765357",
+   "https://www.cfnews.net/L-actualite/International/Operations/Build-up-International/Singulier-conjugue-ses-forces-avec-un-allemand-708369",
+   "https://www.cfnews.net/L-actualite/Capital-developpement/Operations/Augmentation-de-capital/Singulier-se-distingue-par-une-premiere-levee-466306",
+   "https://apply.workable.com/singulier/jobs/view/31C6C13B85.md"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "corporate-value-associates-cva",
+  "name": "Corporate Value Associates (CVA)",
+  "aliases": [
+   "CVA",
+   "Corporate Value Associates",
+   "CVA Paris",
+   "CVA Group"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France (49 rue Pierre Charron, Paris 8e)",
+  "paris": "Historic headquarters and hub of an integrated EMEA zone (Paris, Amsterdam, Berlin, Brussels, London, Milan, Casablanca, Dubai, plus a new Stockholm base in 2026). ~40 consultants in France (Jan 2024), with about ten junior consultants and ten interns hired a year in Paris who can then work across EMEA offices.",
+  "founded": "1987, Paris (by Paul-André Rabate, ex-BCG and Mars & Co)",
+  "employees": "~200 consultants worldwide, ~300 including US alliance partner Dean & Co; ~80 in EMEA, ~40 in France (Jan 2024)",
+  "revenue": "Not disclosed",
+  "ownership": "Independent, partner-owned. The founder held all European capital for over a decade, and it was opened to senior partners from late 2024. A foundation is planned and the founder says the firm will not be sold (2026).",
+  "description": "Independent, deliberately small high-end strategy boutique that refuses implementation work so it stays neutral. Instead of industry silos it is organised in 'platforms' such as food transition, mobility, energy transition, construction and infrastructure, new distribution models and New Healthcare Systems. It covers Europe, the Middle East/Africa and Asia-Pacific (Singapore, Australia, New Zealand, China, Japan, Korea) and is building up in the US (Boston).",
+  "sectors": "Agri-food and fertilisers, energy transition, mobility, construction and infrastructure, retail and new distribution models, financial services, health and pharma",
+  "health": "Stable boutique that chooses moderate growth over scale. In 2026 it promoted new partners in Paris and Boston, pushed its health-pharma platform into the US (the platform doubled its revenue the previous year) and opened a Nordic base in Stockholm. In Sept 2026 the newly elected Paris health partner left for a US biotech.",
+  "news": [
+   {
+    "date": "2026-09-21",
+    "title": "Newly elected CVA partner leaves for a US biotech in Taiwan (Consultor)",
+    "url": "https://www.consultor.fr/articles/un-associe-fraichement-elu-quitte-cva-pour-senvoler-vers-taiwan"
+   },
+   {
+    "date": "2026-07-07",
+    "title": "After New Zealand, Sweden: CVA opens a Nordic base in Stockholm (Consultor)",
+    "url": "https://www.consultor.fr/articles/apres-la-nouvelle-zelande-la-suede-cva-elargit-son-terrain-de-jeu"
+   },
+   {
+    "date": "2026-03-03",
+    "title": "'I did not build a firm to sell it' – founder Paul-André Rabate on CVA's independence (Consultor)",
+    "url": "https://www.consultor.fr/articles/je-nai-pas-construit-un-cabinet-pour-le-vendre-paul-andre-rabate-fondateur-de-cva"
+   },
+   {
+    "date": "2026-02-05",
+    "title": "Health-pharma: CVA structures its practice and targets the US market (Consultor)",
+    "url": "https://www.consultor.fr/articles/sante-pharma-cva-structure-sa-practice-et-part-a-lassaut-du-marche-americain"
+   }
+  ],
+  "recruiting": "About ten interns and ten junior consultants are hired a year in Paris. Interns go through 3-4 interviews and juniors 4-5, including three case studies in French and English with senior consultants, managers and partners. Its closest school ties are HEC, ESSEC, Polytechnique and CentraleSupélec. Training is organised in cycles by grade (Challenge, Master, ICD), and there is no mass hiring or fast-track promotion.",
+  "tinoAngle": "Your Singapore internship and hands-on waste-valorisation project fit CVA's Asia network and its food-transition and fertiliser/agri platforms, and the boutique's Paris intern intake (~10 a year) is a realistic entry into strategy consulting where both your French and your English are tested in the cases.",
+  "careersUrl": "https://www.corporate-value.com",
+  "website": "https://www.corporate-value.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/cabinet-conseil-strategie-cva-corporate-value-associates-presentation",
+   "https://www.consultor.fr/devenir-consultant/guide-des-cabinets-de-conseil-en-strategie/cabinet-conseil-strategie-cva-corporate-value-associates-presentation.html",
+   "https://www.consultor.fr/articles/je-nai-pas-construit-un-cabinet-pour-le-vendre-paul-andre-rabate-fondateur-de-cva",
+   "https://www.consultor.fr/articles/sante-pharma-cva-structure-sa-practice-et-part-a-lassaut-du-marche-americain",
+   "https://www.consultor.fr/articles/apres-la-nouvelle-zelande-la-suede-cva-elargit-son-terrain-de-jeu",
+   "https://dean.com/about-dean/cva-alliance/"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "accuracy",
+  "name": "Accuracy",
+  "aliases": [
+   "Accuracy Strategy",
+   "Accuracy Strategy & Business Changes",
+   "Accuracy Paris",
+   "Accuracy SAS"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Paris, France (16 avenue Matignon, Paris 8e)",
+  "paris": "Headquarters in a ~5,000 m² office on avenue Matignon (moved from Neuilly). Paris has ~280 consultants including 43 partners, and the strategy practice has 10 partners in France (Consultor, 2025). Paris hires Finance & Strategy Junior Consultants and interns.",
+  "founded": "2004 (by seven former Arthur Andersen consultants led by Frédéric Duponchel); strategy practice added in 2010",
+  "employees": "800+ consultants in 18 offices (2026 job posting); 89 partners and principals in 14 countries (Jan 2026)",
+  "revenue": "€115m for the French entity Accuracy SAS (2024, Pappers), up ~6.7% on 2023, net income €21.4m; group revenue €125m (2021)",
+  "ownership": "Independent, owned by its management since buying back all shares from Aon in 2013",
+  "description": "Independent advisory boutique combining transaction services (due diligence, valuation), dispute and litigation support, restructuring and strategy. Its Strategy & Business Changes practice advises corporates and private-equity funds on growth strategy, business plans and transformation, often linked to deals. It has offices across Europe, North America, Asia, the Middle East and Africa.",
+  "sectors": "Financial services (banking, insurance), consumer goods and luxury, retail and e-commerce, industrials (automotive, chemicals, aerospace), infrastructure and transport, energy, B2B/B2C services; clients include Société Générale, BPCE, Axa, L'Oréal, Michelin, Kering, Thales, Suez",
+  "health": "Profitable and steadily growing. The French entity's revenue rose ~6.7% to €115m in 2024 with €21.4m net income, headcount is above 800, and it promoted two new partners and a principal in January 2026. Founder Frédéric Duponchel, now founding president, was named in the Lexology Index Thought Leaders: Firm Management 2026.",
+  "news": [
+   {
+    "date": "2026-07-13",
+    "title": "Accuracy acts as financial due-diligence adviser to EyeCare Groep on the Kruytzer acquisition (Consultancy.nl)",
+    "url": "https://www.consultancy.nl/nieuws/68961/wave-corporate-finance-en-accuracy-ondersteunen-eyecare-groep-bij-overname"
+   },
+   {
+    "date": "2026-07-02",
+    "title": "Founding president Frédéric Duponchel recognised in Lexology Index Thought Leaders: Firm Management 2026",
+    "url": "https://www.accuracy.com/frederic-duponchel-recognised-in-the-lexology-index-thought-leaders-firm-management-2026/"
+   },
+   {
+    "date": "2026-05-19",
+    "title": "Accuracy study: airports must tackle scope 3 emissions to keep access to capital (Consultancy.nl)",
+    "url": "https://www.consultancy.nl/nieuws/67496/luchthavens-moeten-scope-3-uitstoot-aanpakken-om-duurzaamheid-van-de-grond-te-krijgen"
+   },
+   {
+    "date": "2026-01-12",
+    "title": "Accuracy promotes two new partners (Paris, Madrid) and a principal (Beijing)",
+    "url": "https://www.accuracy.com/wp-content/uploads/2026/01/2026-01-08-Accuracy-promotes-two-new-partners-and-a-principal-FR.pdf"
+   }
+  ],
+  "recruiting": "Interns go through three rounds (fit and motivation, a case study, then a final interview), each with two interviewers. Junior to senior manager hires go through four rounds, which add a role-play. Applications go through careers.accuracy.com, Paris posts its 'Finance & Strategy Junior Consultants' offers year-round, and it runs a student business case competition (Accuracy Business Challenge). Typical time as Analyst is ~21 months before Associate.",
+  "tinoAngle": "Your SKEMA strategy degree plus your logistics and sales internships fit Accuracy's hybrid finance-and-strategy junior track, and its offices in Madrid, Barcelona and Singapore and its ESG work (such as the airport scope 3 study) make use of both your Spanish and your interest in circular-economy and sustainability topics.",
+  "careersUrl": "https://careers.accuracy.com/",
+  "website": "https://www.accuracy.com",
+  "sources": [
+   "https://www.consultor.fr/cabinets/accuracy-strategy",
+   "https://en.wikipedia.org/wiki/Accuracy_(company)",
+   "https://www.pappers.fr/entreprise/accuracy-479527640",
+   "https://www.accuracy.com/wp-content/uploads/2026/01/2026-01-08-Accuracy-promotes-two-new-partners-and-a-principal-FR.pdf",
+   "https://www.ziprecruiter.de/jobs/543181607-intern-f-m-d-leading-international-advisory-boutique-bei-accuracy",
+   "https://careers.accuracy.com/joining-accuracy/our-recruitment-process/",
+   "https://www.consultancy.nl/adviesbureaus/accuracy/global-news/vakgebied/corporate-finance"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "altman-solon",
+  "name": "Altman Solon",
+  "aliases": [
+   "Altman Solon Paris",
+   "Altman Vilandrie & Company",
+   "Solon Management Consulting",
+   "Arrow by Altman Solon"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Boston, United States",
+  "paris": "Paris office at 47 avenue de l'Opéra (Paris 2e), opened by Solon in 2019; Paris-based leadership includes partners Frédéric Galano and François-Nicolas Kielwasser. Paris consultants work closely with the other European offices (Munich, Milan, Amsterdam, Stockholm, etc.).",
+  "founded": "2020 (merger of Solon Management Consulting, Munich, founded 1996, and Altman Vilandrie & Company, Boston, founded 2002)",
+  "employees": "~600 consultants worldwide (Sept 2026, per Consultancy.eu); ~300 at the 2020 merger; Paris headcount not disclosed",
+  "revenue": "Not disclosed",
+  "ownership": "Private, partner-owned (no outside shareholder disclosed)",
+  "description": "The world's largest strategy consultancy focused exclusively on telecommunications, media and technology (TMT). It covers strategy, go-to-market, private equity & M&A due diligence, operations/transformation and deployment strategy (Arrow by Altman Solon) for operators, tech firms, media groups, infrastructure funds and investors, from 16 offices across the Americas, Europe, Middle East and Asia-Pacific.",
+  "sectors": "Telecoms (mobile, fibre, towers), media & entertainment, technology, digital infrastructure (data centres, fibre), semiconductors; heavy private-equity due-diligence work",
+  "health": "Expanding: new offices in Amsterdam (2024), Stockholm and Riyadh (2025); senior hires across Europe in 2026 (three new partners in Feb, a semiconductor partner from Strategy& in Sept). Ran 174+ due-diligence projects for 86 EMEA clients between Oct 2024 and Sept 2025 and was named TMT Finance Due Diligence Adviser of the Year EMEA 2026.",
+  "news": [
+   {
+    "date": "2026-09-15",
+    "title": "Altman Solon hires Steven Pattheeuws (ex-Strategy&) as partner to build its Semiconductor practice",
+    "url": "https://www.consultancy.eu/news/14270/altman-solon-appoints-steven-pattheeuws-as-partner-in-semiconductor-practice"
+   },
+   {
+    "date": "2026-02-12",
+    "title": "Altman Solon strengthens European senior team with partners Udo Bauer, Joost Eyck and Matteo Tiranti",
+    "url": "https://www.consultancy.eu/news/13201/altman-solon-strengthens-senior-team-in-europe-with-new-partners"
+   },
+   {
+    "date": "2026-02-02",
+    "title": "Altman Solon named Due Diligence Adviser of the Year at the TMT Finance Awards EMEA 2026",
+    "url": "https://www.altmansolon.com/news/2026-tmt-finance-emea-winner"
+   }
+  ],
+  "recruiting": "Recruits interns (typically 2-3-month missions inside a project team) and Analysts (graduate entry, with a career adviser and coach). Process per candidate reports: two rounds of case interviews (often 2-3 interviews per round, each ~30-45 min case with a TMT/telecom flavour plus ~10-15 min fit), interviewers sometimes drawn from several European offices; a Paris process (2022) took about four weeks. Applications via the firm's careers site and campus channels.",
+  "tinoAngle": "Your AI-strategy interest and international track record (Singapore, Madrid, Australia) fit a TMT specialist where Paris teams staff cross-European due-diligence and data-centre/AI-infrastructure cases, making the TMT intern role a sharp niche entry point into strategy consulting.",
+  "careersUrl": "https://www.altmansolon.com/careers/on-campus/recruiting/",
+  "website": "https://www.altmansolon.com",
+  "sources": [
+   "https://www.altmansolon.com/fr/a-propos",
+   "https://www.altmansolon.com/fr/tmt/nos-bureaux/",
+   "https://www.altmansolon.com/careers/on-campus/recruiting/",
+   "https://www.altmansolon.com/news/2026-tmt-finance-emea-winner",
+   "https://www.consultancy.eu/news/14270/altman-solon-appoints-steven-pattheeuws-as-partner-in-semiconductor-practice",
+   "https://www.consultancy.eu/firms/altman-solon/news/consulting/ma-in-consulting",
+   "https://www.consulting.us/firms/altman-solon/careers",
+   "https://www.glassdoor.fr/Entretien/Altman-Solon-Entretien-E3543686-RVW72482345.htm"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "ardian",
+  "name": "Ardian",
+  "aliases": [
+   "Ardian France",
+   "Ardian Investment",
+   "AXA Private Equity"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (20 place Vendôme)",
+  "paris": "Global headquarters at 20 place Vendôme (Paris 1er), home to most investment teams and to central functions such as Corporate Development (strategy & M&A of the firm itself), risk, legal and investor relations; Ardian France is led by Mathias Burghardt (2025).",
+  "founded": "1996 (as AXA Private Equity; independent as Ardian since 2013)",
+  "employees": "1,050+ (2025), incl. 350+ investment professionals; 22 offices (Dec 2025)",
+  "revenue": "Not disclosed (private). Assets managed or advised: ~$200bn (July 2026), up from $176bn (Jan 2025); >1,920 clients (July 2026)",
+  "ownership": "Private; employees are the main shareholder group (~40% of capital, July 2026); Assurances du Crédit Mutuel rising to ~23% and Kuwait-owned Wafra increasing its stake as AXA sells its 10% (closing expected late 2026-early 2027)",
+  "description": "One of the world's largest private investment houses, founded by Dominique Senequier, investing across private equity (buyout, expansion, growth), secondaries & primaries (fund of funds), infrastructure, real estate, private credit and nature-based solutions, with a growing evergreen offer for private-wealth clients (Ardian Access).",
+  "sectors": "Private markets: secondaries, infrastructure (energy, transport, digital), buyout/mid-cap PE, private credit, real estate; portfolio across business services, industry, healthcare, energy transition",
+  "health": "Strong: a third consecutive record fundraising year in 2025 (>$20bn raised, incl. $30bn Secondaries Fund IX and $20bn Infrastructure Fund VI, €3.2bn Expansion VI), ~$23.8bn deployed in 2025 and AUM reaching ~$200bn in 2026. 2026 brought a governance and shareholding reshuffle (Mark Benedetti co-CEO; AXA exit).",
+  "news": [
+   {
+    "date": "2026-07-28",
+    "title": "Ardian reorganises its shareholding: AXA sells its 10%, ACM rises to 23% and Wafra increases its stake",
+    "url": "https://www.fundssociety.com/en/news/business/ardian-reorganizes-its-shareholding-structure-with-axas-exit-and-increased-stakes-for-acm-and-wafra/"
+   },
+   {
+    "date": "2026-07-24",
+    "title": "Ardian adjusts its governance: Mark Benedetti co-CEO alongside founder Dominique Senequier",
+    "url": "https://www.cfnews.net/L-actualite/Nominations/Fonds/Ardian-reajuste-sa-gouvernance-723481"
+   },
+   {
+    "date": "2026-07-08",
+    "title": "Ardian backs HR Path in a nearly $1bn transaction",
+    "url": "https://www.themiddlemarket.com/latest-news/ardian-backs-hr-path-in-nearly-1b-transaction"
+   },
+   {
+    "date": "2025-12-10",
+    "title": "Ardian closes three flagship funds, raising a record >$20bn in 2025 (Secondaries IX $30bn, Infrastructure VI $20bn)",
+    "url": "https://www.caproasia.com/2025/12/10/france-192-billion-private-investment-firm-ardian-closed-3-major-flagship-funds-with-53-7-billion-funds-raised-in-2025ardian-secondaries-fund-ix-30-billion-ardian-infrastructure-fund-vi-20/"
+   }
+  ],
+  "recruiting": "Posts dated internship offers by team and start date (e.g. 'Stage - Janvier 2027', 'Stage - Mars 2027') on its careers site and JobTeaser, for investment teams and central functions (Corporate Development, Risk, Legal, Internal Audit). Detailed interview process not published; expect finance-heavy interviews (modelling, M&A, private-markets knowledge) for the Corporate Development (strategy - M&A) internship.",
+  "tinoAngle": "Your strategy-consulting training plus your waste-valorisation project give you a credible angle on Ardian's own growth strategy, where infrastructure funds back assets like waste firm Attero and energy transition platforms, and the Corporate Development internship is a rare corporate-strategy seat inside a private-markets house.",
+  "careersUrl": "https://www.ardian.com/careers",
+  "website": "https://www.ardian.com",
+  "sources": [
+   "https://www.caproasia.com/2025/12/10/france-192-billion-private-investment-firm-ardian-closed-3-major-flagship-funds-with-53-7-billion-funds-raised-in-2025ardian-secondaries-fund-ix-30-billion-ardian-infrastructure-fund-vi-20/",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-17-les-assurances-du-credit-mutuel-montent-a-23-au-capital-dardian.html",
+   "https://www.fundssociety.com/en/news/business/ardian-reorganizes-its-shareholding-structure-with-axas-exit-and-increased-stakes-for-acm-and-wafra/",
+   "https://www.cfnews.net/L-actualite/Nominations/Fonds/Ardian-reajuste-sa-gouvernance-723481",
+   "https://www.cfnews.net/L-actualite/Nominations/Fonds/Ardian-fait-evoluer-son-top-management-709042",
+   "https://www.cfnews.net/L-actualite/Marche-General/Vie-des-acteurs/Ardian-s-ouvre-a-un-fonds-de-GP-stake-549150",
+   "https://www.themiddlemarket.com/latest-news/ardian-backs-hr-path-in-nearly-1b-transaction",
+   "https://en.wikipedia.org/wiki/Ardian_(company)"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "edenred",
+  "name": "Edenred",
+  "aliases": [
+   "Edenred France",
+   "Edenred SE",
+   "Edenred Group",
+   "Ticket Restaurant"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Issy-les-Moulineaux (Paris area), France – 14-16 boulevard Garibaldi",
+  "paris": "Group head office in Issy-les-Moulineaux, just outside Paris, hosting group functions (Strategy, M&A, Finance, Digital) as well as Edenred France.",
+  "founded": "2010 (spun off from Accor; Ticket Restaurant brand dates back to the 1960s)",
+  "employees": "~12,000 worldwide (2025)",
+  "revenue": "€2,961m total revenue in 2025 (+5.7% like-for-like), EBITDA €1,360m (45.9% margin), net profit group share €521m; business volume €49bn (2025). 9M 2026 total revenue €2,198m (+0.6% LFL)",
+  "ownership": "Listed on Euronext Paris (CAC Next 20 / CAC Large 60), widely held",
+  "description": "Digital platform for employee benefits (meal and food vouchers such as Ticket Restaurant, engagement), mobility (fuel/fleet cards, EV charging, tolls) and B2B payments, connecting >1 million client companies, 60+ million users and 2+ million partner merchants in 44 countries.",
+  "sectors": "Fintech / payments, employee benefits, fleet & mobility (incl. EV charging), B2B payments",
+  "health": "Under regulatory pressure: meal-voucher reforms in Brazil (10% of 2025 operating revenue) and Italy push 2026 like-for-like EBITDA down 7-10% (guidance improved in July 2026), while Mobility grows double-digit (+11% LFL in 9M 2026). The Amplify25-28 plan targets €5bn revenue by 2030, 8-12% EBITDA growth in 2027-28, and a six-fold increase in data & AI investment by 2028; the group is also refocusing its portfolio (Edenred Pay North America partnership with Abry).",
+  "news": [
+   {
+    "date": "2026-10-21",
+    "title": "Edenred Q3 2026: 9M operating revenue +0.6% LFL (+7.6% excluding Brazil/Italy regulation), Mobility +11%; FY guidance confirmed",
+    "url": "https://www.webdisclosure.com/press-release/edenred-reports-sound-growth-in-the-first-nine-months-of-2026-and-confirms-its-guidance-for-the-full-year-eAima9FbRCQ"
+   },
+   {
+    "date": "2026-07-31",
+    "title": "Abry Partners invests $75m in Edenred Pay North America; Edenred moves to equity-method stake as part of portfolio rationalisation",
+    "url": "https://www.ideal-investisseur.fr/en/actions-b/edenred-relinquishes-control-of-pay-north-america-subsidiary-to-abry-partners-for-75-million/23495.html"
+   },
+   {
+    "date": "2026-07-23",
+    "title": "Edenred H1 2026: revenue +1.5%, EBITDA -6% on meal-voucher regulation; FY26 EBITDA outlook raised",
+    "url": "https://www.rttnews.com/3669657/edenred-h1-net-profit-falls-but-revenue-rises-raises-fy26-ebitda-outlook.aspx"
+   },
+   {
+    "date": "2026-02-25",
+    "title": "Brazilian court ruling makes the PAT meal-voucher decree apply to Edenred; 2026-28 guidance unchanged",
+    "url": "https://www.edenred.com/system/files/documents/pr-brazil-20260225-version-finale.pdf"
+   }
+  ],
+  "recruiting": "Group head-office internships (Strategy, M&A, FP&A, business development) are posted as 6-month full-time 'convention de stage' roles on Welcome to the Jungle, JobTeaser and the Edenred careers site, usually with an ASAP or semester start; M&A interns work on business-plan modelling, valuation, due diligence and market research. Interview steps are not published.",
+  "tinoAngle": "Your Spanish and multi-country experience (Singapore, Madrid, Australia) and your AI-strategy interest fit a Group Strategy team working across 44 countries on Brazil/Italy regulatory shocks, Mobility/EV-charging growth and a six-fold data & AI investment push under Amplify25-28.",
+  "careersUrl": "https://www.edenred.com/en/careers",
+  "website": "https://www.edenred.com",
+  "sources": [
+   "https://webdisclosure.com/press-release/edenred-epa-eden-edenred-achieves-all-its-operating-and-financial-targets-and-marks-a-record-year-in-2025-N7KLoFOdpzF",
+   "https://www.webdisclosure.com/press-release/edenred-reports-sound-growth-in-the-first-nine-months-of-2026-and-confirms-its-guidance-for-the-full-year-eAima9FbRCQ",
+   "https://www.rttnews.com/3669657/edenred-h1-net-profit-falls-but-revenue-rises-raises-fy26-ebitda-outlook.aspx",
+   "https://www.edenred.com/system/files/documents/pr-brazil-20260225-version-finale.pdf",
+   "https://www.edenred.com/en/investors-shareholders/press-releases",
+   "https://www.ideal-investisseur.fr/en/actions-b/edenred-relinquishes-control-of-pay-north-america-subsidiary-to-abry-partners-for-75-million/23495.html",
+   "https://www.welcometothejungle.com/fr/companies/edenred-holding/jobs/m-a-internship_issy-les-moulineaux_EDENR_NNVlzqD"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "bouygues-construction",
+  "name": "Bouygues Construction",
+  "aliases": [
+   "Bouygues",
+   "Bouygues Bâtiment",
+   "Bouygues Construction Division",
+   "Bouygues Bâtiment Ile-de-France",
+   "A W Edwards",
+   "Vannoy Construction"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Guyancourt (Saint-Quentin-en-Yvelines), France – 'Challenger' campus, 1 avenue Eugène Freyssinet",
+  "paris": "Headquartered at the Challenger campus in Guyancourt (Yvelines, ~30 min from Paris), where group functions including corporate strategy sit; parent Bouygues SA is in Paris.",
+  "founded": "1952 (Bouygues group founded by Francis Bouygues)",
+  "employees": "~36,000 (GlobalData profile, year not stated)",
+  "revenue": "€10.6bn (2025); H1 2026 sales €5.3bn (+2%), operating margin from activities 3.2% (record H1 since 2018); backlog €17.9bn (end-June 2026)",
+  "ownership": "100% subsidiary of Bouygues SA (listed on Euronext Paris); since 1 Jan 2026 part of the group's new Construction Division with Colas and Bouygues Immobilier",
+  "description": "Global building, civil-works and energy-related construction group (subsidiary of Bouygues) designing, building, renovating and operating buildings, infrastructure and complex projects such as hospitals, data centres, transport and defence sites, in France and internationally (UK, Switzerland, Australia, Asia, US).",
+  "sectors": "Building (France and international), civil works/infrastructure, data centres, healthcare, education, renovation and low-carbon construction",
+  "health": "Solid and improving margins: H1 2026 order intake up 15% to €4.8bn, record H1 margin (3.2%) and €4.1bn net surplus cash (June 2026). Growing internationally via the US acquisition of Vannoy Construction (~€870m 2025 sales, completed end-June 2026) and a €1.2bn AirTrunk hyperscale data-centre contract in Sydney; civil-works backlog fell 18% against a high 2025 base.",
+  "news": [
+   {
+    "date": "2026-07-30",
+    "title": "Bouygues Construction (A W Edwards) wins €1.2bn expanded contract for AirTrunk's 400+ MW SYD3 data-centre campus in Sydney",
+    "url": "https://www.bouygues-construction.com/en/about-us/news/bouygues-construction-secures-expanded-contract-for-airtrunks-major-hyperscale-data-centre-campus-in-australia"
+   },
+   {
+    "date": "2026-07-30",
+    "title": "H1 2026: Bouygues Construction sales €5.3bn, order intake +15%, record H1 margin of 3.2%",
+    "url": "https://www.bouygues.com/app/uploads/docs/181071/Slide-presentation-H1-2026.pdf"
+   },
+   {
+    "date": "2026-07-02",
+    "title": "Bouygues Construction acquires US general contractor Vannoy Construction (~€870m revenue)",
+    "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-02-bouygues-construction-rachete-lamericain-vannoy.html"
+   },
+   {
+    "date": "2026-01-12",
+    "title": "Bouygues creates a single Construction Division (Colas, Bouygues Construction, Bouygues Immobilier) led by Pascal Minault and CEO Pierre-Éric Saint-André",
+    "url": "https://www.bouygues.com/wp-content/uploads/2026/01/pr_governanceconstructiondivision_en.pdf"
+   }
+  ],
+  "recruiting": "Large campus recruiter with a dedicated school-relations team based in Guyancourt; internships (typically 6 months, convention de stage) and apprenticeships are posted on its careers site and JobTeaser. Detailed interview steps for the Corporate Strategy internship are not published.",
+  "tinoAngle": "Your industrial ash-recovery project at AFOCO speaks directly to Bouygues Construction's low-carbon concrete and 90%-waste-diversion targets, and the new Construction Division, the Vannoy US deal and data-centre growth give a Corporate Strategy intern real integration and portfolio questions to work on.",
+  "careersUrl": "https://www.bouygues-construction.com/en/careers",
+  "website": "https://www.bouygues-construction.com",
+  "sources": [
+   "https://www.bouygues.com/app/uploads/docs/181071/Slide-presentation-H1-2026.pdf",
+   "https://www.bouygues.com/app/uploads/docs/127400/Le-communique-de-presse-T1-2026.pdf",
+   "https://www.bouygues.com/wp-content/uploads/2026/01/pr_governanceconstructiondivision_en.pdf",
+   "https://www.bouygues-construction.com/en/about-us/news/bouygues-construction-secures-expanded-contract-for-airtrunks-major-hyperscale-data-centre-campus-in-australia",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-02-bouygues-construction-rachete-lamericain-vannoy.html",
+   "https://www.orrick.com/en/News/2026/07/Bouygues-Construction-Acquires-Vannoy-Construction",
+   "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-30-bouygues-sur-orbite-porte-par-equans.html",
+   "https://www.globaldata.com/company-profile/Bouygues-Construction/",
+   "https://en.wikipedia.org/wiki/Bouygues"
+  ],
+  "updatedAt": "2026-10-26T08:42:24+01:00"
  }
 ]
