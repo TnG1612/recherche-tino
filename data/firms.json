@@ -345,12 +345,12 @@
   "hq": "Brussels, Belgium (registered office)",
   "paris": "Paris office at 7 place d'Iéna (16e) with 100+ consultants and ~16 partners in France (2025), led by Matteo Ainardi (Western Europe & France/Morocco), strong in telecoms, transport, consumer/luxury, automotive, energy and private equity (25-30% of activity).",
   "founded": "1886",
-  "employees": "2,000+ worldwide in ~40 offices (2026); 100+ consultants in France (2025)",
+  "employees": "2,000+ worldwide in ~40 offices (2026); 100+ consultants (Nov 2025) and 18 partners (Apr 2026) in Paris",
   "revenue": "Not disclosed (US unit $38m in 2025, said to be nearly 10% of global revenue, per Boston Globe 2026)",
   "ownership": "Independent, partner-owned since a 2011-12 management buyout from Altran",
   "description": "The world's oldest management consultancy, combining strategy with technology and innovation expertise. Mid-sized and European-centred, it targets mid-sized as well as large clients and is strong in the Middle East and Asia.",
   "sectors": "Telecoms/TIME, transport & airports, automotive & mobility, energy & utilities, consumer & luxury, chemicals/process industries, life sciences, private equity",
-  "health": "Stable and expanding selectively: new partners in Paris and Madrid (Apr 2026), Middle East and Tokyo promotions, a joint venture with Vega IT (Dec 2025), and a push to grow US revenue from $38m (2025) to ~$45m (2026).",
+  "health": "Stable and expanding selectively: Paris grew from 16 to 18 partners between November 2025 and April 2026, with an energy and aerospace-defence lateral hire and a Vega IT joint venture (Dec 2025). No layoffs were found, and Paris has a Business Analyst internship open for January 2027.",
   "news": [
    {
     "date": "2026-09-25",
@@ -358,19 +358,19 @@
     "url": "https://www.consultancy-me.com/news/14492/uae-leads-the-gulf-in-electric-driving-readiness-as-focus-shifts-beyond-the-vehicle"
    },
    {
-    "date": "2026-04-24",
-    "title": "ADL promotes two Paris partners and adds one in Madrid",
-    "url": "https://www.consultancy.eu/news/13559/arthur-d-little-appoints-new-partners-in-madrid-and-paris"
+    "date": "2026-07-08",
+    "title": "ADL Paris posts Business Analyst internship starting from January 2027",
+    "url": "https://www.consultor.fr/carrieres/offre-d-emploi/business-analyst-intern"
    },
    {
-    "date": "2026-03-16",
-    "title": "ADL aims to make the US its biggest market within a decade",
-    "url": "https://www.bostonglobe.com/2026/03/16/business/arthur-d-little-craig-wylie/"
+    "date": "2026-04-08",
+    "title": "ADL reaches 18 partners in Paris after electing Frédéric Duclos and Clément Samson",
+    "url": "https://www.consultor.fr/articles/arthur-d-little-18-associes-a-paris-apres-lelection-de-deux-nouveaux-associes"
    },
    {
-    "date": "2025-12-09",
-    "title": "ADL launches joint venture with Vega IT",
-    "url": "https://www.consulting.us/news/12753/arthur-d-little-launches-joint-venture-with-vega-it"
+    "date": "2025-11-11",
+    "title": "ADL Paris hires Grégoire de Belenet from Archery as energy and aerospace-defence partner",
+    "url": "https://www.consultor.fr/articles/arthur-d-little-recrute-un-associe-energie-et-aero-defense-chez-archery"
    }
   ],
   "recruiting": "Entry titles are Business Analyst (intern and graduate) then Consultant; recruitment is handled by the Paris office, targeting business and engineering schools, with case + fit interviews. Business Analyst intern postings appear through the year; French and English required.",
@@ -381,9 +381,13 @@
    "https://www.consultor.fr/cabinets/cabinet-conseil-strategie-adl-arthur-d-little-presentation-description",
    "https://www.bostonglobe.com/2026/03/16/business/arthur-d-little-craig-wylie/",
    "https://www.consultancy.eu/news/13559/arthur-d-little-appoints-new-partners-in-madrid-and-paris",
-   "https://www.consultancy.org/news/firm/arthur-d-little"
+   "https://www.consultancy.org/news/firm/arthur-d-little",
+   "https://www.consultor.fr/articles/arthur-d-little-18-associes-a-paris-apres-lelection-de-deux-nouveaux-associes",
+   "https://www.consultor.fr/articles/arthur-d-little-recrute-un-associe-energie-et-aero-defense-chez-archery",
+   "https://www.consultor.fr/carrieres/offre-d-emploi/business-analyst-intern",
+   "https://www.consultancy-me.com/firms/arthur-d-little/global-news"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "id": "l-e-k-consulting",
@@ -403,7 +407,7 @@
   "ownership": "Private partnership (owned by its partners)",
   "description": "Strategy consultancy founded by three former Bain partners, best known for private-equity due diligence, M&A and corporate strategy, with a rigorous analytical culture. Strong in life sciences and pricing.",
   "sectors": "Private equity & M&A, life sciences & healthcare, industrials & energy, consumer & retail, TMT, transport, financial services; pricing and operations",
-  "health": "Steady: regular partner promotions (incl. Paris, Jan 2026), senior lateral hires and a move to a larger New York office (Mar 2026); global managing partner Clay Heskett re-elected (Oct 2025). No layoffs reported.",
+  "health": "Steady: L.E.K. kept adding senior talent through 2026 (seven partner promotions in January, then lateral partners in Tokyo and global pricing) and moved to a larger New York office. No layoffs were found, though six of the seven 2026 partner promotions went to the US and only one, in Paris, to Europe.",
   "news": [
    {
     "date": "2026-10-15",
@@ -411,19 +415,19 @@
     "url": "https://www.consulting.us/news/14098/lek-consulting-re-elects-manny-picciola-as-americas-leader"
    },
    {
+    "date": "2026-09-18",
+    "title": "Bernard Kang joins L.E.K. as partner in its global pricing practice",
+    "url": "https://www.consultancy.org/news/firm/lek-consulting"
+   },
+   {
     "date": "2026-03-18",
-    "title": "L.E.K. moves to a bigger New York office",
+    "title": "L.E.K. moves to a bigger New York office and appoints a new market leader",
     "url": "https://www.consulting.us/news/13126/lek-consulting-moving-to-bigger-new-york-office-appoints-new-market-leader"
    },
    {
-    "date": "2026-01-15",
-    "title": "L.E.K. promotes Sébastien Beausoleil to partner in Paris",
-    "url": "https://www.consultancy.eu/news/12970/lek-consulting-promotes-sebastien-beausoleil-to-partner-in-paris-office"
-   },
-   {
-    "date": "2025-10-31",
-    "title": "Antonio Martínez joins L.E.K. to build Spain and Latin America",
-    "url": "https://www.consultancy.eu/news/12684/antonio-martinez-joins-lek-consulting-with-focus-on-spain-and-latin-america"
+    "date": "2026-01-20",
+    "title": "L.E.K. elects Operations principal Sébastien Beausoleil partner in Paris, one of seven worldwide",
+    "url": "https://www.consultor.fr/articles/l-e-k-elit-un-nouveau-partner-a-paris-3-ans-apres-son-recrutement-en-provenance-dalvarez-marsal"
    }
   ],
   "recruiting": "Entry titles are Analyst / Associate (and interns). Process: online numerical test in English, round 1 with two consultant interviews (market-sizing or strategy case + fit, one fully in English), round 2 with two partner case + fit interviews. Analytical rigour is weighted heavily.",
@@ -434,9 +438,10 @@
    "https://www.consultor.fr/cabinets/lek-cabinet-conseil-strategie",
    "https://managementconsulted.com/consulting-firm/l-e-k-consulting/",
    "https://www.consultancy.org/news/firm/lek-consulting",
-   "https://www.consultancy.eu/news/12970/lek-consulting-promotes-sebastien-beausoleil-to-partner-in-paris-office"
+   "https://www.consultancy.eu/news/12970/lek-consulting-promotes-sebastien-beausoleil-to-partner-in-paris-office",
+   "https://www.consultor.fr/articles/l-e-k-elit-un-nouveau-partner-a-paris-3-ans-apres-son-recrutement-en-provenance-dalvarez-marsal"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "id": "strategy-pwc",
@@ -452,32 +457,32 @@
   "hq": "London, United Kingdom (PwC network); Paris team in Neuilly-sur-Seine",
   "paris": "Around 200 consultants in Paris (Consultor) based at PwC's Neuilly-sur-Seine campus, with 22 partners in France after the 2023 promotions; led since July 2026 by Laurent Guérin.",
   "founded": "1914 (Booz heritage); Strategy& brand since 2014",
-  "employees": "About 4,000 consultants worldwide (Consultor, 2025-26); PwC network about 364,000 people (FY2025)",
-  "revenue": "PwC: $56.9bn (FY2025, year to June 2025); Strategy& not disclosed separately",
+  "employees": "4,500+ consultants in 75+ offices worldwide (Consultancy.uk, Aug 2026); PwC network 369,945 people (June 2026)",
+  "revenue": "PwC: $60.2bn (FY2026, year to June 2026), of which Advisory $25.8bn; Strategy& not disclosed separately",
   "ownership": "Part of PwC network",
   "description": "PwC's global strategy consulting brand, created when Booz & Company joined PwC in 2014. It combines classic strategy work with PwC's deals, operations and tech capabilities, positioning itself on 'strategy through execution'. Strong in M&A-related strategy (carve-outs, spin-offs, post-merger integration) and private equity value creation.",
   "sectors": "Energy & utilities, consumer goods & retail, aerospace & defence, TMT, financial services, private equity; also restructuring, operations and decarbonisation",
-  "health": "PwC grew only 2.7% in FY2025 and cut headcount 1.6%, but Strategy& is investing: it bought UK AI consultancy Datasparq (Aug 2026) and PwC Australia acquired Advancy Australia (Sept 2026). France saw a leadership change in July 2026; Paris was still posting junior roles in May 2026.",
+  "health": "Improving at network level: PwC's FY2026 revenue rose 3.5% at constant rates to $60.2bn, Advisory rose 3.0%, and headcount recovered to about 370,000, while Strategy& is buying AI skills through Datasparq. Junior hiring is the watch point: Management Consulted reports a fall 2026 pause in Strategy& full-time undergraduate recruiting (geography unstated, probably US; no France impact found), and PwC UK cut 200 graduate places in 2025.",
   "news": [
    {
-    "date": "2026-10-01",
-    "title": "PwC Australia completes acquisition of Advancy Australia for deals and value-creation work",
-    "url": "https://www.pwc.com.au/media/2026/PwC-Australia-invests-in-specialist-deals-expertise-with-acquisition-of-Advancy-Australia.html"
+    "date": "2026-10-19",
+    "title": "PwC reports FY2026 revenue of $60.2bn, up 3.5% at constant rates; Advisory $25.8bn",
+    "url": "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-announces-fy26-global-financial-performance.html"
+   },
+   {
+    "date": "2026-09",
+    "title": "Strategy& reported to pause full-time undergraduate recruiting this fall, probably US (undated article)",
+    "url": "https://managementconsulted.com/pwc-strategy-and-hiring-pause/"
    },
    {
     "date": "2026-08-27",
-    "title": "Strategy& acquires London AI and data consultancy Datasparq",
+    "title": "Strategy& agrees to buy London AI and data consultancy Datasparq (about 20 staff)",
     "url": "https://www.consultancy.uk/news/45488/datasparq-joins-strategy-to-strengthen-ai-and-data-capabilities-in-uk"
    },
    {
     "date": "2026-07-24",
     "title": "Laurent Guérin succeeds Edouard Bitton as head of Strategy& (France)",
     "url": "https://www.cfnews.net/L-actualite/Nominations/Conseil/Strategy-se-dote-d-un-nouveau-responsable-723325"
-   },
-   {
-    "date": "2025-08-01",
-    "title": "Strategy& partner Anne-Lise Glauser joins PwC France & Maghreb executive committee to lead strategy and investments",
-    "url": "https://www.consultor.fr/articles/pwc-france-et-maghreb-confie-sa-strategie-et-ses-investisseements-a-une-associee-de-strategy"
    }
   ],
   "recruiting": "Entry titles are intern/apprentice and Associate (junior consultant). Interns go through 4 interviews and graduates 5, each mixing fit and case study, conducted in both French and English (Consultor). Looks for top business/engineering school profiles with strong analytics and sector curiosity.",
@@ -490,9 +495,15 @@
    "https://news.bloombergtax.com/daily-tax-report-state/pwc-reports-second-year-of-slower-revenue-growth-lags-peers",
    "https://www.pwc.com/gx/en/news-room/press-releases/2025/pwc-global-revenues-rise.html",
    "https://www.consultancy.uk/news/45488/datasparq-joins-strategy-to-strengthen-ai-and-data-capabilities-in-uk",
-   "https://www.cfnews.net/L-actualite/Nominations/Conseil/Strategy-se-dote-d-un-nouveau-responsable-723325"
+   "https://www.cfnews.net/L-actualite/Nominations/Conseil/Strategy-se-dote-d-un-nouveau-responsable-723325",
+   "https://www.pwc.com/gx/en/news-room/press-releases/2026/pwc-announces-fy26-global-financial-performance.html",
+   "https://www.goingconcern.com/?p=1000902117",
+   "https://www.accountingtoday.com/news/pwc-grows-2026-global-revenue-to-60-2b",
+   "https://managementconsulted.com/pwc-strategy-and-hiring-pause/",
+   "https://www.consultancy.uk/news/45479/average-partner-pay-at-pwc-climbs-to-900000-following-cost-cutting",
+   "https://www.consultancy.uk/firms/pwc/news"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "id": "ey-parthenon",
@@ -508,32 +519,32 @@
   "hq": "London, United Kingdom (EY global); Parthenon originally Boston, USA",
   "paris": "In France about 650 consultants and 80 partners (2025), of which 200+ in Strategy & Transformation; Paris strategy teams sit at rue Saint-Lazare (9th) and move to One Monceau (8th) in 2026, with new regional offices in Bordeaux and Toulouse.",
   "founded": "1991 (Parthenon); EY-Parthenon since 2014",
-  "employees": "EY: 415,182 people (June 2026); EY-Parthenon France ~650 consultants (2025)",
+  "employees": "EY: 415,182 people (June 2026); EY-Parthenon about 25,000 professionals worldwide (2026); EY-Parthenon France ~650 consultants (2025)",
   "revenue": "EY: $57.0bn (FY2026, to June 2026); Strategy and Transactions (EY-Parthenon): $6.8bn (FY2026)",
   "ownership": "Part of EY network",
   "description": "EY's strategy and transactions brand, combining Parthenon's strategy consulting heritage with EY's transaction and corporate finance teams. In France it was built largely from the 2017 absorption of OC&C's Paris office and covers growth strategy, performance, due diligence, carve-outs and post-merger integration. About a third of missions involve other EY lines (consulting, law, sustainability).",
   "sectors": "Industry & mobility (automotive), retail & consumer goods, TMT; also financial services, public sector, health, education and energy",
-  "health": "Strong: EY's Strategy and Transactions line grew 7.4% in local currency to $6.8bn in FY2026, faster than EY overall (4.7%). France has grown about 10% a year since 2017 and kept expanding in 2026 (Toulouse office, larger Paris premises).",
+  "health": "Strong: Strategy and Transactions was EY's fastest-growing line in FY2026, up 7.4% in local currency to $6.8bn after 2.6% and 0% in the two prior years, helped by a recovering deal market, and SparkOptimus added its first European acquisition since 2021. No 2026 EY-Parthenon restructuring or graduate cuts were found, but EY's Americas headcount fell about 5% while growth came from global delivery centres.",
   "news": [
    {
+    "date": "2026-10-09",
+    "title": "EY reports $57bn FY2026 revenue; Strategy and Transactions reaches $6.8bn as its fastest-growing line",
+    "url": "https://www.cpapracticeadvisor.com/2026/10/09/ey-global-revenue-grows-to-57-billion-in-fy-2026/191353/"
+   },
+   {
     "date": "2026-10-08",
-    "title": "EY reports $57bn FY2026 revenue; Strategy and Transactions up 7.4% to $6.8bn",
-    "url": "https://www.ey.com/en_gl/newsroom/2026/10/ey-global-revenue-increases-4-point-7-percent-to-us-dollars-57b-for-fiscal-year-2026"
+    "title": "EY adds nearly 10,000 staff, mostly in global delivery, while the Americas shrinks about 5% (Business Insider)",
+    "url": "https://dnyuz.com/2026/10/08/ey-adds-nearly-10000-staff-globally-as-its-ai-business-booms/"
+   },
+   {
+    "date": "2026-08-28",
+    "title": "EY-Parthenon buys Dutch digital strategy firm SparkOptimus, its first European deal since 2021",
+    "url": "https://startupmap.iamsterdam.com/news/note/ey-parthenon-buys-dutch-digital-consultancy-sparkoptimus-in-first-european-deal-since-2021"
    },
    {
     "date": "2026-07-22",
     "title": "EY-Parthenon expands in south-west France with Bordeaux hires and a Toulouse office",
     "url": "https://www.cfnews.net/L-actualite/Nominations/Conseil/EY-Parthenon-garnit-ses-rangs-dans-le-Sud-Ouest-723015"
-   },
-   {
-    "date": "2025-05-02",
-    "title": "EY-Parthenon France hires Bayer health division's strategy director",
-    "url": "https://www.consultor.fr/devenir-consultant/guide-des-cabinets-de-conseil-en-strategie/cabinet-de-conseil-en-strategie-ey-parthenon.html"
-   },
-   {
-    "date": "2025-01-14",
-    "title": "Nicolas Atfi returns from Oliver Wyman as partner for StratOps / value creation",
-    "url": "https://www.consultor.fr/articles/ey-parthenon-come-back-dun-partner-en-provenance-doliver-wyman"
    }
   ],
   "recruiting": "Entry titles are intern, Associate Consultant and Senior Associate. Process has 3 rounds: a quantitative test plus one case, then two cases, then a final case (Consultor). French and English are expected; separate tracks exist for strategy and for transaction work (PMI/carve-out, due diligence).",
@@ -545,9 +556,13 @@
    "https://www.ey.com/en_gl/newsroom/2026/10/ey-global-revenue-increases-4-point-7-percent-to-us-dollars-57b-for-fiscal-year-2026",
    "https://www.cfnews.net/L-actualite/Nominations/Conseil/EY-Parthenon-garnit-ses-rangs-dans-le-Sud-Ouest-723015",
    "https://www.consultor.fr/articles/le-bureau-de-paris-d-oc-c-en-passe-de-ceder-aux-avances-d-ey",
-   "https://www.consultor.fr/articles/ey-parthenon-come-back-dun-partner-en-provenance-doliver-wyman"
+   "https://www.consultor.fr/articles/ey-parthenon-come-back-dun-partner-en-provenance-doliver-wyman",
+   "https://www.cpapracticeadvisor.com/2026/10/09/ey-global-revenue-grows-to-57-billion-in-fy-2026/191353/",
+   "https://dnyuz.com/2026/10/08/ey-adds-nearly-10000-staff-globally-as-its-ai-business-booms/",
+   "https://startupmap.iamsterdam.com/news/note/ey-parthenon-buys-dutch-digital-consultancy-sparkoptimus-in-first-european-deal-since-2021",
+   "https://www.consultancy.in/firms/ey-parthenon/global-news"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "id": "accenture-strategy",
@@ -562,32 +577,27 @@
   "hq": "Dublin, Ireland",
   "paris": "Accenture's Strategy & Consulting teams in France count about 1,500 people out of ~10,000 Accenture staff in the country (Jan 2025), including a ~100-person Technology Strategy team; strategy work covers M&A, strategic plans and large transformations.",
   "founded": "1989 (as Andersen Consulting; renamed Accenture 2001)",
-  "employees": "About 814,000 people globally (Oct 2026, Q4 FY2026 release); ~779,000 at Aug 2025",
+  "employees": "About 814,000 people globally (Aug 2026, FY2026 results); ~779,000 at Aug 2025",
   "revenue": "Accenture: $74.2bn (FY2026, to Aug 2026), of which Consulting $36.9bn; Strategy not disclosed separately",
   "ownership": "Listed (NYSE: ACN)",
   "description": "Strategy unit of Accenture's Strategy & Consulting business, merged organisationally with consulting since 2020. Positions itself on business strategy tied to technology and AI, with the ability to carry recommendations into implementation through the wider group.",
   "sectors": "Organised by industry matrix incl. automotive, industrial/manufacturing, utilities & energy, retail & consumer goods, aviation, financial services; plus functional practices (finance, HR, technology strategy)",
-  "health": "Mixed: FY2026 revenue grew 6% to $74.2bn, but Accenture ran an ~$865m restructuring in late 2025 (11,000+ cuts in one quarter) and keeps buying AI/data firms in Europe. In France, Consultor reported pay freezes, low staffing and morale issues in 2024-25.",
+  "health": "Recovering: FY2026 revenue rose 5% in local currency to $74.2bn, consulting accelerated to 7% in Q4 after 3% for the year, headcount rose to about 814,000, and $4.9bn went on 17 acquisitions, with FY2027 guided at 3-6%. Its severance-led optimisation programme ($615m in Q4 FY2025, $307.5m in FY2026) finished in Q1 FY2026, while the latest French morale evidence found (pay freezes, low staffing) dates from Consultor's 2024-25 reporting.",
   "news": [
    {
+    "date": "2026-10-13",
+    "title": "Accenture buys London data and customer-intelligence firm Sagacity (140+ staff) for Accenture Song",
+    "url": "https://stocktwits.com/news-articles/markets/equity/accenture-acquires-sagacity-to-expand-ai-driven-customer-services-in-uk-ireland/cZxBLMKRBor"
+   },
+   {
+    "date": "2026-10-05",
+    "title": "Accenture completes purchase of Danish software firm Mjølner Informatics (about 400 staff)",
+    "url": "https://newsroom.accenture.com/news/2026/accenture-completes-acquisition-of-mj-lner-informatics-bringing-deep-software-engineering-expertise-for-energy-utilities-and-manufacturing-clients-in-denmark"
+   },
+   {
     "date": "2026-10-01",
-    "title": "Accenture reports FY2026 revenue of $74.2bn, up 6%, with $84.5bn in bookings",
-    "url": "https://pulse2.com/accenture-reports-q4-revenue-of-18-7-billion-and-fy2026-revenue-of-74-2-billion/"
-   },
-   {
-    "date": "2026-07-02",
-    "title": "Accenture acquires Danish digital group Mjølner Informatics (400+ staff)",
-    "url": "https://www.consultancy.eu/news/firm/accenture/consulting/ma-in-consulting"
-   },
-   {
-    "date": "2026-04-08",
-    "title": "Accenture buys Spanish data and AI consultancy Keepler",
-    "url": "https://www.consultancy.eu/news/firm/accenture/consulting/ma-in-consulting"
-   },
-   {
-    "date": "2025-09-26",
-    "title": "Accenture announces job cuts and divestments as FY2026 growth outlook slows",
-    "url": "https://storyboard18.com/brand-marketing/accenture-to-cut-jobs-exit-acquisitions-as-growth-slows-in-fy26-81582.htm"
+    "title": "Accenture reports FY2026 revenue of $74.2bn, up 5% in local currency, and guides 3-6% growth for FY2027",
+    "url": "https://newsroom.accenture.com/content/4q-full-fy26-earnings/accenture-reports-fourth-quarter-and-full-year-fiscal-2026-results.pdf"
    }
   ],
   "recruiting": "Entry is via end-of-studies internship or Analyst/Consultant roles in strategy, often converted from internships. Candidate reports describe an online application, sometimes online tests, then 2-3 interviews mixing fit and business cases with managers and a senior manager/MD; fluent French and English required.",
@@ -600,9 +610,12 @@
    "https://www.consultor.fr/articles/accenture-france-le-blues-des-consultants-en-strategie",
    "https://www.consultor.fr/articles/accenture-strategy-les-dessous-de-la-reorganisation",
    "https://www.peoplematters.in/amp/news/strategic-hr/accenture-lays-off-11419-in-three-months-spends-dollar615m-on-severance-reports-46722",
-   "https://fr.glassdoor.ca/Entretien/Accenture-Entretien-E4138-RVW47939310.htm"
+   "https://fr.glassdoor.ca/Entretien/Accenture-Entretien-E4138-RVW47939310.htm",
+   "https://newsroom.accenture.com/content/4q-full-fy26-earnings/accenture-reports-fourth-quarter-and-full-year-fiscal-2026-results.pdf",
+   "https://newsroom.accenture.com/news/2026/accenture-completes-acquisition-of-mj-lner-informatics-bringing-deep-software-engineering-expertise-for-energy-utilities-and-manufacturing-clients-in-denmark",
+   "https://stocktwits.com/news-articles/markets/equity/accenture-acquires-sagacity-to-expand-ai-driven-customer-services-in-uk-ireland/cZxBLMKRBor"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "id": "publicis-sapient-strategy",
@@ -619,16 +632,16 @@
   "paris": "Publicis Sapient France runs a strategy practice (data, tech and business strategy) inside its 'SPEED' model; the original Paris strategy unit (~30 consultants) was wound down in 2023, but new managing directors joined in 2024-25 and it is again hiring Digital & AI Strategy juniors and interns in 2026.",
   "founded": "1990 (Sapient); part of Publicis Groupe since 2015",
   "employees": "Publicis Sapient: 20,000+ people in 72 offices (2026 job ad); Publicis Groupe ~114,000 (2025)",
-  "revenue": "Publicis Groupe net revenue €14.5bn (2025); Publicis Sapient not disclosed separately (Technology practice ~14% of group net revenue, 2025)",
+  "revenue": "Publicis Groupe net revenue €14.5bn (2025) and €11.04bn for the first nine months of 2026; Publicis Sapient not disclosed separately (Technology practice ~13% of group net revenue, 2026)",
   "ownership": "Part of Publicis Groupe (Euronext Paris: PUB)",
   "description": "Digital business transformation consultancy of Publicis Groupe, combining strategy, product, experience, engineering and data/AI. Its strategy team focuses on AI, data and technology strategy linked to delivery, using proprietary platforms (Slingshot, CoreAI).",
   "sectors": "Retail & consumer, financial services, pharma/health, transport & mobility, energy & utilities; Paris clients cited include Sonepar, Pfizer, Deutsche Bank",
-  "health": "Mixed: Publicis Groupe grew 5.6% organically in 2025 and 5% in Q3 2026, but its Technology (Sapient) practice was almost flat in 2025 on client caution. In France the strategy team saw many exits in 2023 and is being rebuilt around AI since 2024-25.",
+  "health": "Weak spot in a strong group: Publicis grew 5% organically in Q3 2026 and reaffirmed 4.5-5% for the year, but Technology, which includes Sapient, shrank in Q2 and Q3 as clients postponed large transformation projects. Management expects a return to global growth in Q4 and the US unit is already growing again, while Paris was rebuilding its strategy team around AI and still posting interns in September 2026.",
   "news": [
    {
     "date": "2026-10-14",
-    "title": "Publicis Groupe Q3 2026 revenue up 5%, beating forecasts on AI-driven demand",
-    "url": "https://adindex.ru/news/agencies/2026/10/14/349938.phtml"
+    "title": "Publicis Q3 up 5% organically, but Technology (Sapient) declines at a low-single-digit rate",
+    "url": "https://www.medianews4u.com/publicis-groupe-q3-2026-apac-growth-accelerates-to-5-4-as-china-delivers-double-digit-expansion/"
    },
    {
     "date": "2026-09-15",
@@ -636,14 +649,9 @@
     "url": "https://www.consultor.fr/carrieres/offre-d-emploi/junior-associate-consultant-digital-ai-strategy-stage"
    },
    {
-    "date": "2026-02",
-    "title": "Publicis FY2025: 5.6% organic growth, Technology practice almost flat",
-    "url": "https://www.publicisgroupe.com/sites/default/files/press-releases/2026-02/CP_FY%202025_ENG.pdf"
-   },
-   {
-    "date": "2025-09-30",
-    "title": "Bain enterprise-technology partner Stéphane Busse joins Publicis Sapient as MD",
-    "url": "https://www.consultor.fr/articles/publicis-sapient-recrute-un-responsable-de-practice-tech-de-bain"
+    "date": "2026-07-16",
+    "title": "Publicis raises 2026 outlook; Technology the only declining unit as clients postpone transformation projects",
+    "url": "https://www.marketingdirecto.com/marketing-general/agencias/publicis-acelera-gracias-ia-mejora-previsiones-2026/amp"
    }
   ],
   "recruiting": "Entry titles are Junior Associate Consultant (intern) and Associate Consultant in Digital & AI Strategy. 2026 ads target final-year or gap-year students from top business/engineering schools, value a prior international strategy/business internship, and require fluent French and English; interview format is not published (expect fit and case interviews).",
@@ -655,9 +663,12 @@
    "https://www.consultor.fr/articles/laccompagnement-des-clients-tel-que-nous-lavons-connu-nest-plus-ce-quattend-le-marche-xavier-cimino-et-lise-malbernard-publicis-sapient",
    "https://www.consultor.fr/carrieres/offre-d-emploi/junior-associate-consultant-digital-ai-strategy-stage",
    "https://www.publicisgroupe.com/sites/default/files/press-releases/2026-02/CP_FY%202025_ENG.pdf",
-   "https://adindex.ru/news/agencies/2026/10/14/349938.phtml"
+   "https://adindex.ru/news/agencies/2026/10/14/349938.phtml",
+   "https://www.medianews4u.com/publicis-groupe-q3-2026-apac-growth-accelerates-to-5-4-as-china-delivers-double-digit-expansion/",
+   "https://www.marketingdirecto.com/marketing-general/agencias/publicis-acelera-gracias-ia-mejora-previsiones-2026/amp",
+   "https://www.odwyerpr.com/story/public/25440/2026-10-13/publicis-enjoys-5-q3-growth.html"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "id": "oc-c-strategy-consultants",
@@ -3660,5 +3671,469 @@
    "https://en.wikipedia.org/wiki/Bouygues"
   ],
   "updatedAt": "2026-10-26T08:42:24+01:00"
+ },
+ {
+  "id": "sncf",
+  "name": "SNCF",
+  "aliases": [
+   "SNCF Voyageurs",
+   "Groupe SNCF"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Campus Étoiles, 2 place aux Étoiles, 93200 Saint-Denis, France",
+  "paris": "Head office in Saint-Denis, just north of Paris, where the TGV Europe market strategy internship is based. Group headcount in France was 218,700 at H1 2026; the size of the strategy teams is not disclosed. Relevant teams: SNCF Voyageurs strategy, the group's strategy and finance function and the CEO's Cabinet.",
+  "founded": "1938 (1 January); reorganised as a state-owned holding on 1 January 2020",
+  "employees": "285,600 worldwide, including 218,700 in France (H1 2026)",
+  "revenue": "€43.0bn (2025); €21.9bn (H1 2026, +2.0% at constant scope and exchange rates)",
+  "ownership": "100% French State (since 1983)",
+  "description": "SNCF is France's state-owned railway group, covering passenger rail through SNCF Voyageurs, the network through SNCF Réseau, and public transport through Keolis. It also holds Rail Logistics Europe and Eurostar, and it is led by CEO Jean Castex.",
+  "sectors": [
+   "Rail transport",
+   "Public transport",
+   "Mobility",
+   "Logistics"
+  ],
+  "health": "H1 2026 revenue reached €21.9bn with EBITDA of €3.8bn (17.4% margin), net income of €1.2bn and net debt down to €23.6bn, after 2025 net income of €1.8bn. SNCF Voyageurs is being reshaped: Christophe Fanichet left as CEO in July 2026, the Destination 2030 plan was dropped, and a lighter organisation is due in early 2027.",
+  "news": [
+   {
+    "date": "2026-07-29",
+    "title": "SNCF : plus d'un milliard d'euros de bénéfices et une dette en baisse",
+    "url": "https://www.economiematin.fr/?p=229075"
+   },
+   {
+    "date": "2026-07-28",
+    "title": "Groupe SNCF: H1 2026 results press release",
+    "url": "https://www.groupe-sncf.com/medias-publics/2026-07/cp-resultats-semestriels-2026-groupe-sncf.pdf"
+   },
+   {
+    "date": "2026-07-23",
+    "title": "Jean Castex takes back control of SNCF Voyageurs",
+    "url": "https://www.voyages-d-affaires.com/en/?p=227107"
+   },
+   {
+    "date": "2026-02-26",
+    "title": "Groupe SNCF: 2025 annual financial results press release",
+    "url": "https://www.groupe-sncf.com/medias-publics/2026-02/cp-resultats-financiers-annuels-2025-groupe-sncf.pdf"
+   }
+  ],
+  "recruiting": "Entry titles seen: internships and apprenticeships in strategy and CEO-office roles, plus CDI and CDD on emploi.sncf.com. Intake for strategy roles: Not disclosed. Process per a third-party guide (ResumeGeni): online application, recruiter phone screen, possible case study for corporate roles, then one or two interviews with the hiring manager and HR.",
+  "tinoAngle": "Your Madrid sales internship, your Spanish and your import/export logistics experience give you a real angle on the TGV Europe market strategy internship, and the CEO Cabinet internship would put you close to the SNCF Voyageurs reorganisation due in early 2027.",
+  "careersUrl": "https://emploi.sncf.com",
+  "website": "https://www.groupe-sncf.com/en",
+  "sources": [
+   "https://www.groupe-sncf.com/medias-publics/2026-07/cp-resultats-semestriels-2026-groupe-sncf.pdf",
+   "https://www.groupe-sncf.com/medias-publics/2026-02/cp-resultats-financiers-annuels-2025-groupe-sncf.pdf",
+   "https://www.voyages-d-affaires.com/en/?p=227107",
+   "https://www.economiematin.fr/?p=229075",
+   "https://www.groupe-sncf.com/en/group/history-archives/80-years-of-history",
+   "https://en.wikipedia.org/wiki/SNCF",
+   "https://www.engagement-jeunes.com/fr/company/10827/sncf/backstage.html",
+   "https://resumegeni.com/companies/sncf/how-to-apply"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "talan",
+  "name": "Talan",
+  "aliases": [
+   "Talan Consulting"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "Paris, France",
+  "paris": "Paris is the group base, with offices mainly in the 16th arrondissement and the Marais (Hellowork listing, July 2026). Talan's consulting arm counts over 800 people worldwide (February 2026), targeting 1,500 by 2030; the Paris split is not disclosed. Relevant teams: strategy consulting built around Nova Consulting (acquired April 2025), and the in-house M&A Strategy team.",
+  "founded": "2002 (predecessor Telease Consulting, 1989)",
+  "employees": "Over 6,200 in 22 countries (July 2026)",
+  "revenue": "€830m (2024); €1bn+ was forecast for 2025, but the 2025 outcome is not disclosed",
+  "ownership": "Private; TowerBrook has backed the group since 2020 (stake not disclosed), and up to 1,500 employees are shareholders (2025)",
+  "description": "Talan is an international consulting and technology group focused on transforming organisations through technology, data and innovation. It is pushing upstream into strategy consulting, positioning itself to work with CEOs from strategic idea through to delivery rather than competing head-on with traditional strategy firms.",
+  "sectors": [
+   "Consulting",
+   "Data and AI",
+   "Technology transformation"
+  ],
+  "health": "Revenue grew to €830m in 2024 after four acquisitions that year, with the founder forecasting more than €1bn for 2025, though no confirmed 2025 figure was found. François Soubien, ex-McKinsey, became group CEO on 1 January 2026 and aims to lift consulting from about 20% to 30% of activity by 2030, with more than 50 qualified M&A targets on the roadmap.",
+  "news": [
+   {
+    "date": "2026-07-01",
+    "title": "Mehdi Houas élu Président de Numeum",
+    "url": "https://numeum.fr/wp-content/uploads/2026/07/Numeum-CP-election-Mehdi-Houas-2026.07.01.docx.pdf"
+   },
+   {
+    "date": "2026-02-09",
+    "title": "De McKinsey à Talan : le pari du nouveau CEO Group François Soubien",
+    "url": "https://www.consultor.fr/articles/de-mckinsey-a-talan-le-pari-du-nouveau-ceo-group-francois-soubien"
+   },
+   {
+    "date": "2026-01-23",
+    "title": "François Soubien nommé CEO de Talan Group",
+    "url": "https://managers.tn/2026/01/23/francois-sobien-nomme-ceo-de-talan-group/"
+   },
+   {
+    "date": "2025-11-25",
+    "title": "Talan, success-story du conseil français : Mehdi Houas, le boss « à 200 % »",
+    "url": "https://www.consultor.fr/articles/talan-success-story-du-conseil-francais-mehdi-houas-le-boss-a-200"
+   }
+  ],
+  "recruiting": "Entry titles seen: Stage Consultant EPM and Stage Consultant IA & Transformation Digitale (Paris, listing updated October 2026), alongside the strategy consulting and M&A Strategy internships. Graduate and Junior levels are filters on the job board. Intake: Not disclosed. Process: Not disclosed.",
+  "tinoAngle": "Your strategy master's and your interest in AI strategy fit Talan's push to carry CEOs from strategic idea to technology delivery, and the in-house M&A Strategy internship would put you next to a roadmap of more than 50 qualified targets.",
+  "careersUrl": "https://www.talan.com/global/en/join-us/our-job-offers",
+  "website": "https://talan.com/global/en",
+  "sources": [
+   "https://www.consultor.fr/articles/de-mckinsey-a-talan-le-pari-du-nouveau-ceo-group-francois-soubien",
+   "https://www.consultor.fr/articles/talan-success-story-du-conseil-francais-mehdi-houas-le-boss-a-200",
+   "https://www.consultor.fr/articles/talan-mise-sur-lacquisition-de-nova-consulting-pour-faire-sa-place-dans-le-conseil-en-strategie",
+   "https://numeum.fr/wp-content/uploads/2026/07/Numeum-CP-election-Mehdi-Houas-2026.07.01.docx.pdf",
+   "https://managers.tn/2026/01/23/francois-sobien-nomme-ceo-de-talan-group/",
+   "https://talan.com/global/en/francois-soubien",
+   "https://talan.com/global/en/acquisition-nova-consulting-talan-accelerates-its-growth-consulting-market-and-strengthens-its-global-presence",
+   "https://cfnews.net/in-the-news/TALAN-2507?page=1",
+   "https://my.motherbase.ai/corporate/43229-talan/?page=2",
+   "https://www.hellowork.com/fr-fr/emplois/63281111.html",
+   "https://www.talan.com/global/en/join-us/our-job-offers?page=4",
+   "https://www.the-intelligence-academy.com/job-board/offre/stage-consultant-ia-transformation-digitale-talan-group-2889"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "soci-t-g-n-rale",
+  "name": "Société Générale",
+  "aliases": [
+   "Société Générale – Inspection Générale",
+   "Societe Generale",
+   "SG"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris – La Défense, France",
+  "paris": "The General Inspection is based at La Défense, with about 100 inspectors plus regulatory affairs and support teams (2027 programme posting). The bank has about 40,000 employees in France (January 2026). Relevant team: General Inspection, which reviews strategy, risk and process efficiency across the group.",
+  "founded": "Not disclosed",
+  "employees": "About 40,000 in France (January 2026); worldwide figure Not disclosed",
+  "revenue": "Net banking income €27.3bn (2025); €21.4bn (9M 2026, +4.1%)",
+  "ownership": "Listed on Euronext Paris (GLE); CEO Slawomir Krupa",
+  "description": "Société Générale is a French banking group, described as France's third-largest bank, active in retail banking, insurance, private banking and global banking and investor solutions. Its General Inspection is a demanding junior track that sends inspectors on missions across business and service units in France and abroad.",
+  "sectors": [
+   "Banking",
+   "Financial services",
+   "Insurance"
+  ],
+  "health": "Net income was €6.0bn in 2025, and Q3 2026 reached €1,888m (+24.1%) with a 13.0% ROTE, putting the bank on track to beat its full-year target of about 11%. Management keeps cutting costs, with 1,800 French job cuts planned by end-2027 without forced layoffs, and it is preparing a new strategic roadmap.",
+  "news": [
+   {
+    "date": "2026-10-29",
+    "title": "Société Générale: profit up 24% in third quarter, ROTE at 13%",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/societe-generale-profit-up-24-in-third-quarter-rote-at-13/28127.html"
+   },
+   {
+    "date": "2026-07-30",
+    "title": "Société Générale dépasse les attentes avec un bénéfice record et relève ses objectifs",
+    "url": "https://www.abcbourse.com/marches/societe-generale-depasse-les-attentes-avec-un-benefice-record-et-releve-ses-obje_700663"
+   },
+   {
+    "date": "2026-02-06",
+    "title": "4th quarter and full year 2025 results",
+    "url": "https://www.societegenerale.com/en/news/press-release/4th-quarter-and-full-year-2025-results"
+   },
+   {
+    "date": "2026-01-22",
+    "title": "Société Générale says to cut 1,800 French jobs by 2027",
+    "url": "https://www.thelocal.fr/20260122/societe-generale-says-to-cut-1800-french-jobs-by-2027"
+   }
+  ],
+  "recruiting": "Entry title: Inspector, General Inspection Graduate Program 2027, a CDI with a 3-year junior programme starting 31 August 2027, 4 to 6 month missions and a 2026 starting package of €55k excluding bonus and travel allowances. Programme intake and selection steps: Not disclosed; no 2027 deadline is stated, but the 2025 edition closed on 30 November 2024, so apply early. Across the group, 259 VIE and 1,500 work-study students were hired in 2025.",
+  "tinoAngle": "Your Singapore internship and your Madrid experience show the mobility the General Inspection demands, and the programme's 1 September 2027 start would suit you right after graduation, with your Spanish as an added asset.",
+  "careersUrl": "https://careers.societegenerale.com/en/students-graduates",
+  "website": "https://www.societegenerale.com/en",
+  "sources": [
+   "https://www.ideal-investisseur.fr/en/stock-news/societe-generale-profit-up-24-in-third-quarter-rote-at-13/28127.html",
+   "https://www.abcbourse.com/marches/societe-generale-depasse-les-attentes-avec-un-benefice-record-et-releve-ses-obje_700663",
+   "https://www.societegenerale.com/en/news/press-release/4th-quarter-and-full-year-2025-results",
+   "https://www.thelocal.fr/20260122/societe-generale-says-to-cut-1800-french-jobs-by-2027",
+   "https://espace-emploi.agefiph.fr/candidat/offres/offre-d-emploi-auditor-bankingla-defense-ile-de-france-banque-finance-assurances-cdi-21777659",
+   "https://www.jobteaser.com/en/companies/societe-generale/newsfeed/ffb79d3e-dc3e-4ed6-844c-4b890936814f-join-our-general-inspection-program",
+   "https://careers.societegenerale.com/en/students-graduates"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "kpmg-strategy",
+  "name": "KPMG Strategy",
+  "aliases": [
+   "KPMG",
+   "KPMG France",
+   "KPMG Strategy Group"
+  ],
+  "type": "Big4 strategy arm",
+  "hq": "La Défense, France (KPMG France headquarters)",
+  "paris": "KPMG Strategy has about 150 experts (March 2026). KPMG France is headquartered at La Défense; the former GSG strategy practice moved to the 8th arrondissement in January 2020, and its current location was not confirmed. Relevant teams: growth strategy, due diligence, integration and carve-outs, operating model transformation, and private equity.",
+  "founded": "KPMG Strategy launched March 2026, replacing GSG (France, 2019), whose team dates from 2015",
+  "employees": "About 150 at KPMG Strategy (March 2026); 6,600 at KPMG in France (page undated)",
+  "revenue": "KPMG Strategy: Not disclosed. KPMG France: €1.55bn (FY to 30 September 2024), with Advisory at €502m; €1.1bn excluding the small-business activity divested in June 2025 (page undated)",
+  "ownership": "KPMG S.A., French member firm of the global KPMG network, governed by a management board and a supervisory board",
+  "description": "KPMG Strategy is KPMG France's strategy consulting and operational transactions line, launched in March 2026 for executives of large companies, mid-caps and investment funds. It supports decisions on growth, acquisitions, divestments and transformation, from strategic vision through to execution.",
+  "sectors": [
+   "Strategy consulting",
+   "Transaction advisory",
+   "Private equity",
+   "AI and data"
+  ],
+  "health": "The unit is in a turbulent phase: Consultor reported in July 2026 that the supervisory board removed two management board members, including Advisory head Damien Allo, amid a KPMG International governance audit, with press reports of Advisory losses and partner departures that KPMG France did not confirm. Direction now sits with Mathieu Schohn, who oversees KPMG Strategy while Inès Omri keeps operational lead, and the firm continues to refocus on large accounts and mid-caps.",
+  "news": [
+   {
+    "date": "2026-07-29",
+    "title": "KPMG renouvelle son état-major après l'éviction des patrons du conseil et de l'audit",
+    "url": "https://www.consultor.fr/articles/kpmg-renouvelle-son-etat-major-apres-leviction-des-patrons-du-conseil-et-de-laudit"
+   },
+   {
+    "date": "2026-07-25",
+    "title": "KPMG : éviction du directoire pour le pilote des activités Advisory qui supervise KPMG Strategy",
+    "url": "https://www.consultor.fr/articles/kpmg-eviction-du-directoire-pour-le-pilote-des-activites-advisory-qui-supervise-kpmg-strategy"
+   },
+   {
+    "date": "2026-03-13",
+    "title": "KPMG France renforce son conseil en stratégie et transactions opérationnelles",
+    "url": "https://kpmg.com/fr/fr/media/press-releases/2026/03/kpmg-strategy-conseil-croissance-transactions.html"
+   }
+  ],
+  "recruiting": "Entry title: Consultant Stagiaire Corporate Strategy (Paris), with applications through emplois.kpmg.fr. Intake: Not disclosed. Process: Not disclosed.",
+  "tinoAngle": "Your strategy consulting master's fits KPMG Strategy's scope from market positioning to execution, and your AFOCO project lead role gives you a concrete operational case to bring, though you should ask how the team has settled since the July 2026 leadership changes.",
+  "careersUrl": "https://emplois.kpmg.fr",
+  "website": "https://kpmg.com/fr/fr",
+  "sources": [
+   "https://kpmg.com/fr/fr/media/press-releases/2026/03/kpmg-strategy-conseil-croissance-transactions.html",
+   "https://www.consultor.fr/articles/kpmg-eviction-du-directoire-pour-le-pilote-des-activites-advisory-qui-supervise-kpmg-strategy",
+   "https://www.consultor.fr/articles/kpmg-renouvelle-son-etat-major-apres-leviction-des-patrons-du-conseil-et-de-laudit",
+   "https://www.consultor.fr/articles/dans-les-coulisses-du-lancement-de-gsg-la-marque-de-conseil-en-strategie-de-kpmg",
+   "https://www.consultancy.eu/news/3693/kpmgs-french-strategy-consulting-practice-moves-to-paris-centre",
+   "https://kpmg.com/fr/fr/media/press-releases/2025/01/resultats-solides-kpmg-en-france.html",
+   "https://kpmg.com/fr/fr/media/press-releases/2025/06/kpmg-en-france-clients-grands-comptes-eti.html",
+   "https://kpmg.com/content/kpmgpublic/fr/fr/home/a-propos-de-kpmg/chiffres-et-references.html",
+   "https://kpmg.com/fr/fr/home/media/press-releases.html"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "sanofi",
+  "name": "Sanofi",
+  "aliases": [],
+  "type": "Corporate strategy",
+  "hq": "46 avenue de la Grande Armée, 75017 Paris, France",
+  "paris": "Registered head office in the 17th arrondissement, with Gentilly and Vitry-sur-Seine among the main early-career locations nearby (13 and 20 openings in November 2026). France holds 108 of 218 early-career openings. Relevant teams: Digital Data & Technology and Transformation & Project Management; the size of the digital/AI unit is not disclosed.",
+  "founded": "1973 (per justETF company profile)",
+  "employees": "74,846 (end-2025)",
+  "revenue": "Net sales €43.6bn (2025, +9.9% at constant exchange rates); €36.6bn (9M 2026, +15.2% at constant exchange rates)",
+  "ownership": "Listed on Euronext Paris and Nasdaq; L'Oréal holds 7.4% (undated figure from ABC Bourse)",
+  "description": "Sanofi is a Paris-based global biopharmaceutical group active in pharma and vaccines, with immunology blockbuster Dupixent as its main growth engine. Belén Garijo became CEO in April 2026, with a stated priority of strengthening R&D productivity, governance and innovation capacity.",
+  "sectors": [
+   "Pharmaceuticals",
+   "Vaccines",
+   "Biotechnology"
+  ],
+  "health": "Q3 2026 net sales rose 14.3% at constant exchange rates to €14,444m and business EPS reached €3.55, leading Sanofi to raise its 2026 guidance to low-teens sales growth and mid-teens EPS growth. Dupixent made €5.7bn in the quarter, so management's stated priority is protecting earnings through its loss of exclusivity, with M&A described as critical to the transformation.",
+  "news": [
+   {
+    "date": "2026-10-30",
+    "title": "Q3 2026: double-digit growth in sales and business EPS; FY 2026: guidance upgraded",
+    "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-30-06-30-00-3392028"
+   },
+   {
+    "date": "2026-04-23",
+    "title": "Sanofi's New CEO Taking the Helm: What Will Be the Growth Strategy?",
+    "url": "https://www.dcatvci.org/features/sanofis-new-ceo-taking-the-helm-what-will-be-the-growth-strategy/"
+   },
+   {
+    "date": "2026-01-30",
+    "title": "Sanofi FY2025 sales results",
+    "url": "https://www.pharmaceutical-technology.com/news/sanofi-fy2025-sales-results/"
+   }
+  ],
+  "recruiting": "Entry titles: 6-month internships, 12-month apprenticeships and VIE contracts, with 218 early-career openings in November 2026, including 203 apprentice or intern roles, 4 VIE and 1 graduate role. Annual intake: Not disclosed. Process: Not disclosed in detail; the careers site offers guides on the recruitment process, CVs and interviews.",
+  "tinoAngle": "Your interest in AI strategy fits the Product Strategy & Operations internship in the digital/AI unit, where your consulting training and your Singapore experience can help you turn AI projects into operating plans for a global group.",
+  "careersUrl": "https://jobs.sanofi.com/en",
+  "website": "https://www.sanofi.com/en",
+  "sources": [
+   "https://www.sanofi.com/en/media-room/press-releases/2026/2026-10-30-06-30-00-3392028",
+   "https://www.dcatvci.org/features/sanofis-new-ceo-taking-the-helm-what-will-be-the-growth-strategy/",
+   "https://www.pharmaceutical-technology.com/news/sanofi-fy2025-sales-results/",
+   "https://www.abcbourse.com/analyses/chiffres/SANp",
+   "https://jobs.sanofi.com/en/business/custom_fields.careerarea/early careers/2649/5",
+   "https://www.justetf.com/fr-be/stock-profiles/FR0000120578"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "orano",
+  "name": "Orano",
+  "aliases": [
+   "Orano Group"
+  ],
+  "type": "Corporate strategy",
+  "hq": "125 avenue de Paris, Châtillon (Hauts-de-Seine), France",
+  "paris": "Head office in Châtillon, just south of Paris, where the Chargé de mission Stratégie role sits. Orano has about 18,500 employees (2026); head office size is not disclosed. Relevant teams: the Stratégie department within the Clients, Strategy, Marketing and Communication direction, working with the M&A direction.",
+  "founded": "2018 under the Orano name, after the restructuring of Areva (formed 2001)",
+  "employees": "18,500 (2026)",
+  "revenue": "€5,138m (2025); €2,696m (H1 2026, +2.1% at constant scope and exchange rates)",
+  "ownership": "French State 90%, Japan Nuclear Fuel Limited 5%, Mitsubishi Heavy Industries 5%, CEA one share (undated, Connaissance des Énergies)",
+  "description": "Orano is a French nuclear fuel cycle group covering uranium mining, conversion, enrichment, used fuel recycling, transport, dismantling and waste management. It also develops nuclear medicine through Orano Med.",
+  "sectors": [
+   "Nuclear energy",
+   "Mining",
+   "Recycling and waste management",
+   "Nuclear medicine"
+  ],
+  "health": "H1 2026 EBITDA fell to €595m from €727m after climate-related stoppages, and adjusted net income was -€39m, although reported net income rose to €173m and the backlog stood at €34.4bn. The group confirmed its 2026 revenue outlook of about €5.3bn and is prioritising enrichment investment, with €1.7bn planned for 2026, while its dispute with Niger remains unresolved.",
+  "news": [
+   {
+    "date": "2026-08-31",
+    "title": "Relance du nucléaire : comment Orano mise sur l'alternance et les stages pour forger ses talents de demain",
+    "url": "https://www.lemoniteur.fr/construction-et-talents/article/relance-du-nucleaire-comment-orano-mise-sur-l-alternance-et-les-stages-pour-forger-ses-talents-de-demain.2353110"
+   },
+   {
+    "date": "2026-07-31",
+    "title": "Orano préserve ses objectifs 2026 malgré des arrêts de production",
+    "url": "https://www.connaissancedesenergies.org/afp/orano-penalise-par-plusieurs-arrets-de-production-maintient-ses-objectifs-2026-260731"
+   },
+   {
+    "date": "2026-02-20",
+    "title": "Orano entre dans une nouvelle phase d'investissements",
+    "url": "https://www.connaissancedesenergies.org/afp/orano-entre-dans-une-nouvelle-phase-dinvestissements-260220"
+   }
+  ],
+  "recruiting": "Entry titles: stage, alternance and CDI, including Chargé de mission Stratégie and an Analyste Stratégie alternance seen in 2026. Intake: more than 1,500 CDI hires in 2026, nearly 1,000 interns and work-study students a year, and one in two end-of-studies interns stays on CDD or CDI. Roles can require an administrative security check; the 2026 internship campaign opened on 24 October 2025, and interview steps are not disclosed.",
+  "tinoAngle": "Your AFOCO project on valorising industrial waste and CSR ash gives you a direct link to Orano's recycling and waste management activities, which is a concrete story for the Chargé de mission Stratégie role in Châtillon.",
+  "careersUrl": "https://jobs.orano.group/fr_FR",
+  "website": "https://www.orano.group/en",
+  "sources": [
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2026/07/FCBWR168964_20260731.pdf",
+   "https://echanges.dila.gouv.fr/OPENDATA/AMF/BWR/2026/02/FCBWR166630_20260220.pdf",
+   "https://www.connaissancedesenergies.org/afp/orano-penalise-par-plusieurs-arrets-de-production-maintient-ses-objectifs-2026-260731",
+   "https://www.connaissancedesenergies.org/afp/orano-entre-dans-une-nouvelle-phase-dinvestissements-260220",
+   "https://www.connaissancedesenergies.org/fiche-pedagogique/orano-ex-areva",
+   "https://www.lemoniteur.fr/construction-et-talents/article/relance-du-nucleaire-comment-orano-mise-sur-l-alternance-et-les-stages-pour-forger-ses-talents-de-demain.2353110",
+   "https://www.jobteaser.com/fr/companies/orano/newsfeed/fb700bae-19a7-42ad-8330-eeadcaab43f3-orano-lance-sa-campagne-de-stages-2026",
+   "https://jobs.orano.group/fr_FR/jobs/JobDetail/Analyste-Strat-gie-F-H/13858"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "air-france-klm",
+  "name": "Air France-KLM",
+  "aliases": [
+   "Air France",
+   "HOP!",
+   "Air France KLM"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Roissypôle complex, Charles de Gaulle Airport (Tremblay-en-France), Paris area, France",
+  "paris": "Head office at Roissy-Charles de Gaulle, with most Air France work-study roles at Roissy and Orly (2026). Paris-area headcount is not disclosed. Relevant teams: internal consulting and project management at HOP!, plus group strategy.",
+  "founded": "2004 (5 May, merger of Air France and KLM)",
+  "employees": "80,394 (MarketScreener, undated); 77,806 (2023, Wikipedia)",
+  "revenue": "€33.0bn (2025); €16.8bn (H1 2026, +7.4%)",
+  "ownership": "Listed; French State 27.98%, Dutch State 9.13%, CMA CGM 8.80%, China Eastern 4.58%, Delta 2.79% (December 2024)",
+  "description": "Air France-KLM is a Franco-Dutch airline group whose wholly owned businesses include Air France, KLM, Transavia, cargo and maintenance activities and the regional carrier Air France Hop. CEO Benjamin Smith is pursuing European consolidation, including a larger stake in SAS and a bid for TAP Air Portugal.",
+  "sectors": [
+   "Airlines",
+   "Cargo",
+   "Aircraft maintenance",
+   "Travel"
+  ],
+  "health": "2025 operating result rose to €2.0bn (6.1% margin), but H1 2026 net result was -€61m as the 2026 fuel bill climbed to about $8.9bn, up $2.0bn, and capacity growth was trimmed to 2-3%. The group is still expanding: it plans to raise its SAS stake from 19.9%, subject to EU approval, and submitted a final offer for up to 49.9% of TAP in September 2026.",
+  "news": [
+   {
+    "date": "2026-10-01",
+    "title": "Air France-KLM submits 'final offer' for up to 49.9% stake in TAP Air Portugal",
+    "url": "https://centreforaviation.com/news/air-france-klm-submits-final-offer-for-up-to-499-stake-in-tap-air-portugal-1374134"
+   },
+   {
+    "date": "2026-07-30",
+    "title": "Air France-KLM, Lufthansa file binding bids for TAP",
+    "url": "https://econews.pt/2026/07/30/air-france-klm-lufthansa-file-binding-bids-for-tap/"
+   },
+   {
+    "date": "2026-04-30",
+    "title": "Air France-KLM Cuts Capacity Outlook As Fuel Bill Jumps $2.4 Billion",
+    "url": "https://finance.yahoo.com/sectors/energy/articles/air-france-klm-cuts-capacity-173522285.html"
+   },
+   {
+    "date": "2026-02-19",
+    "title": "Air France-KLM: Full Year 2025 results",
+    "url": "https://www.nasdaq.com/press-release/full-year-2025-2026-02-19"
+   }
+  ],
+  "recruiting": "Entry titles: internships and work-study contracts, including the HOP! internal consulting and project management role. Air France opened more than 800 work-study positions in its 2026 campaign, across functions including finance, marketing and supply chain, with online applications on its job site. Watch hiring closely: in April 2026 the group said it had stopped hiring support staff, and interview steps are not disclosed.",
+  "tinoAngle": "Your hospitality season in Australia and your import/export logistics internship give you both the customer and the operations view that the HOP! internal consulting and project management role needs.",
+  "careersUrl": "https://www.jobteaser.com/fr/companies/air-france/newsfeed",
+  "website": "https://www.airfranceklm.com",
+  "sources": [
+   "https://www.nasdaq.com/press-release/full-year-2025-2026-02-19",
+   "https://www.airfranceklm.com/sites/default/files/2026-07/q2_2026-afklm-results-presentation.pdf",
+   "https://finance.yahoo.com/sectors/energy/articles/air-france-klm-cuts-capacity-173522285.html",
+   "https://centreforaviation.com/news/air-france-klm-submits-final-offer-for-up-to-499-stake-in-tap-air-portugal-1374134",
+   "https://econews.pt/2026/07/30/air-france-klm-lufthansa-file-binding-bids-for-tap/",
+   "https://www.paxnews.com/news/airline/air-france-klm-take-majority-stake-scandinavian-airline-sas",
+   "https://en.wikipedia.org/wiki/Air_France%E2%80%93KLM",
+   "https://www.marketscreener.com/quote/stock/AIR-FRANCE-KLM-4604/company-shareholders/",
+   "https://www.air-journal.fr/?p=275082",
+   "https://www.air-journal.fr/tag/hop"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "id": "amundi",
+  "name": "Amundi",
+  "aliases": [],
+  "type": "Corporate strategy",
+  "hq": "91-93 boulevard Pasteur, 75015 Paris, France",
+  "paris": "Head office in the 15th arrondissement; Paris headcount is not disclosed. Relevant teams: the Strategy, Finance and Control division led by Deputy CEO Nicolas Calcoen, and the small business strategy team behind the Business Strategy Analyst internship.",
+  "founded": "2010, by merging the asset-management arms of Crédit Agricole and Société Générale",
+  "employees": "About 5,400 in 34 countries (2025)",
+  "revenue": "Adjusted net revenues €3,417m (2025); €908m (Q3 2026, +11.3%). Assets under management €2,579bn (end-September 2026)",
+  "ownership": "Listed; Crédit Agricole Group 68.4%, free float 26%, employees 2.2%, treasury shares 3.5% (30 September 2026)",
+  "description": "Amundi is Europe's leading asset manager and the only European firm in the global top 10, covering active management, ETFs, private markets and technology services through Amundi Technology. It is a listed subsidiary of Crédit Agricole, led by CEO Valérie Baudson since 2021.",
+  "sectors": [
+   "Asset management",
+   "ETFs",
+   "Private markets",
+   "Financial technology"
+  ],
+  "health": "Nine-month 2026 adjusted net income rose 21.6% to €1,189m, with net inflows of €102bn excluding transfers linked to an Indian institutional mandate, and assets of €2,579bn. Under its 2025-28 plan, Amundi is building private markets through a 9.9% ICG stake completed in September 2026 and expanding ETFs, which reached €432bn.",
+  "news": [
+   {
+    "date": "2026-10-29",
+    "title": "Amundi: adjusted net income of €409 million in third quarter, driven by record net inflows over nine months",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/amundi-adjusted-net-income-of-eur409-million-in-third-quarter-driven-by-record-net-inflows-over-nine-months/28131.html"
+   },
+   {
+    "date": "2026-09-17",
+    "title": "Amundi : Amundi finalise son investissement dans ICG",
+    "url": "https://www.tradingsat.com/amundi-FR0004125920/actualites/amundi-amundi-finalise-son-investissement-dans-icg-1170268.html"
+   },
+   {
+    "date": "2026-02-03",
+    "title": "Fourth quarter and full-year 2025 results",
+    "url": "https://int.media.amundi.com/article/fourth-quarter-and-full-year-2025-results"
+   },
+   {
+    "date": "2025-11-18",
+    "title": "Amundi boosts private markets offering with 10pc stake in ICG",
+    "url": "https://alternativecreditinvestor.com/2025/11/18/amundi-boosts-private-markets-offering-with-10-stake-in-icg/"
+   }
+  ],
+  "recruiting": "Entry titles: 6-month internships year-round, apprenticeships, VIE and first permanent positions. Intake: 1,300 students in 2024 (35% outside France), 200+ work-study contracts in France and about 100 VIE a year in 15+ countries. Process: online application, CV pre-selection, online verbal, logic and English tests, then managerial and HR interviews.",
+  "tinoAngle": "Your Singapore internship and your interest in AI strategy give you an angle on Amundi's Asian business and Amundi Technology, and the Business Strategy Analyst internship's small ex-BCG team suits your wish to build consulting-style skills early.",
+  "careersUrl": "https://about.amundi.com/our-job-board",
+  "website": "https://about.amundi.com",
+  "sources": [
+   "https://www.ideal-investisseur.fr/en/stock-news/amundi-adjusted-net-income-of-eur409-million-in-third-quarter-driven-by-record-net-inflows-over-nine-months/28131.html",
+   "https://www.boursedirect.fr/fr/actualites/categorie/resultats/amundi-pres-de-2600-mde-sous-gestion-boursier-370545d88ff4eb62f03ad2fe3687cb478f7d9d5e",
+   "https://www.tradingsat.com/amundi-FR0004125920/actualites/amundi-amundi-finalise-son-investissement-dans-icg-1170268.html",
+   "https://int.media.amundi.com/article/fourth-quarter-and-full-year-2025-results",
+   "https://alternativecreditinvestor.com/2025/11/18/amundi-boosts-private-markets-offering-with-10-stake-in-icg/",
+   "https://about.amundi.com/shareholder-hub",
+   "https://about.amundi.com/valerie-baudson",
+   "https://about.amundi.com/students",
+   "https://about.amundi.com/our-student-experience-amundi",
+   "https://uk.finance.yahoo.com/quote/AMDUF/profile",
+   "https://about.amundi.com/our-history"
+  ],
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  }
 ]

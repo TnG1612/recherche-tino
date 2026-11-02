@@ -8,7 +8,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "mckinsey-company-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "BCG",
@@ -19,7 +19,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "bcg-2027-associate-consultant-london",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Roland Berger",
@@ -30,7 +30,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "roland-berger-junior-consultant-2027-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
+  "updatedAt": "2026-11-02T08:52:16+01:00",
   "note": "London summer internship 2027 is still open until 4 Jan 2027 (intervyo internship tracker)."
  },
  {
@@ -42,7 +42,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "ey-parthenon-2027-graduate-programmes-uk-12-programmes",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
+  "updatedAt": "2026-11-02T08:52:16+01:00",
   "deadlineNote": "TBC (tracker no longer shows a deadline)"
  },
  {
@@ -54,20 +54,20 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "l-e-k-consulting-2027-london-associate",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
+  "updatedAt": "2026-11-02T08:52:16+01:00",
   "note": "London Summer Associate 2027 is open until 3 Jan 2027."
  },
  {
   "org": "OC&C",
   "programme": "Associate Consultant 2027-28 (London)",
   "zone": "UK / London",
-  "status": "Open",
+  "status": "Closed",
   "deadline": "2026-11-01",
-  "note": "Summer internship 2027 closes 4 Jan 2027.",
+  "note": "Closed on 1 Nov.",
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "oc-c-associate-consultant-2027-28-london",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Accenture Strategy",
@@ -78,7 +78,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "accenture-strategy-2027-28-strategy-graduate-programme-london",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Strategy&",
@@ -89,32 +89,32 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "strategy-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
-  "note": "Opened 14 Sep."
+  "updatedAt": "2026-11-02T08:52:16+01:00",
+  "note": "Tracker still shows it open, but one report (Management Consulted, undated) says Strategy& paused full-time undergraduate hiring this fall, probably in the US; confirm before investing time."
  },
  {
   "org": "Bain & Company",
   "programme": "2027 Graduate Programme (UK)",
   "zone": "UK / London",
-  "status": "Open",
-  "deadlineNote": "TBC",
+  "status": "Closed",
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "bain-company-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
-  "note": "Intervyo shows it as open with no deadline, but careertestprep reports 15 Oct, so it may be closed."
+  "updatedAt": "2026-11-02T08:52:16+01:00",
+  "note": "Bright Network lists a 15 Oct 2026 deadline, although Intervyo still shows no date.",
+  "deadline": "2026-10-15"
  },
  {
   "org": "Kearney",
   "programme": "2027 Graduate Programme (UK)",
   "zone": "UK / London",
-  "status": "Open",
+  "status": "Closed",
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "kearney-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
+  "updatedAt": "2026-11-02T08:52:16+01:00",
   "deadline": "2026-10-27",
-  "note": "Opened 28 Sep and closes tomorrow (27 Oct), so apply today."
+  "note": "Closed on 27 Oct."
  },
  {
   "org": "Oliver Wyman",
@@ -125,7 +125,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "oliver-wyman-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00",
+  "updatedAt": "2026-11-02T08:52:16+01:00",
   "note": "Tracker still shows TBC; the OW London summer internship 2027 is open until 15 Jan 2027."
  },
  {
@@ -137,7 +137,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "monitor-deloitte-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Simon-Kucher",
@@ -148,7 +148,7 @@
   "source": "Intervyo UK consulting tracker",
   "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
   "id": "simon-kucher-2027-graduate-programme-uk",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Strategia Partners",
@@ -208,19 +208,19 @@
   "source": "Consultor",
   "url": "https://www.consultor.fr/carrieres/offre-d-emploi",
   "id": "arthur-d-little-business-analyst-intern-paris",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Société Générale",
   "programme": "General Inspection Graduate Program 2027 - Inspector",
   "zone": "Paris / Île-de-France",
   "status": "Open",
-  "deadlineNote": "No deadline stated; starts 1 Sep 2027",
+  "deadlineNote": "No deadline stated; starts 1 Sep 2027 (posted 1 Sep 2026)",
   "note": "Banking audit and consulting graduate track at La Défense that often leads to strategy roles; posted 1 Sep 2026.",
   "source": "Société Générale Careers",
   "url": "https://careers.societegenerale.com/en/sg_careers_offers_entity/96846",
   "id": "soci-t-g-n-rale-general-inspection-graduate-program-2027-inspector",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "BCG",
@@ -244,7 +244,7 @@
   "source": "EDB Careers",
   "url": "https://www.edb.gov.sg/en/careers/associate-programme",
   "id": "singapore-economic-development-board-edb-edb-associate-programme-2027",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  },
  {
   "org": "Enterprise Singapore",
@@ -256,6 +256,99 @@
   "source": "Enterprise Singapore",
   "url": "https://www.enterprisesg.gov.sg/about-us/careers/for-students-and-graduates/Management-Associate-Programme",
   "id": "enterprise-singapore-management-associate-programme",
-  "updatedAt": "2026-10-26T08:42:24+01:00"
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "Bain & Company",
+  "programme": "Associate Consultant Intern (Paris)",
+  "zone": "Paris / Île-de-France",
+  "status": "Not open yet",
+  "deadlineNote": "2027 dates not announced; last cycle took applications 1 Jan-28 Feb, with interviews in Mar-Apr",
+  "source": "Consultor offer page",
+  "url": "https://www.consultor.fr/carrieres/offre-d-emploi/associate-consultant-intern-2",
+  "id": "bain-company-associate-consultant-intern-paris",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "Roland Berger",
+  "programme": "Junior Consultant 2027 (Paris)",
+  "zone": "Paris / Île-de-France",
+  "status": "Rolling",
+  "deadlineNote": "No deadline stated; apply button live on 2 Nov",
+  "note": "Asks for 6 months of professional experience, a cover letter, and familiarity with AI tools in analytical work.",
+  "source": "Roland Berger careers",
+  "url": "https://www.rolandberger.com/en/Join/All-Jobs/Junior-Consultant(e)-(F-H)-2027-REF4412M.html",
+  "id": "roland-berger-junior-consultant-2027-paris",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "McKinsey & Company",
+  "programme": "Business Analyst Intern, Tech & AI (Paris, 6 months)",
+  "zone": "Paris / Île-de-France",
+  "status": "Rolling",
+  "deadlineNote": "No deadline stated on the page",
+  "note": "A technical or engineering background is listed as preferred, not mandatory.",
+  "source": "McKinsey careers",
+  "url": "https://www.mckinsey.com/careers/search-jobs/jobs/businessanalystintern-techai-112014?loc=Paris",
+  "id": "mckinsey-company-business-analyst-intern-tech-ai-paris-6-months",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "DBS",
+  "programme": "2027 Management Associate Programme (Business and Support Units, Singapore)",
+  "zone": "Asia",
+  "status": "Open",
+  "deadlineNote": "No closing date stated; shortlisted candidates contacted by November 2026, so apply now if at all",
+  "note": "Starts 5 Jul 2027; 12 months. Listed tracks are banking, markets, legal, risk and operations, with no dedicated strategy track.",
+  "source": "DBS careers / Built In Singapore",
+  "url": "https://builtinsingapore.com/job/2027-management-associate-programme-business-and-support-units/10927798",
+  "id": "dbs-2027-management-associate-programme-business-and-support-units-singapore",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "FTI Consulting",
+  "programme": "2027 Graduate Schemes (London)",
+  "zone": "UK / London",
+  "status": "Open",
+  "deadline": "2026-11-20",
+  "source": "Intervyo UK consulting tracker",
+  "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
+  "id": "fti-consulting-2027-graduate-schemes-london",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "Elixirr",
+  "programme": "2027 Graduate Programme (UK)",
+  "zone": "UK / London",
+  "status": "Open",
+  "deadlineNote": "TBC (opened 21 Sep)",
+  "source": "Intervyo UK consulting tracker",
+  "url": "https://www.intervyo.co.uk/tracker/consulting-graduate-scheme",
+  "id": "elixirr-2027-graduate-programme-uk",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "AlphaSights",
+  "programme": "Associate, Client Service, French Speaker, 2027 (London)",
+  "zone": "UK / London",
+  "status": "Open",
+  "deadline": "2026-11-20",
+  "note": "Expert-network role, not strategy consulting: see Discover. Check your UK right to work.",
+  "source": "TARGETjobs",
+  "url": "https://targetjobs.co.uk/jobs/associate-client-service-french-speaker-2027-231454",
+  "id": "alphasights-associate-client-service-french-speaker-2027-london",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
+ },
+ {
+  "org": "European Commission",
+  "programme": "Blue Book traineeship, October 2027 session",
+  "zone": "Europe",
+  "status": "Not open yet",
+  "deadline": "2027-03-12",
+  "note": "Applications open 15 Feb 2027 at 10:00 Brussels time.",
+  "source": "European Commission traineeships site",
+  "url": "https://traineeships.ec.europa.eu/de",
+  "id": "european-commission-blue-book-traineeship-october-2027-session",
+  "updatedAt": "2026-11-02T08:52:16+01:00"
  }
 ]
