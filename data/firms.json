@@ -1019,11 +1019,11 @@
   "ownership": "Independent, partner-owned (employees targeted to hold ~25% of capital)",
   "description": "One of France's oldest independent strategy firms, founded by former Centrale Paris strategy professor Thomas Durand. It works for corporates, public bodies and private equity funds (strategic due diligence), and added transformation, StratOps and ESG capabilities through its 2022 merger with Cepheïd Consulting. It is part of a European 'Consulting for Capital' alliance with Germany's Codex and the UK's Fairgrove.",
   "sectors": "Private equity due diligence, public sector & local authorities, pharma/health, telecom/tech, energy & infrastructure, consumer goods & retail, building & real estate",
-  "health": "Revenue plateaued around €20m in 2024–2025, but the firm is investing: Milan office (April 2026), planned acquisitions and sector expansion into industry, defence/aerospace, energy and financial services. Partnership rose from 14 to 17 in September 2026 and it claims market-share gains.",
+  "health": "Revenue plateaued around €20m in 2024–2025 (Consultor, March 2026), but the firm keeps investing: Norska health-consulting acquisition (~15 consultants, September 2025), a firm-wide AI-agent platform (November 2025), a Milan office (April 2026) and expansion into industry, defence/aerospace, energy and financial services. The partnership rose from 14 to 17 in September 2026, including a new aerospace & defence/transport partner from Indefi.",
   "news": [
    {
     "date": "2026-09-09",
-    "title": "Partnership grows from 14 to 17 with a hire from Indefi and two promotions",
+    "title": "Partnership grows from 14 to 17: Marc Durance joins from Indefi to lead aerospace & defence and transport, plus two promotions",
     "url": "https://www.consultor.fr/articles/un-recrutement-et-deux-promotions-internes-le-partnership-de-cmi-passe-de-14-a-17-associes"
    },
    {
@@ -1032,9 +1032,9 @@
     "url": "https://www.consultor.fr/articles/cmi-1986-2026-un-anniversaire-et-des-ambitions"
    },
    {
-    "date": "2025-04-29",
-    "title": "European alliance with Codex and Fairgrove to win cross-border PE deals",
-    "url": "https://www.consultor.fr/articles/une-nouvelle-alliance-entre-cmi-un-britannique-et-un-allemand-pour-gagner-des-deals-europeens"
+    "date": "2025-11-06",
+    "title": "CMI rolls out ~30 in-house AI agents, claiming up to 70% time saved on proposals",
+    "url": "https://www.consultor.fr/articles/cmi-jusqua-70-de-temps-gagne-grace-a-des-agents-ia"
    }
   ],
   "recruiting": "Hires about 10–20 people a year (internships and permanent), mostly juniors from business, engineering schools and Sciences Po. Round 1: motivation interview, market sizing and a synthesis exercise; round 2: business case plus discussion with a director or partner. Strategy consultant internships in Paris are posted regularly (e.g. February 2026).",
@@ -1046,9 +1046,12 @@
    "https://www.consultor.fr/articles/cmi-1986-2026-un-anniversaire-et-des-ambitions",
    "https://www.consultor.fr/articles/un-recrutement-et-deux-promotions-internes-le-partnership-de-cmi-passe-de-14-a-17-associes",
    "https://www.consultancy.uk/news/40181/fairgrove-cmi-and-codex-launch-multi-disciplinary-consulting-for-capital-offering",
-   "https://www.jobteaser.com/en/companies/cmi-strategies"
+   "https://www.jobteaser.com/en/companies/cmi-strategies",
+   "https://www.consultor.fr/articles/cmi-jusqua-70-de-temps-gagne-grace-a-des-agents-ia",
+   "https://www.consultor.fr/articles/cmi-se-renforce-dans-la-sante-avec-une-acquisition-en-france",
+   "https://www.cfnews.net/L-actualite/Nominations/Conseil/CMI-etoffe-ses-expertises-729521"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  },
  {
   "id": "ares-co",
@@ -1067,12 +1070,17 @@
   "ownership": "Independent, partner-owned",
   "description": "Small strategy and management consulting boutique specialised exclusively in financial services, founded by Olivier Dupin (ex-Mars & Co, Roland Berger). It serves commercial, development and central banks, insurers, mutuals, investment funds and fintechs on strategy, regulation, operating models, due diligence, analytics and sustainable finance. Nearly 400 missions to date.",
   "sectors": "Banking, insurance & mutuals, private banking/wealth, investment funds, fintech; practices in strategy, advanced analytics, finance & risk, digital, M&A/due diligence",
-  "health": "In a growth phase despite a tougher 2026 market: hired an insurance partner from TNP (May 2026) and a banking partner ex-CVA/Kearney (September 2026), reaching 5 partners. Targets about 70 consultants in the medium term.",
+  "health": "In a growth phase despite a tougher 2026 market: hired an insurance partner from TNP (May 2026) and a banking partner ex-CVA/Kearney (September 2026), reaching 5 partners, and targets about 70 consultants in the medium term (Consultor, May 2026). Its PE due diligence associate partner moved to a senior advisor role in June 2026 while still supporting deals. Revenue is not disclosed.",
   "news": [
    {
     "date": "2026-09-11",
     "title": "Ares & Co hires ex-CVA/Kearney partner to strengthen banking practice",
     "url": "https://www.consultor.fr/articles/ares-co-muscle-sa-practice-banque-avec-un-ancien-de-cva-et-kearney"
+   },
+   {
+    "date": "2026-06-03",
+    "title": "PE due diligence associate partner Giovanni di Francesco steps back to senior advisor to co-found NEO Operating Strategy",
+    "url": "https://www.consultor.fr/articles/ares-co-changement-de-role-pour-un-specialiste-du-private-equity"
    },
    {
     "date": "2026-05-07",
@@ -1089,9 +1097,10 @@
    "https://www.consultor.fr/articles/ares-co-se-dote-dun-nouvel-associe-assurance",
    "https://www.consultor.fr/articles/ares-co-muscle-sa-practice-banque-avec-un-ancien-de-cva-et-kearney",
    "https://www.consultor.fr/carrieres/offre-d-emploi/business-analyst",
-   "https://www.aresandco.com"
+   "https://www.aresandco.com",
+   "https://www.consultor.fr/articles/ares-co-changement-de-role-pour-un-specialiste-du-private-equity"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  },
  {
   "id": "bartle-strategy-innovation",
@@ -1105,13 +1114,18 @@
   "hq": "Paris, France",
   "paris": "Paris (rue Legendre, 17th) is the head office; about 50 consultants work on strategy topics (Consultor, 2026) within a 300+ consultant firm that also has Lille, Montpellier, Rennes, Brussels and Geneva offices.",
   "founded": "2005",
-  "employees": "300+ consultants, of which ~50 on strategy (bartle.fr / Consultor, 2026)",
-  "revenue": "Not disclosed",
+  "employees": "300+ consultants overall (bartle.fr, 2026); strategy practice of 4 partners and 70 dedicated/hybrid consultants (Consultor, November 2026)",
+  "revenue": "Not disclosed overall; strategy practice about €10m, ~20% of activity (Consultor, November 2026)",
   "ownership": "Independent, founder/partner-owned",
   "description": "Independent multi-disciplinary management consultancy founded by two ex-KPMG Consulting partners, covering strategy, transformation, customer experience, operations, data/AI and sustainability. Strategy work is spread across sector communities rather than a standalone practice. B Corp certified since 2019.",
   "sectors": "Financial services & insurance, energy & utilities, retail/FMCG/luxury, industry & agri-food, transport & mobility, public sector",
-  "health": "Reports 30–40% organic growth per year in recent years (company website, undated); strategy work is growing in financial services and energy while retail/luxury is recovering after a sharp drop (Consultor, 2026). Recruits end-of-studies interns with a view to hiring them.",
+  "health": "The firm grew 15% in H1 2026 and its strategy practice grew 48% year on year to about €10m, roughly 20% of activity (Consultor, November 2026). Bartle targets 25% of revenue from strategy within three years, with a plan due end of March 2027, and intends to hire about ten experienced consultants to managers (possibly partners). Energy/utilities and financial services are growing while retail/luxury recovers.",
   "news": [
+   {
+    "date": "2026-11-20",
+    "title": "Bartle wants to shake up strategy consulting: strategy practice up 48% to ~€10m with 70 consultants; ~10 hires planned",
+    "url": "https://www.consultor.fr/articles/bartle-veut-chambouler-le-marche-du-conseil-en-strategie"
+   },
    {
     "date": "2026-08-27",
     "title": "Bartle and Cog'X publish research on team cooperation (1,300 people, 180 teams)",
@@ -1131,9 +1145,11 @@
    "https://www.consultor.fr/cabinets/bartle",
    "https://bartle.fr",
    "https://www.carenews.com/annuaire/bartle",
-   "https://www.consultor.fr/carrieres/offre-d-emploi/analyste-h-f-offre-de-stage"
+   "https://www.consultor.fr/carrieres/offre-d-emploi/analyste-h-f-offre-de-stage",
+   "https://www.consultor.fr/articles/bartle-veut-chambouler-le-marche-du-conseil-en-strategie",
+   "https://www.consultor.fr/associes/max-herve-dujardin"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  },
  {
   "id": "bnp-paribas-cib-consulting-transformation",
@@ -1148,13 +1164,18 @@
   "hq": "Paris, France",
   "paris": "Paris is the main hub of the in-house team, alongside London and Lisbon in EMEA plus teams in the Americas and APAC; team headcount is not published.",
   "founded": "2009 (CIB Consulting; CIB Transformation added 2015); BNP Paribas group formed in 2000",
-  "employees": "Group: nearly 178,000 (BNP Paribas, end-2024, reported Feb 2026); team size not disclosed",
+  "employees": "Group: more than 180,000 (BNP Paribas, October 2026); team size not disclosed",
   "revenue": "Group: €51.2bn revenue and ~€12.2bn net income (2025)",
   "ownership": "Listed (Euronext Paris: BNP)",
   "description": "BNP Paribas CIB's in-house strategy and management consulting team, positioned as an alternative to external firms for the bank's corporate & institutional banking businesses. It covers strategy framing, diagnostics, target operating models and implementation roadmaps, with specialist streams in Smartsourcing (near/offshoring) and RegTech.",
   "sectors": "Corporate banking, global markets, securities services, and CIB functions (IT, operations, HR, regulation)",
-  "health": "Group is strong: 2025 revenue up 4.9% to €51.2bn with 2028 targets raised (Feb 2026), and Q2 2026 net income up 33% with CIB revenue up 12.7% (July 2026). No public data on the team's own growth.",
+  "health": "The group is strong: 2025 revenue rose 4.9% to €51.2bn, and Q3 2026 revenue grew 9.5% to €13.76bn with net income up 13.5% to €3.46bn, while CIB revenue rose 16.6% to €5.2bn (October 2026). 2028 targets were confirmed and a new 2030 strategic plan is due on 2 February 2027. No public data on the consulting team's own growth.",
   "news": [
+   {
+    "date": "2026-10-28",
+    "title": "Q3 2026: net income +13.5% to €3.46bn; CIB revenue +16.6% to €5.2bn on record equities; €1.3bn buyback",
+    "url": "https://www.euronews.com/2026/10/28/bnp-paribas-downplays-french-debt-exposure-as-stock-trading-lifts-profit"
+   },
    {
     "date": "2026-07-23",
     "title": "BNP Paribas Q2 2026 net income up 33%; CIB revenue up 12.7%",
@@ -1175,9 +1196,11 @@
    "https://choosemycompany.com/en/certified-reviews/164636.bnp-paribas-cib-consulting/infos",
    "https://www.nasdaq.com/articles/bnp-paribas-q4-net-income-rises-increases-2028-objectives",
    "https://group.bnpparibas/en/press-release/bnp-paribas-group-results-as-of-31-december-2025",
-   "https://www.teleborsa.it/AMP/News/2026/07/23/bnp-paribas-utile-netto-balza-a-4-35-miliardi-33-4percent-in-crescita-i-ricavi-di-tutte-le-divisioni-33.html"
+   "https://www.teleborsa.it/AMP/News/2026/07/23/bnp-paribas-utile-netto-balza-a-4-35-miliardi-33-4percent-in-crescita-i-ricavi-di-tutte-le-divisioni-33.html",
+   "https://www.euronews.com/2026/10/28/bnp-paribas-downplays-french-debt-exposure-as-stock-trading-lifts-profit",
+   "https://group.bnpparibas/en/press-release/bnp-paribas-group-results-as-of-30-september-2026"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  },
  {
   "id": "totalenergies",
@@ -1197,8 +1220,13 @@
   "ownership": "Listed (Euronext Paris & NYSE: TTE), CAC 40",
   "description": "Integrated energy major spanning oil & gas, LNG, refining & chemicals, marketing and a fast-growing Integrated Power (renewables, gas power, storage) segment. Operates in 100+ countries and posted adjusted net income of $15.6bn in 2025. Saft, its battery subsidiary, makes batteries for industry, transport, defence and energy storage.",
   "sectors": "Oil & gas upstream, Integrated LNG, Integrated Power (renewables, storage, Saft batteries), Refining & Chemicals, Marketing & Services",
-  "health": "2025 net income fell 17% to $13.1bn on lower oil prices, but ROACE of 12.6% stayed best among majors and 2025 buybacks reached $7.5bn. H1 2026 rebounded sharply (net income $11.2bn, +72%) on Middle East-driven high prices, despite conflict-related production losses; board backs CEO Pouyanné's renewal to 2033.",
+  "health": "2025 net income fell 17% to $13.1bn on lower oil prices, but ROACE of 12.6% stayed best among majors. 2026 has rebounded on Middle East-driven prices: Q3 2026 adjusted net income reached $9.1bn (+51% vs Q2) with net income of $8.3bn, gearing fell to 9.1% and $2.5bn of buybacks per quarter continue (October 2026), though ~$1.9bn of impairments hit offshore wind and a Korean petrochemical stake. The board backs CEO Pouyanné's renewal to 2033.",
   "news": [
+   {
+    "date": "2026-10-29",
+    "title": "Q3 2026 adjusted net income $9.1bn (+51% q/q) on record refining margins; $2.5bn quarterly buyback",
+    "url": "https://finviz.com/news/411109/totalenergies-se-third-quarter-2026-results"
+   },
    {
     "date": "2026-10-12",
     "title": "Adds 700 MW US solar portfolio (~$1.2bn) to its renewables JV with KKR",
@@ -1213,11 +1241,6 @@
     "date": "2026-09",
     "title": "Signs $1.8bn partnership with BlackRock's GIP on African midstream infrastructure",
     "url": "https://www.investegate.co.uk/announcement/bzw/totalenergies-se--tte/totalenergies-signs-an-agreement-with-gip-on-/9779320"
-   },
-   {
-    "date": "2026-07-24",
-    "title": "Q2 2026 net income doubles to $5.4bn on Middle East price spike",
-    "url": "https://www.offshore-technology.com/news/totalenergies-5-4bn-net-income-q2-2026/"
    }
   ],
   "recruiting": "Offers internships (6-month 'stage conventionné' with a convention required, typically end-of-studies, e.g. M&A or strategic-studies internships at La Défense), work-study contracts, VIE and graduate programmes, all via careers.totalenergies.com. Applications are by CV + cover letter stating internship dates; alternance is not accepted on full-time internship offers.",
@@ -1230,9 +1253,10 @@
    "https://www.sec.gov/Archives/edgar/data/879764/000110465926035876/tot-20251231xex15d1.htm",
    "https://www.offshore-technology.com/news/totalenergies-5-4bn-net-income-q2-2026/",
    "https://totalenergies.com/fr/node/20591",
-   "https://jobs.totalenergies.com/en_US/careers/JobDetail/Stage-Analyste-M-A-H-F/82259"
+   "https://jobs.totalenergies.com/en_US/careers/JobDetail/Stage-Analyste-M-A-H-F/82259",
+   "https://finviz.com/news/411109/totalenergies-se-third-quarter-2026-results"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  },
  {
   "id": "danone",
@@ -1253,8 +1277,13 @@
   "ownership": "Listed (Euronext Paris: BN), CAC 40",
   "description": "Global food & beverage group focused on health: Essential Dairy & Plant-Based (Activia, Alpro), Specialized Nutrition (Aptamil, Nutricia medical nutrition) and Waters (Evian, Volvic). Sells in 120+ countries and is B Corp certified.",
   "sectors": "Essential Dairy & Plant-Based, Specialized (infant & medical) Nutrition, Waters",
-  "health": "2025 like-for-like sales grew 4.5% with recurring operating margin up 44bp to 13.4%, though reported sales were flat (-0.3%) on FX. Under 'Renew Danone – Chapter 2', H1 2026 margin reached 13.3% and 2026 guidance (+3–5% LFL) was confirmed, while the group steps up bolt-on M&A.",
+  "health": "2025 like-for-like sales grew 4.5% with recurring operating margin up 44bp to 13.4%. Under 'Renew Danone – Chapter 2', H1 2026 margin reached 13.3%, and Q3 2026 sales rose 4% LFL (5.2% reported) to €7.23bn, driven mainly by price (+3.6pts) with volume/mix +0.4pts (October 2026). The 2026 guidance of +3–5% LFL was confirmed, alongside continued bolt-on M&A (Huel, Made Group).",
   "news": [
+   {
+    "date": "2026-10-28",
+    "title": "Q3 2026 sales +4% LFL to €7.23bn; guidance confirmed; COO Vikram Agarwal to retire in early 2027",
+    "url": "https://www.foodbev.com/news/danone-reports-4-sales-growth-in-third-quarter-coo-vikram-agarwal-to-retire"
+   },
    {
     "date": "2026-07-29",
     "title": "H1 2026: net income +13% to €1.18bn, 2026 guidance reaffirmed",
@@ -1269,11 +1298,6 @@
     "date": "2026-03-23",
     "title": "Agrees to acquire meal-replacement brand Huel",
     "url": "https://www.hl.co.uk/shares/stock-market-news/company--news/danone-to-buy-huel-for-undisclosed-sum"
-   },
-   {
-    "date": "2026-02-20",
-    "title": "FY2025: +4.5% LFL sales, margin up to 13.4%",
-    "url": "https://www.nasdaq.com/press-release/danone-2025-another-year-strong-delivery-2026-02-20"
    }
   ],
   "recruiting": "Internships are posted on careers.danone.com and JobTeaser, typically 6 months with January, March or July starts (e.g. a 'Stage Global Strategy' for Jan/Mar 2027 at Paris HQ), paid ~€1,300–1,500 gross/month and requiring a convention de stage. Danone is 'Happy Trainees' certified and also runs graduate/VIE roles internationally.",
@@ -1286,9 +1310,10 @@
    "https://www.foodnavigator.com/Article/2026/06/22/danone-to-acquire-made-group/",
    "https://www.sustainabilityreports.com/danone/2025/universal-registration-document",
    "https://www.danone.com/fr/newsroom/communiques-de-presse/new-headquarters-la-fayette.html",
-   "https://www.jobteaser.com/fr/job-offers/f822d849-482e-47ec-b4b5-2c8662008ae4-danone-internship-strategic-insights-analytics-global-dairy-team-july-2026-m-w"
+   "https://www.jobteaser.com/fr/job-offers/f822d849-482e-47ec-b4b5-2c8662008ae4-danone-internship-strategic-insights-analytics-global-dairy-team-july-2026-m-w",
+   "https://www.foodbev.com/news/danone-reports-4-sales-growth-in-third-quarter-coo-vikram-agarwal-to-retire"
   ],
-  "updatedAt": "2026-10-20T11:11:27+02:00"
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  },
  {
   "id": "renault-group",
@@ -1675,7 +1700,8 @@
    "Deloitte Strategy",
    "Deloitte Stratégie et croissance",
    "Monitor Group",
-   "Deloitte Digital"
+   "Deloitte Digital",
+   "Deloitte Belgium (Strategy / Monitor Deloitte)"
   ],
   "type": "Big4 strategy arm",
   "hq": "Deloitte France: Paris La Défense (Deloitte global: London)",
@@ -3781,7 +3807,8 @@
   "id": "talan",
   "name": "Talan",
   "aliases": [
-   "Talan Consulting"
+   "Talan Consulting",
+   "Nova Consulting (Talan)"
   ],
   "type": "Big4 strategy arm",
   "hq": "Paris, France",
@@ -4673,5 +4700,509 @@
   ],
   "id": "grab",
   "updatedAt": "2026-11-09T08:39:15+01:00"
+ },
+ {
+  "id": "thales-alenia-space",
+  "name": "Thales Alenia Space",
+  "aliases": [
+   "TAS",
+   "Thales Alenia Space France",
+   "Thales Alenia Space Italia",
+   "Thales Alenia"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Cannes, France (corporate headquarters, Cannes site, per company press release, Jun 2026)",
+  "paris": "No Paris HQ: corporate HQ and a major satellite integration plant (~15,000 m² of clean rooms) are in Cannes, and the Strategy Directorate's internships (Strategy & Sustainability, Space Business Catalyst) are posted in Toulouse (2026). Part of the Paris-listed Thales group.",
+  "founded": "2007 (successor to Alcatel Alenia Space)",
+  "employees": "8,000+ in 7 countries, 14 sites in Europe (2026 company boilerplate)",
+  "revenue": "€2.36bn consolidated revenue (2025)",
+  "ownership": "Joint venture of Thales (67%) and Leonardo (33%); forms the 'Space Alliance' with Telespazio. Due to be folded into a new Airbus-Thales-Leonardo space company (Airbus 35%, Thales 32.5%, Leonardo 32.5%) expected to start in 2027",
+  "description": "A European satellite maker and space systems prime covering telecommunications, navigation, Earth observation, defence, exploration, science and orbital infrastructure. It builds satellites, payloads and instruments for ESA, the EU (Galileo, Copernicus, IRIS²), national agencies and defence ministries.",
+  "sectors": [
+   "Aerospace & defence",
+   "Space / satellites",
+   "Earth observation",
+   "Telecommunications",
+   "Navigation"
+  ],
+  "health": "Revenue reached €2.36bn in 2025 and the order book kept filling in 2026: first tranche of a €700m ESA contract for two Copernicus Sentinel-1 NG satellites (Jun 2026), digital payloads for 330 IRIS² satellites (Sep 2026), two more Galileo G2 satellites (Oct 2026) and the French DGA's IRIS military optical programme (Nov 2026). Strategically, Airbus, Thales and Leonardo agreed in Oct 2025 to merge their space businesses into a Toulouse-based venture with ~€6.5bn revenue (2024 basis) and ~25,000 staff, targeting a 2027 start subject to EU and government approvals; the three partners had already cut ~3,000 space jobs combined.",
+  "news": [
+   {
+    "date": "2026-11-17",
+    "title": "Thales Alenia Space to develop an L-band Synthetic Aperture Radar satellite for the Italian Space Agency",
+    "url": "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-develop-l-band-synthetic-aperture-radar-satellite-italian-space"
+   },
+   {
+    "date": "2026-11-09",
+    "title": "Thales Alenia Space at the heart of the future IRIS military optical observation program",
+    "url": "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-heart-future-iris-military-optical-observation-program"
+   },
+   {
+    "date": "2026-10-27",
+    "title": "Two additional Galileo Second Generation satellites awarded to Thales Alenia Space",
+    "url": "https://www.thalesaleniaspace.com/en/press-releases/two-additional-galileo-second-generation-satellites-awarded-thales-alenia-space"
+   },
+   {
+    "date": "2026-09-10",
+    "title": "Thales Alenia Space to provide digital and secure payloads for 330 IRIS² telecommunications satellites in Low Earth Orbit",
+    "url": "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-provide-digital-and-secure-payloads-330-iris2-telecommunications"
+   }
+  ],
+  "recruiting": "Two 6-month strategy internships in Toulouse in the Strategy Directorate, both listed on stage.fr (added 17 Nov 2026): 'Analyste Stratégie & Sustainability' (Innovation & Sustainability team: space-sector sustainability trends, sustainability value proposition, strategic watch) and 'Analyste Stratégie et Innovation – Space BU' (Space Business Catalyst programme: benchmark startup studios and accelerators, export strategy, startup sourcing and assessment). Process not published.",
+  "tinoAngle": "Your AFOCO project on valorising industrial ash and your interest in open innovation fit directly with the Toulouse Strategy Directorate's two openings, one on space sustainability and one on scouting startups for the Space Business Catalyst, at a moment when the 2027 Airbus-Thales-Leonardo merger makes strategy work especially visible.",
+  "careersUrl": "https://www.stage.fr/job/24503635/stage-analyste-strat%C3%A9gie-sustainability-f-h-f-stage/",
+  "website": "https://www.thalesaleniaspace.com",
+  "sources": [
+   "https://www.thalesaleniaspace.com/en/press-releases",
+   "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-awarded-contract-prime-contractor-two-copernicus-sentinel-1-ng",
+   "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-heart-future-iris-military-optical-observation-program",
+   "https://www.thalesaleniaspace.com/en/press-releases/two-additional-galileo-second-generation-satellites-awarded-thales-alenia-space",
+   "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-welcomes-prestigious-delegation-italian-and-french-ministers-its",
+   "https://www.thalesaleniaspace.com/en/press-releases/thales-alenia-space-coordinate-eross-sc-orbit-servicing-project",
+   "https://www.thestar.com.my/tech/tech-news/2025/10/23/europe-firms-agree-satellite-merger-to-counter-starlink",
+   "https://dig.watch/updates/airbus-leonardo-and-thales-merge-space-units-for-2027-launch",
+   "https://wikiwand.com/EN/Thales_Alenia_Space"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "axa",
+  "name": "AXA",
+  "aliases": [
+   "AXA Group",
+   "AXA SA",
+   "AXA France",
+   "AXA Group Operations",
+   "AXA GO",
+   "AXA XL",
+   "AXA Climate"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (AXA SA, listed on Euronext Paris, ticker CS)",
+  "paris": "Group head office in Paris; AXA Group Operations' GO Strategy team recruits strategy interns in Paris and AXA France runs strategic-project internships in Nanterre (Nov 2026).",
+  "founded": "1985 (AXA name launched; roots in Ancienne Mutuelle de Rouen, early 19th century)",
+  "employees": "156,000 worldwide; 92m+ clients in 52 countries (Sep 2026 boilerplate)",
+  "revenue": "€116bn gross written premiums and other revenues (2025, +6%); €93.0bn for 9M 2026 (+5% comparable)",
+  "ownership": "Publicly listed on Euronext Paris (compartment A); widely held",
+  "description": "One of the world's largest insurers, active in property & casualty (retail, SME, mid-market and commercial lines via AXA XL), life & savings and health. Its 2027-2029 plan 'Growing Forward' puts AI, technical excellence and protection needs at the centre of its strategy.",
+  "sectors": [
+   "Insurance",
+   "Financial services",
+   "Health insurance",
+   "Reinsurance / commercial risk",
+   "Insurtech & AI"
+  ],
+  "health": "AXA posted €8.4bn underlying earnings in 2025 (+6%) on €116bn revenue, with a 224% Solvency II ratio at end-2025, and grew 9M 2026 revenue 5% to €93.0bn while confirming ~€8.6bn underlying earnings for 2026; Solvency II slipped to 213% at 30 Sep 2026 on market moves. The 'Growing Forward' plan (15 Sep 2026) targets 7-9% underlying EPS CAGR, 15-17% underlying ROE and ~€25bn cumulative cash upstream over 2027-2029, plus €500-700m of annual recurring pre-tax AI benefits by 2029. It is rated AA- (S&P), Aa2 (Moody's) and A+ (AM Best) as of 2026.",
+  "news": [
+   {
+    "date": "2026-10-29",
+    "title": "AXA 9M26 activity indicators: revenue up 5% to €93.0bn, 2026 targets confirmed",
+    "url": "https://www.webdisclosure.com/press-release/axa-9m26-activity-indicators-ZN82DfEAhPS"
+   },
+   {
+    "date": "2026-09-15",
+    "title": "AXA announces its 2027-2029 strategy 'Growing Forward' and financial targets",
+    "url": "https://webdisclosure.com/press-release/axa-epa-cs-axa-announces-its-2027-2029-strategy-and-financial-targets-6tRsAJ66Np9"
+   },
+   {
+    "date": "2026-09-08",
+    "title": "AXA and Publicis Sapient collaborate to deploy Global AI Hub at scale",
+    "url": "https://www.axa.com/press/press-releases/axa-and-publicis-sapient-collaborate-to-deploy-global-ai-hub-at-scale"
+   },
+   {
+    "date": "2026-08-06",
+    "title": "AXA XL to acquire S-RM, a global corporate intelligence and cyber security consultancy",
+    "url": "https://axaxl.com/press-releases/axa-xl-to-acquire-srm-a-global-corporate-intelligence-and-cyber-security-consultancy"
+   }
+  ],
+  "recruiting": "Two strategy internships currently listed: 'Strategy Analyst' in the GO Strategy team of AXA Group Operations, Paris (tracking strategic initiatives, governance and risks, consolidating progress reports; added 10 Nov 2026, via Wizbii), and 'Chargé de projets stratégiques' at AXA France, Nanterre (new CRM and digital client platform, data project, change-management workshops; added 15 Nov 2026, via Welcome to the Jungle). Process not published.",
+  "tinoAngle": "Your interest in AI strategy fits AXA as it starts a 2027-2029 plan built around €500-700m of yearly AI benefits, and a strategy internship in Paris starting January 2027 would place you in the first year of the 'Growing Forward' rollout.",
+  "careersUrl": "https://en.wizbii.com/company/axa/job/stage-strategy-analyst",
+  "website": "https://www.axa.com",
+  "sources": [
+   "https://www.webdisclosure.com/press-release/axa-9m26-activity-indicators-ZN82DfEAhPS",
+   "https://webdisclosure.com/press-release/axa-epa-cs-axa-announces-its-2027-2029-strategy-and-financial-targets-6tRsAJ66Np9",
+   "https://www.axa.com/press/press-releases/2025-full-year-earnings",
+   "https://www.axa.com/news/half-year-earnings-2026-news",
+   "https://www.axa.com/press/press-releases/axa-and-publicis-sapient-collaborate-to-deploy-global-ai-hub-at-scale",
+   "https://axaxl.com/press-releases/axa-xl-to-acquire-srm-a-global-corporate-intelligence-and-cyber-security-consultancy",
+   "https://www.axa.com/en/timeline/axa-adventure"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "ovrsea",
+  "name": "OVRSEA",
+  "aliases": [
+   "Ovrsea",
+   "Foresea Technologies",
+   "Fatton Lyseo Ovrsea",
+   "Fatton Lyseo"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Paris, France (OVRSEA; the merged Fatton Lyseo Ovrsea group communicates from Paris and Lyon, 2026)",
+  "paris": "OVRSEA's teams are based in Paris (10e), where its Business & Strategy Analyst internships are located (2026); other OVRSEA offices are in Marseille, Barcelona, Milan and Miami.",
+  "founded": "2017 (by five co-founders incl. CEO Arthur Barillas)",
+  "employees": "OVRSEA: 150+ in Europe and the US (careers page, 2026); merged group: 1,000+ (Jan 2026)",
+  "revenue": "Merged Fatton Lyseo + OVRSEA group: nearly €350m (2025); OVRSEA standalone: Not disclosed",
+  "ownership": "Private. Bolloré Logistics took a majority stake in Feb 2021; in Jan 2026 OVRSEA combined with Lyon-based Fatton Lyseo into a group described as 100% French-owned (shareholding split not disclosed)",
+  "description": "A digital freight forwarder that combines a tech platform with shipping expertise for ocean and air freight, customs, inventory management and cargo insurance, serving 700+ companies (e.g. LVMH, Yves Rocher, Christian Louboutin). Since January 2026 it is part of a combined group with traditional forwarder Fatton Lyseo, now 61 offices in 14 countries.",
+  "sectors": [
+   "Logistics & freight forwarding",
+   "Supply chain tech / SaaS",
+   "Customs",
+   "International trade"
+  ],
+  "health": "The January 2026 merger with Fatton Lyseo created a group with nearly €350m revenue (2025), 1,000+ staff, 61 offices in 14 countries, 120,000 m² of warehouses and ~50,000 containers a year, aiming to enter France's top 10 logistics players through organic and external growth; Sylvain Fatton chairs it and OVRSEA's Arthur Barillas is managing director. The group kept expanding in 2026, opening its first Belgian office in Antwerp in Oct 2026 with a goal of 300 Belgian clients by end-2027. Profitability is not disclosed.",
+  "news": [
+   {
+    "date": "2026-10-20",
+    "title": "Fatton Lyseo Ovrsea opens its first Belgian office in Antwerp",
+    "url": "https://supplychainmagazine.fr/fatton-lyseo-ovrsea-simplante-a-anvers/"
+   },
+   {
+    "date": "2026-01-14",
+    "title": "Advisers named on the Fatton Lyseo–OVRSEA strategic combination",
+    "url": "https://www.lemondedudroit.fr/deals/102461-fbl-avocats-aux-cotes-du-groupe-fatton-lyseo-dans-le-cadre-de-son-rapprochement-avec-ovrsea.html"
+   },
+   {
+    "date": "2026-01-08",
+    "title": "Fatton Lyseo and OVRSEA merge to create a French logistics group with ~€350m revenue",
+    "url": "https://classe-export.com/index.php/communautetransport/ctcp/100264-communique-de-presse-fatton-ovrsea-lyseo-08-01-2026/"
+   }
+  ],
+  "recruiting": "'Internship – Business & Strategy Analyst (January 2027)' in Paris (Business Performance / RevOps team, hybrid): KPI modelling for sales, operations and procurement, improvement projects (automation, AI applied to processes, training) and monthly performance reviews; listed on Lever (added 14 Nov 2026) and Welcome to the Jungle. OVRSEA's stated process: talent call, hiring-manager interview, take-home case, case debrief, in-person 'speed round' with 4 people from 4 teams, feedback, offer.",
+  "tinoAngle": "Your import/export logistics internship and your Singapore experience give you real-world credibility for a January 2027 Business & Strategy Analyst role at a Paris freight-tech scale-up that is integrating a 1,000-person traditional forwarder and applying AI to its processes.",
+  "careersUrl": "https://www.ovrsea.com/en/careers",
+  "website": "https://www.ovrsea.com",
+  "sources": [
+   "https://www.ovrsea.com/en",
+   "https://www.ovrsea.com/en/careers",
+   "https://classe-export.com/index.php/communautetransport/ctcp/100264-communique-de-presse-fatton-ovrsea-lyseo-08-01-2026/",
+   "https://www.voxlog.fr/actualite/10515/ovrsea-et-fatton-lyseo-fusionnent",
+   "https://supplychainmagazine.fr/fatton-lyseo-ovrsea-simplante-a-anvers/",
+   "https://www.lemondedudroit.fr/deals/102461-fbl-avocats-aux-cotes-du-groupe-fatton-lyseo-dans-le-cadre-de-son-rapprochement-avec-ovrsea.html",
+   "https://www.cfnews.net/L-actualite/M-A-Corporate/Operations/Fusion/Ovrsea-et-Fatton-Lyseo-arrimes-au-meme-capital-554265",
+   "https://www.cambonpartners.com/en/transactions/ovrsea-sold-to-bollor",
+   "https://www.maddyness.com/2022/01/13/1-an-apres-son-association-avec-bollore-logistics-ovrsea-dresse-le-bilan/"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "cma-cgm",
+  "name": "CMA CGM",
+  "aliases": [
+   "CMA CGM Group",
+   "CMA Conseil",
+   "CMA Consulting",
+   "CEVA Logistics",
+   "CMA CGM Air Cargo",
+   "Bolloré Logistics"
+  ],
+  "type": "Internal consulting",
+  "hq": "Marseille, France (Tour CMA CGM, ~2,400 staff at head office)",
+  "paris": "Head office and the internal strategy unit CMA Conseil are in Marseille (internship based there, 2026); the group also owns French media such as La Tribune and RMC BFM. Paris-area corporate offices are not detailed in the sources consulted.",
+  "founded": "1978 (Marseille, by Jacques Saadé, as Compagnie Maritime d'Affrètement)",
+  "employees": "~160,000 (2025 results release, Mar 2026); 19,100 direct jobs in France (Nov 2026)",
+  "revenue": "$54.4bn (2025, -2.0%); Q3 2026 revenue $18.40bn (+31.1% y/y)",
+  "ownership": "Private, family-controlled: Saadé family ~73% (via Merit France), Yildirim Holding ~24%, Bpifrance ~3% (per Wikipedia)",
+  "description": "The world's third-largest container shipping line, now an integrated sea, land, air and logistics group through CEVA Logistics, Bolloré Logistics (acquired 2024), 66 port terminals and CMA CGM Air Cargo. Its internal strategy unit, CMA Conseil, advises top management on M&A integration, expansion and transformation projects.",
+  "sectors": [
+   "Shipping & maritime",
+   "Logistics & supply chain",
+   "Port terminals",
+   "Air cargo",
+   "Media"
+  ],
+  "health": "2025 revenue was $54.4bn (-2.0%) with $10.6bn EBITDA (19.4% margin) on 24.2m TEU carried. Q3 2026 rebounded sharply: revenue $18.40bn (+31.1%), EBITDA $4.78bn (25.9% margin) and net income $2.32bn vs $0.76bn a year earlier, on 6.51m TEU (+5.5%). The group keeps acquiring, closing FedEx Supply Chain ($1.4bn EV, Oct 2026) and agreeing to buy Fattal Group (Apr 2026), while rolling out LNG-powered ships, alternative fuels and an agentic AI platform (MAIA) co-developed with Mistral AI.",
+  "news": [
+   {
+    "date": "2026-11-13",
+    "title": "CMA CGM Group: Third Quarter 2026 Financial Results – net income $2.32bn",
+    "url": "https://www.ajot.com/news/cma-cgm-q3-2026-results"
+   },
+   {
+    "date": "2026-10-03",
+    "title": "CMA CGM Group completes acquisition of FedEx Supply Chain",
+    "url": "https://maritime-executive.com/article/cma-cgm-group-completes-acquisition-of-fedex-supply-chain"
+   },
+   {
+    "date": "2026-04-14",
+    "title": "CMA CGM and Fattal announce the acquisition of Fattal Group by CMA CGM Group",
+    "url": "https://www.cmacgm-group.com/en/news-media/cma-cgm-and-fattal-announce-acquisition-fattal-group-cma-cgm-group"
+   },
+   {
+    "date": "2026-03-06",
+    "title": "CMA CGM annual financial results 2025: revenue $54.4bn",
+    "url": "https://www.cmacgm-group.com/en/news-media/annual-financial-results-2025"
+   }
+  ],
+  "recruiting": "'Group Strategic Advisory Intern' in CMA Conseil, Marseille: 6 months from January 2027; market research, benchmarks, executive slides and KPI tracking on M&A integration, geographic expansion, restructuring, HR transformation and customer experience; top business-school Master, fluent French and English, prior consulting/IB/strategy experience desirable (Wizbii, added 18 Nov 2026). Process not published.",
+  "tinoAngle": "Your import/export logistics internship and Singapore experience match CMA CGM's sea-to-logistics business, and CMA Conseil's January 2027 internship would let you work on the integration of acquisitions like FedEx Supply Chain, or on its alternative-fuels push, which ties in with your AFOCO waste-valorisation work.",
+  "careersUrl": "https://en.wizbii.com/company/stage/job/group-strategic-advisory-intern-h-f",
+  "website": "https://www.cmacgm-group.com",
+  "sources": [
+   "https://www.ajot.com/news/cma-cgm-q3-2026-results",
+   "https://www.cmacgm-group.com/en/news-media/annual-financial-results-2025",
+   "https://maritime-executive.com/article/cma-cgm-group-completes-acquisition-of-fedex-supply-chain",
+   "https://www.cmacgm-group.com/en/news-media/cma-cgm-and-fattal-announce-acquisition-fattal-group-cma-cgm-group",
+   "https://www.cmacgm-group.com/en/group-and-vision/our-history",
+   "https://en.wikipedia.org/wiki/CMA_CGM",
+   "https://en.wizbii.com/company/stage/job/group-strategic-advisory-intern-h-f"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "ipsen",
+  "name": "Ipsen",
+  "aliases": [
+   "Ipsen S.A.",
+   "Ipsen Pharma",
+   "Ipsen Group",
+   "Ipsen Biopharmaceuticals"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Boulogne-Billancourt (Paris area), France – 65 quai Georges Gorse, 92100",
+  "paris": "Global HQ in Boulogne-Billancourt next to Paris, one of Ipsen's three global hubs (US, France, UK); the Paris-based Strategy & Transformation team currently recruits interns (Nov 2026).",
+  "founded": "1929",
+  "employees": "5,325 (StockAnalysis company profile, year not stated); teams in 40+ countries (2026)",
+  "revenue": "€3,675.9m total sales in FY2025 (+10.9% at CER); €3,364.2m in 9M 2026 (+24.6% at CER)",
+  "ownership": "Listed on Euronext Paris (IPN) with a Sponsored Level I ADR in the US (IPSEY); shareholder breakdown Not disclosed in sources consulted",
+  "description": "Ipsen is a global specialty biopharmaceutical company focused on oncology, rare diseases and neuroscience, whose medicines reach patients in 100+ countries. Its pipeline is fuelled by both internal R&D and external innovation (acquisitions and in-licensing).",
+  "sectors": [
+   "Healthcare",
+   "Biopharmaceuticals",
+   "Oncology",
+   "Rare diseases",
+   "Neuroscience"
+  ],
+  "health": "Ipsen is in a strong growth phase: FY2025 sales reached €3,675.9m (+10.9% at CER) with a 35.2% core operating margin, and 9M 2026 sales rose 24.6% at CER to €3,364.2m. On 22 Oct 2026 it raised 2026 guidance for the second time (sales growth ~23% at CER, core operating margin ~39%) despite a lanreotide generic expected in Q4 2026. It is actively buying growth: Memo Therapeutics (€200m upfront, completed Jul 2026) and Kartos Therapeutics ($450m upfront plus up to $1.3bn milestones, completed 21 Aug 2026), with H1 2026 net cash of €1,004.9m.",
+  "news": [
+   {
+    "date": "2026-10-22",
+    "title": "Ipsen sales up 24.6% over nine months, annual targets raised again",
+    "url": "https://www.ideal-investisseur.fr/en/stock-news/ipsen-sales-up-24-6-over-nine-months-annual-targets-raised/27698.html"
+   },
+   {
+    "date": "2026-08-21",
+    "title": "Ipsen completes acquisition of Kartos Therapeutics, strengthening late-stage oncology pipeline",
+    "url": "https://www.bnnbloomberg.ca/press-releases/2026/08/21/ipsen-completes-acquisition-of-kartos-therapeutics-strengthening-late-stage-oncology-pipeline/"
+   },
+   {
+    "date": "2026-07-30",
+    "title": "Ipsen delivers excellent H1 2026 results and upgrades its full-year guidance",
+    "url": "https://www.ipsen.com/press-release/ipsen-delivers-excellent-h1-2026-results-and-upgrades-its-full-year-guidance-3335743/"
+   },
+   {
+    "date": "2026-02-12",
+    "title": "Ipsen FY 2025 results: sales growth of 10.9% at CER",
+    "url": "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf"
+   }
+  ],
+  "recruiting": "Internship 'Stagiaire Stratégie et Transformation' in Paris (listed on the site 21 Nov 2026): PMO support on strategic projects, data consolidation and analysis, market and competitor benchmarks and executive presentations. Process and start date not published in the listing.",
+  "tinoAngle": "Your strategy-consulting Master and your AFOCO project-lead experience (structuring a CSR valorisation project end to end) map directly onto the PMO and benchmarking work of Ipsen's Strategy & Transformation team, at a moment when two acquisitions in 2026 make integration and transformation projects a priority.",
+  "careersUrl": "https://www.getclera.com/jobs/ipsen/stagiaire-strat-gie-et-transformation",
+  "website": "https://www.ipsen.com",
+  "sources": [
+   "https://live.euronext.com/pt-pt/listview/company-press-release/123114",
+   "https://live.euronext.com/en/listview/company-press-release/123114?page=1",
+   "https://www.ideal-investisseur.fr/en/stock-news/ipsen-sales-up-24-6-over-nine-months-annual-targets-raised/27698.html",
+   "https://www.ipsen.com/wp-content/uploads/2026/02/Ipsen-PR_FY-2025-Results-Announcement_12022026.pdf",
+   "https://www.ipsen.com/press-release/ipsen-delivers-excellent-h1-2026-results-and-upgrades-its-full-year-guidance-3335743/",
+   "https://www.bnnbloomberg.ca/press-releases/2026/08/21/ipsen-completes-acquisition-of-kartos-therapeutics-strengthening-late-stage-oncology-pipeline/",
+   "https://stockanalysis.com/quote/lon/0MH6/company"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "bearingpoint",
+  "name": "BearingPoint",
+  "aliases": [
+   "BearingPoint France",
+   "BearingPoint Europe",
+   "BearingPoint B.V.",
+   "BearingPoint Consulting"
+  ],
+  "type": "Strategy consulting – Tier 2",
+  "hq": "Amsterdam, Netherlands",
+  "paris": "Office in Paris La Défense hosting a Strategy & Performance community that recruits 6-month interns (2026); three Paris-based consultants were among the 14 new global partners admitted in July 2026.",
+  "founded": "2009 as an independent partnership (management buyout of the European business, ~€70m); roots in KPMG Consulting, renamed BearingPoint in 2001",
+  "employees": "6,200 (company profile, May 2026); 15,000+ together with alliance partner ABeam Consulting",
+  "revenue": "€1.026bn (FY2025); €1,068m (FY2024)",
+  "ownership": "Private, independent and owned by its partners (since the 2009 buyout)",
+  "description": "BearingPoint is an independent European management and technology consultancy that combines strategy, performance and operating-model work with technology-led transformation (SAP, Microsoft, data and AI). It serves clients in 70+ countries together with its Japanese alliance partner ABeam Consulting and runs joint ventures such as Arcwide (with IFS).",
+  "sectors": [
+   "Management consulting",
+   "Technology consulting",
+   "Financial services",
+   "Public sector",
+   "Consumer goods & retail",
+   "Energy & utilities"
+  ],
+  "health": "BearingPoint posted €1.026bn revenue in FY2025, its third straight year above €1bn, with 2,200+ projects in 26 countries, and reported nearly €1.3bn of bookings early in 2026 including 320 new clients (Mar 2026). Its Strategy 2030 targets €2bn of profitable revenue, AI-enabled consulting (aiming for AI to be 25% of the business) and international expansion via the ABeam alliance and joint ventures. It is a certified B Corporation (2026 Sustainability Report).",
+  "news": [
+   {
+    "date": "2026-10-08",
+    "title": "BearingPoint analysis: AI delivers value, but only 13% of organizations scale as planned",
+    "url": "https://www.consultancy.eu/news/14426/bearingpoint-analysis-ai-delivers-value-but-only-13-of-organizations-scale-as-planned"
+   },
+   {
+    "date": "2026-07-08",
+    "title": "BearingPoint admits 14 new members to its partnership worldwide",
+    "url": "https://www.consultancy.eu/news/14043/bearingpoint-admits-14-new-members-to-its-partnership-worldwide"
+   },
+   {
+    "date": "2026-05-14",
+    "title": "BearingPoint publishes its Annual Report and Sustainability Report",
+    "url": "https://www.businesswire.com/news/home/20260514366956/en/BearingPoint-publishes-its-Annual-Report-and-Sustainability-Report-further-strengthening-its-position-as-a-leading-European-business-transformation-firm-with-global-relevance"
+   },
+   {
+    "date": "2026-03-11",
+    "title": "BearingPoint delivers over €1 billion in revenue for the third year running",
+    "url": "https://www.consultancy.eu/news/13328/bearingpoint-delivers-over-1-billion-in-revenue-for-the-third-year-running"
+   }
+  ],
+  "recruiting": "'Consultant stagiaire Strategy & Performance (H/F)', Paris La Défense (listed 21 Nov 2026): 6-month internship on strategic planning, growth levers, performance plans, cost/process optimisation and target operating models for client executives. Posted on Welcome to the Jungle; process not published in the listing.",
+  "tinoAngle": "Your interest in AI strategy fits BearingPoint's 2030 plan to make AI a quarter of its business, and its Strategy & Performance internship (growth levers, target operating models) is a concrete entry point to Tier-2 strategy consulting from your Master.",
+  "careersUrl": "https://www.welcometothejungle.com/en/companies/bearingpoint-france/jobs/consultant-stagiaire-strategy-performance-h-f_paris-la-defense",
+  "website": "https://www.bearingpoint.com",
+  "sources": [
+   "https://www.consultancy.eu/news/13328/bearingpoint-delivers-over-1-billion-in-revenue-for-the-third-year-running",
+   "https://www.businesswire.com/news/home/20260514366956/en/BearingPoint-publishes-its-Annual-Report-and-Sustainability-Report-further-strengthening-its-position-as-a-leading-European-business-transformation-firm-with-global-relevance",
+   "https://www.consulting.us/firms/bearingpoint/global-news",
+   "https://www.consultancy.eu/news/14426/bearingpoint-analysis-ai-delivers-value-but-only-13-of-organizations-scale-as-planned",
+   "https://www.consultancy.eu/news/14043/bearingpoint-admits-14-new-members-to-its-partnership-worldwide",
+   "https://www.consultancy.eu/news/1131/the-history-of-management-and-technology-consultancy-bearingpoint"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "allianz",
+  "name": "Allianz",
+  "aliases": [
+   "Allianz SE",
+   "Allianz Group",
+   "Allianz France",
+   "Allianz Asia Pacific",
+   "Allianz Global Investors",
+   "Allianz Partners",
+   "Allianz Direct"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Munich, Germany",
+  "paris": "Allianz France is based at 1 cours Michelet, Paris La Défense (2026); France-specific headcount and revenue Not disclosed in sources consulted.",
+  "founded": "Not disclosed (in sources consulted)",
+  "employees": "About 156,000 worldwide (2025)",
+  "revenue": "€186.9bn total business volume in FY2025 (+4%); €143bn in 9M 2026 (+1.2%)",
+  "ownership": "Publicly listed (Allianz SE)",
+  "description": "Allianz is one of the world's largest insurers and asset managers, active in property-casualty, life/health and asset management (PIMCO and Allianz Global Investors manage ~€2.2tn of third-party assets, Sep 2026). It serves nearly 128 million clients and has been ranked the No.1 global insurance brand by Interbrand for eight consecutive years (2026).",
+  "sectors": [
+   "Insurance",
+   "Financial services",
+   "Asset management",
+   "Reinsurance"
+  ],
+  "health": "Allianz is very profitable and well capitalised: FY2025 operating profit was €17.4bn (+8.4%), net income €11.4bn and Solvency II ratio 218%, with a €2.5bn buyback (Mar 2026). On 11 Nov 2026 it reported a record 9M 2026 operating profit of €14.1bn (+7.8%) and raised the upper end of its 2026 outlook to ~€18.6bn. It keeps expanding in Asia, agreeing on 24 Jul 2026 to buy HSBC Life Singapore plus a 15-year HSBC distribution deal for €2.0bn (closing expected H1 2027).",
+  "news": [
+   {
+    "date": "2026-11-11",
+    "title": "Allianz delivers record nine-month result of 14.1 billion euros and raises 2026 outlook",
+    "url": "https://www.allianz.com/en/mediacenter/news/media-releases/financials/261111-announcement.html"
+   },
+   {
+    "date": "2026-10-28",
+    "title": "Further up – Allianz reaches highest-ever brand value of $30.7 billion",
+    "url": "https://www.allianz.com/en/mediacenter/news/media-releases/261028-allianz-erreicht-den-hoechsten-markenwert-ihrer-geschichte.html"
+   },
+   {
+    "date": "2026-07-24",
+    "title": "Allianz to acquire HSBC Life Singapore and enter a new long-term distribution partnership with HSBC Singapore",
+    "url": "https://www.allianz.com/en/mediacenter/news/media-releases/financials/260724-allianz-to-acquire-hsbc-life-singapore-and-enter-a-new-long-term-distribution-partnership-with-hsbc-singapore.html"
+   },
+   {
+    "date": "2026-01-22",
+    "title": "Allianz invests in the 500 MW Îles d'Yeu et Noirmoutier offshore wind farm in France",
+    "url": "https://www.allianz.com/de/mediencenter/news/medienmitteilungen/260122-allianz-investiert-500mw-franzoesischer-offshore-windpark.html"
+   }
+  ],
+  "recruiting": "'Intern, Corporate Strategy & Distribution Growth, Asia' in Singapore (listed 23 Oct 2026): KPI and competitor dashboards, Asian insurance market trends, agency/bancassurance data analysis, support to the distribution transformation strategy and market development pitches. Process not published in the listing.",
+  "tinoAngle": "Your 6-month internship in Singapore is a direct asset for Allianz's Singapore-based Corporate Strategy & Distribution Growth internship, just as the HSBC Life Singapore deal and its 15-year bancassurance partnership make distribution strategy in Asia a top priority.",
+  "careersUrl": "https://internal-careers.allianz.com/job/Singapore-Intern-Corporate-Strategy-&-Distribution-Growth%2C-Asia-068897/1419655033/",
+  "website": "https://www.allianz.com",
+  "sources": [
+   "https://www.allianz.com/en/mediacenter/news/media-releases/financials/261111-announcement.html",
+   "https://www.reinsurancene.ws/allianz-posts-record-e14-1bn-9m26-operating-profit/",
+   "https://atlas-mag.net/fr/articles/allianz-resultats-au-31122025",
+   "https://www.allianz.com/en/mediacenter/news/media-releases/financials/260724-allianz-to-acquire-hsbc-life-singapore-and-enter-a-new-long-term-distribution-partnership-with-hsbc-singapore.html",
+   "https://www.allianz.com/de/mediencenter/news/medienmitteilungen/260122-allianz-investiert-500mw-franzoesischer-offshore-windpark.html",
+   "https://www.allianz.com/content/onemarketing/azcom/Allianz_com/en/mediacenter/news/media-releases.html",
+   "https://www.allianz.fr/qui-est-allianz/nous-connaitre/allianz-dans-le-monde.html",
+   "https://www.allianz.com/en/about-us/company/contact/france.html"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
+ },
+ {
+  "id": "egis",
+  "name": "Egis",
+  "aliases": [
+   "Egis Group",
+   "Egis SA",
+   "Groupe Egis",
+   "Egis Conseil",
+   "Lochner (Egis)"
+  ],
+  "type": "Corporate strategy",
+  "hq": "Guyancourt (Saint-Quentin-en-Yvelines, Paris region), France – per Egis website contact page",
+  "paris": "Group head office in the Paris region (Guyancourt); the group strategy team recruits an end-of-studies 'Stagiaire Analyste Stratégique' in Paris/Île-de-France (Oct 2026). Egis ranked 1st in France in ENR's 2026 Top 150 Global Design Firms.",
+  "founded": "Not disclosed (in sources consulted)",
+  "employees": "23,500+ (2025)",
+  "revenue": "€2.389bn in 2025 (+10.4%; net revenue €2.074bn, +11.2%)",
+  "ownership": "Private: Tikehau Capital 40%, Caisse des Dépôts 34%, executive partners and employees 26% (as of Jan 2022 transaction completion)",
+  "description": "Egis is a global architecture, consulting, construction engineering and operating firm working on transport, infrastructure, water, energy and the built environment in 70+ countries. It also operates infrastructure such as motorways and airports, and 54% of its 2025 turnover came from projects contributing to the ecological and energy transition.",
+  "sectors": [
+   "Engineering & infrastructure",
+   "Transport",
+   "Energy transition",
+   "Water & environment",
+   "Buildings & architecture",
+   "Infrastructure operations"
+  ],
+  "health": "Egis grew 2025 revenue 10.4% to €2.389bn (1.9% organic), with order intake above €3bn and a record €5.4bn backlog (+35%), helped by eight acquisitions including US firm Lochner, its largest ever (Apr 2026). In May 2026 it issued its first public bond, €450m at 5.125% over 5 years, five times oversubscribed, to refinance the Lochner bridge loan. It rose to 15th in ENR's 2026 global design ranking (Aug 2026) and plans to expand in energy (nuclear, transmission, renewables) and AI in 2026.",
+  "news": [
+   {
+    "date": "2026-10-15",
+    "title": "Egis appoints Jon Moretta as Chief Executive Officer in the United States",
+    "url": "https://www.webull.com/news/15752393056068608"
+   },
+   {
+    "date": "2026-08-28",
+    "title": "Egis rises to 15th place in ENR's global ranking of international design firms",
+    "url": "https://www.egis-group.com/all-news/egis-rises-to-15th-place-in-enr-s-global-ranking-of-international-design-firms"
+   },
+   {
+    "date": "2026-05-13",
+    "title": "Egis SA successfully enters the public bond market with a €450 million bond issue",
+    "url": "https://www.egis-group.com/all-news/egis-sa-successfully-enters-the-public-bond-market-with-a-450-million-bond-issue"
+   },
+   {
+    "date": "2026-04-14",
+    "title": "Egis reports strong 2025 results and accelerates its global expansion",
+    "url": "https://www.egis-group.com/all-news/egis-reports-strong-2025-results-and-accelerates-its-global-expansion"
+   }
+  ],
+  "recruiting": "'Stagiaire Analyste Stratégique H/F', Paris (Île-de-France) end-of-studies internship in the group strategy team (listed 27 Oct 2026): strategic-plan roll-out and KPI tracking, market studies and benchmarks, strategic-fit assessment of M&A targets, and board/ExCom presentations. Posted on Le Moniteur; process not published in the listing.",
+  "tinoAngle": "Your AFOCO work on industrial ash valorisation and your import/export logistics internship fit Egis's transition-driven strategy (54% of 2025 turnover from ecological-transition projects), and its acquisition-heavy growth makes the M&A strategic-fit work in this internship a strong learning ground.",
+  "careersUrl": "https://www.lemoniteur.fr/construction-et-talents/offre-emploi/offre-emploi-stagiaire-analyste-strategique-h-f-o-4343672",
+  "website": "https://www.egis-group.com",
+  "sources": [
+   "https://www.egis-group.com/all-news/egis-reports-strong-2025-results-and-accelerates-its-global-expansion",
+   "https://www.egis-group.com/all-news/egis-publishes-its-2025-annual-report",
+   "https://www.egis-group.com/all-news/egis-sa-successfully-enters-the-public-bond-market-with-a-450-million-bond-issue",
+   "https://www.egis-group.com/all-news/caisse-des-depots-and-tikehau-capital-announce-the-completion-of-tikehau-capitals-acquisition-of-a-stake-in-egis",
+   "https://www.egis-group.com/all-news/egis-rises-to-15th-place-in-enr-s-global-ranking-of-international-design-firms",
+   "https://www.webull.com/news/15752393056068608",
+   "https://www.egis-group.com/all-news/egis-has-entered-into-an-agreement-to-acquire-peracon-an-australian-engineering-consultancy-specializing-in-energy-transmission-and-distribution-td"
+  ],
+  "updatedAt": "2026-11-23T09:00:00+01:00"
  }
 ]
